@@ -52,20 +52,12 @@ func main() {
 	addWormHole(&mUniverse, "Blue", 0, 3)
 	addWormHole(&mUniverse, "Blue", 3, 4)
 	addWormHole(&mUniverse, "Yellow", 2, 0)
+	v1 := visit{color: 0, distance: 0, justArrived: true, galaxy: 0}
 
+	insertVisit(mUniverse.visits, v1)
 
-
-
-	fmt.Println(mUniverse.galaxies[0])
-	fmt.Println(mUniverse)
-	v1 := visit{color: 3, distance: 1, justArrived: false, galaxy: 1}
-	v2 := visit{color: 1, distance: 4, justArrived: false, galaxy: 1}
-	mPq := pq.New()
-	insertVisit(mPq, v1)
-	insertVisit(mPq, v2)
-	v3,_ := mPq.Pop()
-	fmt.Println(v3)
-
+	v3,err := mUniverse.visits.Pop()
+	fmt.Println(v3, err)
 }
 
 func addColorToUniverse (universe *universe, name string, number uint, primaries []string) {
