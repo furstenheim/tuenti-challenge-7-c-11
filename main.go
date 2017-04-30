@@ -8,6 +8,7 @@ type galaxy struct {
 	distances map[uint]uint32
 	charges map[uint]uint32
 	visited map[uint]bool
+	wormholes map[uint]([]uint) // galaxy and number of possible colors
 }
 
 type visit struct {
@@ -36,7 +37,24 @@ func main() {
 	addChargeToGalaxy(&mUniverse, 0, "Green", 10)
 	createGalaxy(&mUniverse)
 	addChargeToGalaxy(&mUniverse, 1, "Red", 15)
-	addChargeToGalaxy(&mUniverse, 0, "Green", 15)
+	addChargeToGalaxy(&mUniverse, 1, "Green", 15)
+	createGalaxy(&mUniverse)
+	addChargeToGalaxy(&mUniverse, 2, "Blue", 7)
+	addChargeToGalaxy(&mUniverse, 2, "Green", 5)
+	createGalaxy(&mUniverse)
+	addChargeToGalaxy(&mUniverse, 3, "Red", 11)
+	createGalaxy(&mUniverse)
+	addChargeToGalaxy(&mUniverse, 4, "Red", 10)
+	addChargeToGalaxy(&mUniverse, 4, "Green", 10)
+	addWormHole(&mUniverse, "Red", 0, 1)
+	addWormHole(&mUniverse, "Red", 3, 2)
+	addWormHole(&mUniverse, "Green", 1, 2)
+	addWormHole(&mUniverse, "Blue", 0, 3)
+	addWormHole(&mUniverse, "Blue", 3, 4)
+	addWormHole(&mUniverse, "Yellow", 2, 0)
+
+
+
 
 	fmt.Println(mUniverse.galaxies[0])
 	fmt.Println(mUniverse)
@@ -71,7 +89,7 @@ func addColorToUniverse (universe *universe, name string, number uint, primaries
 
 func createGalaxy (universe *universe) {
 	id := uint16(len(universe.galaxies))
-	mGalaxy := galaxy{id: id, distances: make(map[uint]uint32), charges: make(map[uint]uint32), visited: make(map[uint]bool)}
+	mGalaxy := galaxy{id: id, distances: make(map[uint]uint32), charges: make(map[uint]uint32), visited: make(map[uint]bool), wormholes: make(map[uint]([]uint))}
 	for _, color := range universe.color2id {
 		mGalaxy.visited[color] = false
 	}
@@ -81,8 +99,18 @@ func addChargeToGalaxy (universe *universe, galaxyId uint, color string, time ui
 	id := universe.color2id[color]
 	galaxy := universe.galaxies[galaxyId]
 	galaxy.charges[id] = time
+}
 
+func addWormHole (universe *universe, color string, start uint, end uint) {
+	id := universe.color2id[color]
+	galaxy := universe.galaxies[start]
 
+	_, ok := galaxy.wormholes[end]
+	if (ok) {
+		galaxy.wormholes[end] = []uint{id}
+	} else {
+		galaxy.wormholes[end] = append(galaxy.wormholes[end], id)
+	}
 }
 func insertVisit (pq pq.PriorityQueue, visit visit) {
 	pq.Insert(visit, visit.distance) // probably should consider color
