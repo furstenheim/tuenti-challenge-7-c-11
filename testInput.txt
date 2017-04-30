@@ -1,0 +1,12280 @@
+76
+4
+Red 0
+Green 0
+Blue 0
+Yellow 2 Red Green
+5
+2
+Red 10
+Green 10
+2
+Red 15
+Green 15
+2
+Blue 7
+Green 5
+1
+Red 11
+0
+6
+Red 0 1
+Red 3 2
+Green 1 2
+Blue 0 3
+Blue 3 4
+Yellow 2 0
+1
+Blue 0
+4
+1
+Blue 8
+1
+Blue 7
+1
+Blue 23
+1
+Blue 21
+7
+Blue 0 3
+Blue 3 2
+Blue 3 1
+Blue 1 2
+Blue 0 2
+Blue 2 0
+Blue 2 1
+2
+Green 0
+Blue 0
+3
+1
+Blue 17
+1
+Green 41
+1
+Green 27
+5
+Green 2 1
+Blue 0 2
+Green 0 1
+Green 2 0
+Green 0 2
+2
+Red 0
+Blue 0
+4
+1
+Red 14
+1
+Red 18
+1
+Blue 10
+1
+Red 24
+7
+Blue 2 3
+Blue 1 0
+Red 0 1
+Blue 3 0
+Blue 2 1
+Red 2 1
+Blue 1 3
+2
+Green 0
+Blue 0
+5
+1
+Green 13
+1
+Blue 13
+1
+Green 35
+1
+Blue 12
+1
+Green 43
+8
+Green 1 3
+Green 1 2
+Blue 4 3
+Green 2 4
+Green 0 4
+Green 4 2
+Green 2 0
+Green 3 0
+1
+Blue 0
+3
+1
+Blue 36
+1
+Blue 40
+1
+Blue 29
+2
+Blue 0 2
+Blue 2 1
+3
+Red 0
+Green 0
+Blue 0
+4
+1
+Red 32
+1
+Red 26
+1
+Red 28
+1
+Blue 24
+6
+Green 2 1
+Green 0 2
+Red 3 2
+Red 1 2
+Blue 2 0
+Red 0 2
+2
+Green 0
+Blue 0
+4
+1
+Green 25
+1
+Blue 43
+1
+Green 31
+1
+Green 47
+9
+Green 2 1
+Blue 1 0
+Blue 0 2
+Blue 2 3
+Blue 2 0
+Blue 3 1
+Green 0 3
+Green 2 3
+Green 1 0
+2
+Red 0
+Blue 0
+4
+1
+Red 41
+1
+Red 29
+1
+Red 25
+1
+Red 31
+13
+Blue 3 0
+Red 0 2
+Blue 0 1
+Red 2 1
+Red 0 3
+Blue 1 3
+Blue 1 0
+Blue 0 2
+Blue 2 3
+Red 1 2
+Red 1 3
+Red 2 0
+Red 3 0
+1
+Green 0
+4
+1
+Green 27
+1
+Green 21
+1
+Green 29
+1
+Green 37
+9
+Green 0 2
+Green 1 0
+Green 0 3
+Green 2 1
+Green 1 2
+Green 2 0
+Green 0 1
+Green 3 2
+Green 3 1
+2
+Red 0
+Blue 0
+3
+1
+Red 35
+1
+Blue 27
+1
+Blue 35
+5
+Red 0 2
+Red 2 0
+Blue 0 1
+Blue 0 2
+Blue 2 1
+2
+Red 0
+Green 0
+3
+1
+Green 24
+1
+Green 30
+1
+Green 38
+6
+Green 0 2
+Green 2 0
+Red 2 1
+Green 0 1
+Red 0 1
+Green 2 1
+2
+Green 0
+Blue 0
+3
+1
+Green 22
+1
+Blue 9
+1
+Green 30
+8
+Blue 2 0
+Blue 1 2
+Blue 0 1
+Green 0 1
+Blue 0 2
+Blue 2 1
+Green 1 2
+Blue 1 0
+1
+Green 0
+5
+1
+Green 24
+1
+Green 22
+1
+Green 8
+1
+Green 6
+1
+Green 18
+13
+Green 0 3
+Green 3 1
+Green 1 0
+Green 0 2
+Green 2 4
+Green 3 0
+Green 2 0
+Green 0 1
+Green 1 4
+Green 1 2
+Green 0 4
+Green 4 1
+Green 1 3
+2
+Red 0
+Green 0
+3
+1
+Red 36
+1
+Green 38
+1
+Green 13
+6
+Green 0 2
+Green 2 0
+Green 2 1
+Red 2 1
+Green 0 1
+Red 2 0
+1
+Blue 0
+3
+1
+Blue 18
+1
+Blue 38
+1
+Blue 22
+6
+Blue 1 2
+Blue 0 2
+Blue 2 1
+Blue 2 0
+Blue 0 1
+Blue 1 0
+1
+Red 0
+4
+1
+Red 22
+1
+Red 14
+1
+Red 12
+1
+Red 16
+10
+Red 2 1
+Red 2 3
+Red 1 3
+Red 0 1
+Red 3 2
+Red 3 0
+Red 3 1
+Red 0 2
+Red 1 2
+Red 2 0
+3
+Red 0
+Green 0
+Blue 0
+5
+1
+Red 22
+1
+Green 20
+1
+Blue 17
+1
+Blue 16
+1
+Red 8
+20
+Green 1 0
+Blue 2 1
+Blue 0 1
+Green 3 2
+Blue 0 4
+Blue 2 3
+Red 2 1
+Green 3 4
+Blue 2 4
+Red 1 3
+Red 1 0
+Green 0 1
+Red 2 3
+Green 2 0
+Red 1 4
+Green 0 3
+Blue 1 2
+Blue 1 0
+Red 0 2
+Red 2 4
+1
+Blue 0
+4
+1
+Blue 23
+1
+Blue 25
+1
+Blue 33
+1
+Blue 34
+7
+Blue 0 1
+Blue 1 3
+Blue 0 2
+Blue 0 3
+Blue 2 0
+Blue 2 1
+Blue 3 0
+2
+Green 0
+Blue 0
+5
+1
+Blue 17
+1
+Green 23
+1
+Green 33
+1
+Blue 25
+1
+Green 24
+11
+Blue 1 4
+Blue 1 2
+Green 2 0
+Blue 3 1
+Green 3 0
+Blue 2 4
+Blue 2 0
+Blue 1 0
+Green 1 4
+Blue 0 2
+Green 2 4
+1
+Red 0
+5
+1
+Red 21
+1
+Red 20
+1
+Red 25
+1
+Red 24
+1
+Red 39
+10
+Red 4 0
+Red 2 1
+Red 2 0
+Red 4 1
+Red 0 2
+Red 3 1
+Red 1 3
+Red 0 3
+Red 3 0
+Red 3 4
+1
+Red 0
+3
+1
+Red 8
+1
+Red 29
+1
+Red 27
+6
+Red 1 0
+Red 1 2
+Red 2 0
+Red 0 2
+Red 2 1
+Red 0 1
+2
+Red 0
+Green 0
+4
+1
+Red 30
+1
+Green 27
+1
+Green 11
+1
+Green 19
+12
+Green 2 0
+Green 2 1
+Red 0 1
+Red 3 2
+Red 2 1
+Green 3 0
+Green 3 1
+Green 1 3
+Green 3 2
+Green 1 2
+Red 1 3
+Red 3 0
+1
+Green 0
+4
+1
+Green 19
+1
+Green 11
+1
+Green 21
+1
+Green 10
+10
+Green 0 3
+Green 0 1
+Green 3 2
+Green 3 1
+Green 3 0
+Green 2 1
+Green 1 3
+Green 0 2
+Green 1 2
+Green 1 0
+2
+Green 0
+Blue 0
+5
+1
+Blue 31
+1
+Blue 10
+1
+Blue 11
+1
+Green 29
+1
+Blue 21
+14
+Blue 4 1
+Blue 4 0
+Green 0 1
+Blue 0 3
+Green 2 4
+Green 2 0
+Green 1 4
+Blue 4 2
+Green 4 3
+Green 4 0
+Blue 1 0
+Blue 1 2
+Blue 2 1
+Green 3 1
+2
+Red 0
+Blue 0
+3
+1
+Blue 17
+1
+Red 35
+1
+Blue 9
+6
+Red 1 2
+Blue 1 2
+Red 0 1
+Blue 2 0
+Red 1 0
+Red 2 1
+5
+Red 0
+Green 0
+Blue 0
+Purple 2 Red Blue
+Cyan 2 Green Blue
+13
+1
+Purple 29
+1
+Purple 39
+1
+Blue 39
+1
+Purple 33
+1
+Blue 29
+1
+Blue 37
+1
+Red 39
+1
+Red 47
+1
+Cyan 39
+1
+Purple 35
+1
+Green 15
+1
+Cyan 20
+1
+Cyan 42
+49
+Green 9 7
+Purple 3 12
+Purple 12 10
+Green 11 5
+Blue 9 2
+Red 1 0
+Red 0 4
+Green 0 10
+Blue 7 2
+Purple 10 3
+Red 1 6
+Blue 2 0
+Red 1 9
+Red 11 5
+Blue 10 0
+Blue 7 12
+Red 10 3
+Blue 2 8
+Blue 5 1
+Purple 12 2
+Purple 7 8
+Cyan 1 0
+Blue 3 0
+Purple 8 0
+Blue 11 7
+Red 8 11
+Red 12 10
+Cyan 12 5
+Green 6 4
+Purple 10 6
+Blue 5 9
+Green 4 9
+Purple 0 12
+Cyan 10 2
+Green 5 1
+Purple 10 1
+Purple 5 11
+Cyan 5 9
+Blue 0 12
+Red 8 0
+Green 9 12
+Purple 6 3
+Red 7 5
+Purple 11 12
+Red 6 3
+Cyan 1 2
+Blue 10 4
+Cyan 12 3
+Red 10 6
+5
+Red 0
+Green 0
+Blue 0
+Purple 2 Red Blue
+Cyan 2 Green Blue
+12
+2
+Blue 73
+Red 27
+2
+Blue 23
+Purple 50
+3
+Red 29
+Purple 26
+Green 54
+3
+Green 45
+Purple 48
+Blue 33
+3
+Purple 37
+Blue 66
+Red 40
+2
+Purple 50
+Cyan 23
+3
+Blue 40
+Purple 27
+Green 65
+3
+Green 54
+Blue 58
+Cyan 65
+3
+Cyan 24
+Green 64
+Purple 59
+2
+Green 55
+Purple 21
+2
+Cyan 45
+Green 52
+2
+Green 69
+Purple 26
+29
+Cyan 2 8
+Cyan 7 6
+Cyan 8 7
+Cyan 9 0
+Red 11 1
+Cyan 9 8
+Cyan 6 8
+Cyan 9 7
+Cyan 6 9
+Red 5 7
+Cyan 4 7
+Cyan 0 1
+Cyan 5 11
+Cyan 9 4
+Cyan 3 7
+Cyan 4 1
+Cyan 2 7
+Red 8 1
+Cyan 10 3
+Cyan 5 7
+Purple 8 1
+Cyan 11 1
+Cyan 0 7
+Cyan 0 2
+Red 11 9
+Cyan 8 3
+Cyan 7 9
+Cyan 2 3
+Cyan 3 8
+3
+Red 0
+Green 0
+Yellow 2 Red Green
+16
+1
+Red 44
+1
+Yellow 61
+1
+Red 25
+1
+Green 51
+1
+Yellow 78
+1
+Red 46
+1
+Yellow 70
+1
+Red 35
+1
+Green 60
+1
+Red 20
+1
+Red 76
+1
+Green 73
+1
+Yellow 26
+1
+Green 81
+1
+Green 77
+1
+Green 38
+46
+Red 9 8
+Red 0 8
+Red 7 9
+Red 0 14
+Yellow 6 2
+Yellow 13 4
+Red 1 8
+Red 10 14
+Red 10 12
+Red 1 11
+Red 12 5
+Red 4 8
+Red 12 2
+Red 12 14
+Yellow 4 2
+Red 0 10
+Red 6 14
+Red 10 5
+Yellow 7 13
+Red 5 6
+Yellow 0 6
+Red 10 0
+Yellow 14 6
+Yellow 14 4
+Red 15 13
+Red 9 1
+Red 13 11
+Yellow 15 7
+Yellow 12 4
+Yellow 8 6
+Yellow 10 6
+Red 0 5
+Red 3 14
+Red 11 9
+Red 2 5
+Red 5 4
+Red 9 10
+Red 1 15
+Red 13 8
+Yellow 5 12
+Red 10 8
+Yellow 2 9
+Red 0 12
+Yellow 0 8
+Red 13 7
+Yellow 15 13
+4
+Red 0
+Green 0
+Blue 0
+Cyan 2 Green Blue
+16
+3
+Blue 64
+Cyan 52
+Red 35
+2
+Blue 31
+Green 66
+3
+Cyan 33
+Green 34
+Blue 43
+3
+Cyan 19
+Red 64
+Green 17
+2
+Green 65
+Red 20
+2
+Blue 23
+Green 53
+3
+Cyan 65
+Green 19
+Red 37
+2
+Red 47
+Cyan 57
+2
+Cyan 24
+Green 38
+2
+Blue 38
+Cyan 36
+2
+Blue 18
+Green 21
+2
+Blue 43
+Green 43
+3
+Cyan 51
+Red 53
+Blue 23
+3
+Red 25
+Blue 29
+Cyan 42
+2
+Blue 35
+Red 61
+3
+Green 36
+Cyan 25
+Blue 61
+44
+Cyan 4 14
+Red 13 7
+Red 9 6
+Red 1 7
+Red 11 8
+Cyan 1 2
+Red 9 3
+Red 15 2
+Red 12 11
+Cyan 4 8
+Red 12 0
+Cyan 6 9
+Cyan 3 5
+Cyan 3 0
+Cyan 13 4
+Cyan 0 4
+Red 1 8
+Red 4 6
+Red 6 8
+Red 1 9
+Red 6 1
+Red 2 10
+Cyan 6 13
+Cyan 2 7
+Red 2 3
+Red 8 11
+Red 6 5
+Red 5 6
+Red 11 14
+Cyan 3 7
+Cyan 15 5
+Red 10 7
+Red 0 15
+Red 14 8
+Cyan 6 7
+Red 6 2
+Red 11 6
+Cyan 9 12
+Cyan 2 9
+Red 0 13
+Red 5 4
+Red 0 10
+Red 8 5
+Cyan 0 13
+3
+Red 0
+Green 0
+Yellow 2 Red Green
+11
+2
+Red 20
+Yellow 42
+2
+Green 66
+Red 63
+2
+Red 77
+Green 30
+2
+Red 69
+Green 51
+2
+Green 21
+Red 67
+2
+Red 42
+Green 63
+2
+Green 63
+Yellow 54
+3
+Green 32
+Yellow 77
+Red 70
+2
+Red 38
+Green 78
+2
+Yellow 46
+Red 64
+3
+Yellow 45
+Green 53
+Red 43
+17
+Yellow 4 8
+Yellow 9 2
+Yellow 0 3
+Yellow 10 0
+Yellow 6 3
+Yellow 1 5
+Yellow 7 5
+Yellow 6 5
+Yellow 3 1
+Yellow 1 8
+Yellow 4 6
+Yellow 1 10
+Yellow 0 9
+Yellow 0 5
+Yellow 1 4
+Yellow 0 1
+Yellow 6 10
+5
+Red 0
+Green 0
+Blue 0
+Purple 2 Red Blue
+Cyan 2 Green Blue
+11
+2
+Cyan 21
+Purple 49
+2
+Blue 48
+Cyan 27
+2
+Green 38
+Cyan 39
+2
+Green 51
+Red 55
+2
+Blue 52
+Red 50
+3
+Blue 28
+Green 49
+Cyan 27
+3
+Cyan 24
+Blue 33
+Purple 54
+2
+Cyan 20
+Purple 64
+3
+Purple 33
+Red 67
+Cyan 60
+3
+Cyan 28
+Red 45
+Green 33
+2
+Red 39
+Purple 59
+42
+Purple 3 5
+Red 4 3
+Purple 1 4
+Purple 10 6
+Cyan 1 4
+Purple 1 7
+Purple 9 1
+Cyan 7 0
+Red 6 7
+Cyan 8 0
+Cyan 3 9
+Cyan 4 2
+Purple 9 6
+Purple 3 4
+Cyan 2 3
+Cyan 7 1
+Cyan 0 6
+Cyan 0 10
+Purple 0 6
+Purple 1 2
+Cyan 3 4
+Purple 7 1
+Red 10 6
+Red 5 8
+Cyan 8 1
+Purple 6 3
+Purple 2 6
+Cyan 1 7
+Purple 5 8
+Cyan 4 1
+Cyan 9 4
+Cyan 2 1
+Purple 8 1
+Purple 8 10
+Purple 1 10
+Cyan 0 5
+Purple 6 5
+Cyan 0 1
+Cyan 5 2
+Cyan 0 4
+Cyan 8 10
+Cyan 8 9
+3
+Green 0
+Blue 0
+Cyan 2 Green Blue
+17
+1
+Blue 51
+1
+Green 24
+1
+Green 38
+1
+Blue 23
+1
+Cyan 63
+1
+Cyan 48
+1
+Blue 62
+1
+Green 21
+1
+Green 64
+1
+Blue 41
+1
+Green 67
+1
+Blue 34
+1
+Cyan 52
+1
+Green 32
+1
+Blue 23
+1
+Cyan 29
+1
+Green 40
+1
+Cyan 10 7
+5
+Red 0
+Green 0
+Blue 0
+Yellow 2 Red Green
+Purple 2 Red Blue
+10
+3
+Green 32
+Red 23
+Blue 34
+3
+Green 37
+Blue 36
+Yellow 23
+3
+Yellow 19
+Purple 49
+Green 19
+2
+Purple 43
+Green 25
+3
+Yellow 41
+Blue 32
+Purple 35
+2
+Red 50
+Purple 15
+3
+Blue 56
+Yellow 29
+Purple 51
+2
+Yellow 29
+Purple 15
+3
+Red 53
+Blue 43
+Purple 39
+2
+Yellow 15
+Green 40
+44
+Green 8 7
+Yellow 0 5
+Yellow 2 4
+Blue 0 8
+Green 4 2
+Blue 7 0
+Purple 5 7
+Yellow 8 9
+Green 7 4
+Green 0 4
+Yellow 6 3
+Yellow 8 4
+Green 4 3
+Yellow 5 6
+Yellow 2 7
+Blue 6 4
+Blue 3 7
+Blue 3 2
+Purple 6 0
+Blue 4 5
+Green 4 9
+Yellow 3 6
+Green 4 5
+Green 2 7
+Yellow 0 4
+Yellow 9 7
+Purple 0 2
+Blue 5 4
+Blue 9 6
+Green 9 6
+Green 0 2
+Blue 8 3
+Purple 7 3
+Green 8 2
+Green 9 5
+Yellow 9 6
+Green 1 6
+Blue 5 7
+Yellow 7 6
+Blue 3 5
+Blue 7 1
+Green 2 4
+Blue 9 3
+Blue 6 9
+3
+Red 0
+Blue 0
+Purple 2 Red Blue
+17
+2
+Red 28
+Blue 36
+2
+Purple 30
+Blue 51
+3
+Blue 53
+Purple 18
+Red 19
+2
+Blue 24
+Purple 50
+2
+Blue 48
+Red 16
+3
+Blue 51
+Purple 42
+Red 31
+3
+Blue 35
+Red 21
+Purple 42
+3
+Purple 44
+Red 52
+Blue 20
+2
+Blue 54
+Red 24
+2
+Blue 49
+Purple 33
+3
+Purple 49
+Red 51
+Blue 35
+3
+Purple 38
+Blue 22
+Red 56
+2
+Purple 38
+Red 34
+2
+Blue 19
+Red 45
+2
+Red 56
+Purple 42
+2
+Purple 32
+Blue 39
+3
+Blue 39
+Red 47
+Purple 34
+49
+Blue 4 14
+Blue 1 5
+Purple 16 14
+Purple 10 1
+Purple 13 3
+Blue 13 16
+Blue 15 6
+Purple 1 14
+Blue 4 1
+Blue 2 8
+Blue 8 7
+Purple 8 4
+Blue 14 2
+Blue 10 16
+Purple 5 8
+Blue 0 5
+Blue 10 1
+Blue 3 13
+Blue 2 13
+Blue 11 2
+Blue 9 6
+Blue 5 11
+Purple 4 15
+Blue 16 3
+Purple 1 5
+Blue 14 6
+Blue 6 16
+Blue 10 8
+Blue 0 4
+Blue 15 5
+Purple 14 7
+Blue 15 11
+Purple 16 1
+Blue 7 9
+Blue 1 8
+Blue 4 5
+Blue 4 6
+Blue 16 10
+Blue 1 0
+Blue 3 0
+Blue 0 15
+Blue 11 14
+Blue 2 4
+Purple 0 5
+Blue 4 12
+Blue 16 11
+Blue 0 1
+Blue 14 16
+Blue 6 12
+5
+Red 0
+Green 0
+Blue 0
+Purple 2 Red Blue
+Cyan 2 Green Blue
+10
+2
+Purple 72
+Green 28
+3
+Green 51
+Blue 30
+Cyan 67
+2
+Red 59
+Green 23
+3
+Blue 48
+Red 44
+Purple 37
+3
+Cyan 61
+Green 54
+Purple 66
+3
+Cyan 27
+Red 23
+Green 72
+3
+Green 53
+Cyan 76
+Red 72
+3
+Green 37
+Purple 51
+Cyan 36
+3
+Red 75
+Green 57
+Blue 24
+3
+Green 32
+Purple 37
+Red 35
+42
+Cyan 1 2
+Purple 1 9
+Purple 1 8
+Red 7 0
+Red 6 0
+Purple 7 5
+Red 2 9
+Purple 5 1
+Purple 3 4
+Red 0 7
+Red 3 8
+Purple 3 2
+Purple 9 5
+Cyan 0 5
+Purple 9 7
+Red 3 2
+Red 7 3
+Purple 3 5
+Red 1 6
+Cyan 6 2
+Purple 1 0
+Purple 8 9
+Red 6 8
+Red 1 9
+Red 7 2
+Red 2 5
+Purple 7 6
+Purple 8 7
+Purple 6 8
+Red 1 4
+Cyan 6 5
+Red 2 8
+Purple 7 1
+Red 1 5
+Red 4 1
+Red 5 9
+Red 3 5
+Red 9 3
+Red 6 4
+Red 1 8
+Purple 5 4
+Purple 6 5
+3
+Red 0
+Blue 0
+Purple 2 Red Blue
+10
+2
+Blue 70
+Purple 39
+3
+Red 49
+Blue 37
+Purple 49
+2
+Red 63
+Blue 43
+2
+Blue 73
+Red 29
+2
+Purple 72
+Red 83
+2
+Blue 33
+Purple 77
+2
+Blue 57
+Red 58
+3
+Red 85
+Purple 76
+Blue 70
+3
+Purple 27
+Blue 36
+Red 59
+3
+Blue 53
+Purple 83
+Red 30
+18
+Purple 7 2
+Purple 8 7
+Purple 2 1
+Purple 3 5
+Purple 4 3
+Purple 0 7
+Purple 6 8
+Purple 6 3
+Purple 0 2
+Purple 7 1
+Purple 1 8
+Purple 9 8
+Purple 6 4
+Purple 0 8
+Purple 4 2
+Purple 7 8
+Purple 5 9
+Purple 6 0
+3
+Red 0
+Blue 0
+Purple 2 Red Blue
+10
+1
+Purple 40
+1
+Red 29
+1
+Purple 32
+1
+Red 81
+1
+Blue 68
+1
+Purple 87
+1
+Red 59
+1
+Blue 25
+1
+Purple 94
+1
+Purple 61
+39
+Blue 7 2
+Blue 3 8
+Blue 5 7
+Blue 7 3
+Blue 6 3
+Purple 5 1
+Purple 0 6
+Blue 1 4
+Blue 8 2
+Blue 5 6
+Purple 2 7
+Purple 0 4
+Purple 2 0
+Blue 5 2
+Blue 2 8
+Purple 0 8
+Blue 8 7
+Blue 5 3
+Purple 3 4
+Blue 8 6
+Blue 2 3
+Blue 3 0
+Purple 1 4
+Purple 4 8
+Blue 8 1
+Purple 9 0
+Purple 9 5
+Purple 6 2
+Blue 3 7
+Blue 8 0
+Blue 2 6
+Purple 7 0
+Purple 6 5
+Purple 4 9
+Purple 2 4
+Blue 2 4
+Blue 1 3
+Purple 1 0
+Purple 0 3
+3
+Red 0
+Green 0
+Yellow 2 Red Green
+19
+2
+Green 78
+Red 52
+3
+Yellow 43
+Red 74
+Green 31
+3
+Red 87
+Yellow 41
+Green 54
+2
+Yellow 80
+Red 51
+3
+Yellow 77
+Green 84
+Red 26
+2
+Green 55
+Red 73
+3
+Yellow 61
+Green 45
+Red 63
+2
+Green 69
+Yellow 54
+3
+Green 47
+Yellow 25
+Red 77
+3
+Yellow 70
+Green 39
+Red 83
+3
+Yellow 36
+Red 33
+Green 47
+2
+Red 95
+Green 70
+3
+Green 64
+Red 83
+Yellow 87
+2
+Green 43
+Yellow 32
+2
+Red 75
+Green 71
+2
+Yellow 41
+Red 49
+2
+Yellow 69
+Red 74
+3
+Green 29
+Red 77
+Yellow 52
+3
+Red 60
+Yellow 87
+Green 95
+36
+Green 9 17
+Green 14 1
+Green 17 12
+Yellow 11 0
+Green 10 18
+Green 7 18
+Green 6 5
+Green 16 1
+Yellow 8 9
+Green 10 13
+Green 13 11
+Green 17 7
+Green 13 2
+Yellow 5 18
+Green 6 15
+Green 14 16
+Green 2 6
+Yellow 8 15
+Green 14 5
+Green 5 2
+Green 18 6
+Yellow 7 18
+Green 5 14
+Green 9 14
+Green 16 3
+Green 15 0
+Green 5 16
+Yellow 10 4
+Yellow 13 1
+Yellow 17 6
+Green 0 17
+Green 4 17
+Green 13 9
+Green 7 0
+Yellow 11 5
+Green 11 15
+3
+Red 0
+Blue 0
+Purple 2 Red Blue
+18
+2
+Blue 72
+Red 68
+3
+Blue 60
+Red 62
+Purple 58
+2
+Purple 41
+Blue 85
+2
+Red 73
+Blue 69
+3
+Blue 86
+Purple 78
+Red 86
+2
+Blue 78
+Red 85
+3
+Purple 49
+Red 89
+Blue 61
+3
+Red 91
+Blue 37
+Purple 65
+3
+Red 47
+Blue 42
+Purple 38
+2
+Purple 29
+Blue 74
+3
+Purple 63
+Red 56
+Blue 94
+3
+Blue 67
+Purple 60
+Red 45
+3
+Red 84
+Purple 94
+Blue 46
+3
+Purple 68
+Blue 70
+Red 70
+2
+Red 68
+Purple 61
+3
+Purple 41
+Blue 75
+Red 67
+3
+Purple 38
+Blue 80
+Red 47
+3
+Purple 91
+Blue 80
+Red 42
+27
+Purple 12 13
+Purple 11 15
+Purple 13 7
+Red 16 5
+Red 7 2
+Red 14 10
+Red 4 3
+Purple 0 11
+Red 15 17
+Red 3 1
+Purple 16 8
+Purple 1 8
+Purple 16 6
+Purple 17 6
+Red 0 12
+Purple 1 7
+Purple 12 7
+Purple 1 5
+Red 14 17
+Red 17 7
+Purple 6 0
+Red 17 16
+Purple 17 12
+Red 14 1
+Purple 13 5
+Purple 5 13
+Purple 3 5
+3
+Red 0
+Blue 0
+Purple 2 Red Blue
+11
+2
+Red 74
+Purple 46
+2
+Purple 83
+Blue 30
+3
+Blue 53
+Red 88
+Purple 72
+2
+Purple 94
+Blue 73
+3
+Purple 49
+Red 26
+Blue 61
+3
+Blue 69
+Purple 62
+Red 39
+2
+Blue 56
+Purple 75
+3
+Blue 49
+Purple 82
+Red 94
+3
+Red 24
+Purple 35
+Blue 26
+2
+Red 85
+Purple 86
+3
+Blue 51
+Red 71
+Purple 77
+56
+Purple 5 1
+Purple 1 3
+Purple 3 6
+Purple 8 5
+Purple 5 8
+Purple 10 5
+Purple 9 4
+Purple 10 9
+Purple 6 3
+Purple 3 10
+Purple 5 7
+Purple 8 6
+Purple 9 8
+Purple 7 5
+Purple 8 2
+Purple 7 6
+Purple 10 3
+Purple 9 3
+Purple 0 1
+Purple 8 9
+Purple 9 5
+Purple 4 10
+Purple 6 10
+Purple 1 8
+Purple 2 8
+Purple 6 8
+Purple 5 6
+Purple 1 7
+Purple 5 10
+Purple 1 9
+Purple 7 9
+Purple 4 0
+Purple 7 3
+Purple 0 2
+Purple 6 4
+Purple 9 1
+Purple 9 2
+Purple 10 8
+Purple 6 1
+Purple 2 6
+Purple 2 3
+Purple 2 0
+Purple 3 9
+Purple 2 1
+Purple 3 0
+Purple 0 10
+Purple 9 7
+Purple 8 0
+Purple 7 2
+Purple 5 9
+Purple 3 1
+Purple 8 4
+Purple 1 6
+Purple 6 7
+Purple 10 2
+Purple 6 9
+4
+Red 0
+Green 0
+Blue 0
+Cyan 2 Green Blue
+14
+3
+Blue 51
+Red 53
+Green 33
+3
+Green 25
+Red 21
+Blue 27
+3
+Green 31
+Cyan 28
+Blue 30
+3
+Green 43
+Red 39
+Cyan 35
+2
+Red 47
+Cyan 56
+3
+Blue 29
+Red 25
+Cyan 17
+3
+Red 31
+Cyan 40
+Blue 32
+2
+Green 39
+Blue 16
+2
+Cyan 42
+Green 18
+2
+Blue 52
+Cyan 26
+3
+Green 17
+Cyan 46
+Blue 36
+3
+Blue 29
+Red 39
+Green 24
+2
+Blue 41
+Green 41
+3
+Cyan 15
+Red 45
+Blue 43
+60
+Blue 2 7
+Blue 13 4
+Blue 10 9
+Red 8 0
+Cyan 6 11
+Blue 11 9
+Blue 13 3
+Red 2 3
+Red 2 8
+Red 4 1
+Red 0 10
+Blue 13 12
+Blue 2 12
+Red 2 1
+Red 8 10
+Red 2 5
+Blue 8 9
+Red 6 13
+Blue 6 8
+Red 3 0
+Red 2 11
+Red 13 10
+Red 3 4
+Red 1 4
+Blue 10 13
+Cyan 2 1
+Cyan 2 5
+Blue 9 6
+Blue 6 9
+Blue 3 11
+Cyan 7 6
+Blue 11 2
+Cyan 12 7
+Cyan 0 1
+Cyan 11 13
+Cyan 2 10
+Blue 11 6
+Red 11 12
+Red 12 1
+Blue 6 7
+Blue 12 11
+Blue 5 2
+Cyan 8 9
+Blue 3 2
+Red 12 10
+Blue 5 4
+Blue 5 3
+Red 6 4
+Blue 9 13
+Red 4 11
+Cyan 2 9
+Red 11 6
+Cyan 11 0
+Red 1 12
+Blue 6 5
+Red 10 9
+Cyan 13 3
+Blue 13 11
+Red 9 2
+Cyan 10 7
+3
+Green 0
+Blue 0
+Cyan 2 Green Blue
+10
+3
+Blue 24
+Cyan 71
+Green 88
+3
+Cyan 75
+Blue 58
+Green 79
+2
+Cyan 53
+Green 82
+3
+Cyan 66
+Green 54
+Blue 44
+2
+Green 71
+Cyan 72
+3
+Green 75
+Blue 37
+Cyan 52
+3
+Green 30
+Cyan 82
+Blue 24
+2
+Blue 85
+Cyan 27
+3
+Cyan 26
+Green 29
+Blue 65
+2
+Blue 68
+Green 83
+33
+Cyan 6 5
+Cyan 7 5
+Cyan 0 8
+Cyan 2 1
+Cyan 6 1
+Cyan 5 7
+Cyan 1 7
+Cyan 2 4
+Cyan 2 9
+Cyan 0 6
+Cyan 5 6
+Cyan 5 2
+Cyan 4 1
+Cyan 5 4
+Cyan 7 3
+Cyan 4 5
+Cyan 1 3
+Cyan 7 2
+Cyan 8 0
+Cyan 7 8
+Cyan 5 0
+Cyan 0 7
+Cyan 7 4
+Cyan 6 3
+Cyan 2 8
+Cyan 8 1
+Cyan 5 9
+Cyan 7 1
+Cyan 0 9
+Cyan 3 2
+Cyan 1 4
+Cyan 4 2
+Cyan 9 6
+4
+Red 0
+Green 0
+Blue 0
+Yellow 2 Red Green
+11
+1
+Red 21
+1
+Blue 37
+1
+Yellow 18
+1
+Yellow 53
+1
+Yellow 39
+1
+Green 42
+1
+Blue 16
+1
+Red 50
+1
+Red 23
+1
+Red 37
+1
+Blue 37
+42
+Yellow 7 6
+Blue 6 1
+Green 2 4
+Blue 6 2
+Green 0 8
+Blue 9 4
+Red 9 2
+Red 2 0
+Red 3 7
+Blue 2 0
+Red 5 7
+Blue 0 8
+Blue 10 9
+Blue 0 10
+Blue 6 3
+Blue 9 8
+Blue 10 3
+Blue 0 6
+Yellow 2 4
+Green 0 2
+Green 4 0
+Yellow 10 0
+Green 4 8
+Green 10 2
+Blue 8 2
+Blue 8 1
+Blue 3 6
+Yellow 6 5
+Green 10 1
+Blue 9 5
+Red 5 3
+Red 9 6
+Red 5 1
+Blue 9 7
+Green 1 2
+Green 7 8
+Blue 7 8
+Yellow 10 7
+Blue 0 9
+Green 7 9
+Red 10 3
+Green 6 3
+5
+Red 0
+Green 0
+Blue 0
+Yellow 2 Red Green
+Purple 2 Red Blue
+18
+2
+Purple 44
+Yellow 20
+2
+Blue 28
+Purple 25
+3
+Yellow 29
+Red 21
+Purple 74
+3
+Blue 46
+Purple 64
+Red 79
+2
+Yellow 64
+Purple 62
+2
+Red 26
+Purple 41
+3
+Green 49
+Blue 30
+Yellow 60
+3
+Blue 34
+Yellow 51
+Red 77
+2
+Red 42
+Yellow 51
+2
+Yellow 60
+Green 78
+2
+Yellow 57
+Green 70
+2
+Yellow 33
+Red 65
+2
+Yellow 46
+Red 20
+2
+Yellow 43
+Red 59
+2
+Purple 36
+Blue 67
+2
+Red 47
+Green 39
+2
+Red 53
+Green 28
+3
+Green 73
+Blue 31
+Yellow 44
+28
+Yellow 3 16
+Yellow 15 4
+Yellow 13 16
+Yellow 15 14
+Yellow 15 2
+Yellow 1 16
+Yellow 0 15
+Yellow 7 0
+Yellow 3 0
+Yellow 0 2
+Yellow 17 4
+Yellow 4 16
+Yellow 2 12
+Yellow 15 17
+Yellow 1 4
+Yellow 2 10
+Yellow 11 10
+Yellow 0 3
+Yellow 9 5
+Yellow 5 4
+Yellow 11 14
+Purple 13 15
+Purple 11 2
+Purple 0 4
+Yellow 3 14
+Yellow 2 4
+Purple 7 14
+Yellow 1 2
+3
+Red 0
+Blue 0
+Purple 2 Red Blue
+15
+3
+Red 40
+Purple 28
+Blue 24
+3
+Purple 17
+Blue 35
+Red 17
+2
+Blue 48
+Purple 20
+3
+Purple 26
+Red 39
+Blue 17
+3
+Blue 21
+Red 24
+Purple 36
+2
+Blue 47
+Purple 17
+3
+Blue 21
+Purple 42
+Red 39
+2
+Red 13
+Blue 22
+2
+Purple 24
+Red 41
+2
+Red 50
+Purple 28
+2
+Purple 15
+Red 24
+3
+Blue 43
+Red 34
+Purple 46
+3
+Blue 43
+Red 41
+Purple 27
+2
+Blue 24
+Purple 13
+2
+Purple 50
+Red 22
+32
+Purple 6 2
+Red 13 7
+Red 7 4
+Red 10 3
+Red 3 7
+Red 7 12
+Blue 12 2
+Red 4 0
+Purple 12 1
+Red 3 11
+Red 5 11
+Red 1 3
+Red 9 0
+Purple 0 4
+Purple 14 0
+Red 10 5
+Purple 3 4
+Red 12 0
+Red 12 1
+Red 0 13
+Purple 0 3
+Red 8 9
+Purple 12 9
+Red 7 0
+Red 14 10
+Purple 14 7
+Red 8 1
+Purple 3 0
+Red 4 10
+Red 2 4
+Red 7 6
+Red 7 5
+3
+Green 0
+Blue 0
+Cyan 2 Green Blue
+18
+2
+Blue 85
+Cyan 57
+3
+Cyan 34
+Green 42
+Blue 38
+2
+Blue 65
+Green 87
+3
+Blue 84
+Green 85
+Cyan 29
+3
+Blue 42
+Cyan 43
+Green 48
+3
+Blue 69
+Cyan 35
+Green 78
+3
+Blue 76
+Green 25
+Cyan 82
+2
+Green 45
+Blue 56
+3
+Green 63
+Cyan 34
+Blue 39
+3
+Cyan 61
+Green 23
+Blue 38
+2
+Green 25
+Blue 42
+3
+Green 40
+Blue 74
+Cyan 22
+3
+Green 81
+Blue 55
+Cyan 49
+2
+Blue 50
+Cyan 51
+3
+Blue 52
+Cyan 48
+Green 51
+3
+Green 69
+Cyan 60
+Blue 46
+3
+Green 29
+Blue 76
+Cyan 23
+2
+Blue 53
+Green 66
+42
+Cyan 11 4
+Cyan 5 14
+Cyan 10 5
+Cyan 6 12
+Cyan 4 12
+Cyan 15 4
+Cyan 9 1
+Cyan 8 16
+Cyan 0 12
+Cyan 1 2
+Cyan 8 6
+Cyan 14 6
+Cyan 5 7
+Cyan 12 15
+Cyan 10 12
+Cyan 13 5
+Cyan 17 11
+Cyan 10 14
+Cyan 12 17
+Cyan 11 5
+Cyan 4 9
+Cyan 0 5
+Cyan 17 4
+Cyan 7 9
+Cyan 9 14
+Cyan 16 7
+Cyan 17 10
+Cyan 0 17
+Cyan 15 1
+Cyan 10 1
+Cyan 14 13
+Cyan 2 17
+Cyan 9 5
+Cyan 3 4
+Cyan 14 11
+Cyan 5 6
+Cyan 3 10
+Cyan 2 3
+Cyan 12 9
+Cyan 7 16
+Cyan 3 5
+Cyan 2 13
+4
+Red 0
+Green 0
+Blue 0
+Purple 2 Red Blue
+16
+2
+Blue 28
+Green 23
+2
+Red 76
+Purple 20
+2
+Blue 76
+Red 58
+2
+Green 25
+Blue 78
+3
+Green 26
+Blue 53
+Red 21
+2
+Blue 64
+Green 30
+2
+Green 40
+Red 29
+3
+Red 65
+Purple 76
+Green 29
+3
+Blue 26
+Purple 44
+Red 50
+3
+Green 50
+Blue 64
+Purple 52
+2
+Purple 65
+Red 59
+2
+Red 56
+Blue 21
+3
+Red 28
+Green 51
+Purple 37
+3
+Blue 67
+Green 27
+Red 62
+2
+Red 33
+Purple 44
+3
+Purple 44
+Green 57
+Blue 74
+44
+Green 0 4
+Green 13 9
+Purple 15 8
+Green 6 10
+Green 0 2
+Purple 8 9
+Green 10 9
+Green 11 12
+Green 13 0
+Green 1 15
+Green 5 7
+Green 1 7
+Green 10 5
+Green 5 0
+Green 4 8
+Green 3 2
+Green 8 14
+Green 4 3
+Green 12 15
+Green 7 12
+Green 7 9
+Green 12 8
+Green 11 9
+Purple 7 13
+Purple 9 6
+Green 15 2
+Green 1 6
+Green 15 8
+Purple 7 6
+Green 1 10
+Green 13 6
+Green 14 13
+Green 13 15
+Purple 9 4
+Purple 9 8
+Green 11 3
+Purple 14 3
+Green 1 5
+Green 9 11
+Green 3 1
+Green 2 8
+Green 4 13
+Green 7 15
+Green 11 4
+5
+Red 0
+Green 0
+Blue 0
+Yellow 2 Red Green
+Purple 2 Red Blue
+18
+1
+Blue 28
+1
+Yellow 56
+1
+Yellow 79
+1
+Blue 36
+1
+Red 81
+1
+Red 82
+1
+Red 62
+1
+Green 83
+1
+Red 37
+1
+Yellow 25
+1
+Green 61
+1
+Red 45
+1
+Green 68
+1
+Green 25
+1
+Yellow 71
+1
+Green 54
+1
+Red 41
+1
+Blue 77
+33
+Green 17 5
+Green 1 3
+Purple 8 15
+Purple 14 7
+Green 9 0
+Purple 12 15
+Purple 16 0
+Green 12 6
+Purple 12 11
+Purple 1 0
+Green 17 2
+Purple 9 7
+Purple 13 16
+Purple 2 5
+Green 1 12
+Green 5 9
+Purple 9 2
+Purple 5 3
+Purple 0 3
+Purple 14 13
+Yellow 1 0
+Purple 7 11
+Purple 15 1
+Green 4 17
+Purple 3 14
+Purple 10 17
+Purple 16 7
+Green 2 14
+Green 11 1
+Green 4 5
+Purple 10 11
+Yellow 12 2
+Purple 8 7
+4
+Red 0
+Green 0
+Blue 0
+Yellow 2 Red Green
+18
+3
+Yellow 46
+Blue 75
+Red 42
+3
+Red 74
+Blue 67
+Yellow 38
+2
+Red 78
+Yellow 55
+3
+Yellow 50
+Green 62
+Red 41
+2
+Blue 53
+Red 71
+2
+Green 70
+Blue 75
+3
+Blue 66
+Yellow 66
+Green 29
+3
+Yellow 66
+Blue 74
+Red 73
+2
+Red 36
+Green 69
+2
+Green 53
+Red 43
+2
+Yellow 44
+Green 28
+3
+Yellow 40
+Blue 49
+Green 76
+2
+Green 58
+Red 22
+3
+Yellow 30
+Green 71
+Blue 62
+3
+Red 60
+Blue 24
+Yellow 80
+3
+Red 22
+Green 59
+Yellow 51
+2
+Red 23
+Green 51
+3
+Blue 65
+Yellow 49
+Green 83
+31
+Yellow 12 6
+Yellow 3 5
+Green 3 4
+Yellow 10 13
+Green 1 5
+Green 6 8
+Green 0 2
+Green 6 13
+Yellow 1 14
+Green 16 5
+Yellow 10 5
+Blue 11 6
+Green 16 1
+Green 3 16
+Blue 5 6
+Blue 11 4
+Green 4 5
+Blue 14 10
+Yellow 17 13
+Green 2 12
+Green 11 9
+Green 16 4
+Yellow 3 14
+Green 11 4
+Yellow 0 10
+Green 2 7
+Blue 1 12
+Yellow 12 11
+Yellow 8 3
+Blue 11 13
+Blue 16 14
+4
+Red 0
+Green 0
+Blue 0
+Purple 2 Red Blue
+11
+1
+Red 43
+1
+Red 26
+1
+Purple 28
+1
+Red 15
+1
+Red 44
+1
+Blue 23
+1
+Red 45
+1
+Red 48
+1
+Red 53
+1
+Purple 20
+1
+Red 40
+62
+Purple 8 1
+Green 10 4
+Purple 3 6
+Blue 3 8
+Green 8 9
+Green 10 5
+Purple 9 3
+Purple 9 8
+Purple 5 4
+Blue 9 3
+Purple 3 10
+Purple 9 5
+Purple 4 3
+Green 8 7
+Blue 2 5
+Blue 3 10
+Green 3 2
+Blue 10 5
+Purple 6 1
+Blue 2 1
+Purple 5 7
+Green 1 2
+Purple 2 1
+Purple 8 10
+Purple 9 6
+Blue 10 9
+Purple 5 2
+Blue 8 0
+Purple 8 4
+Green 9 4
+Green 9 8
+Purple 0 8
+Purple 10 8
+Blue 1 0
+Green 0 8
+Blue 0 1
+Blue 5 6
+Purple 4 1
+Purple 5 8
+Purple 6 2
+Purple 4 7
+Purple 3 9
+Purple 0 5
+Blue 8 4
+Purple 2 4
+Green 1 8
+Purple 10 2
+Blue 2 9
+Blue 1 4
+Green 5 3
+Blue 5 2
+Purple 6 10
+Green 6 0
+Purple 10 5
+Green 2 4
+Purple 1 8
+Green 3 1
+Purple 10 3
+Blue 4 3
+Purple 3 8
+Green 8 0
+Purple 3 7
+6
+Red 0
+Blue 0
+Purple 0
+Cyan 0
+Maroon 2 Red Purple
+Teal 2 Blue Cyan
+39
+2
+Red 264
+Teal 169
+2
+Teal 279
+Blue 185
+3
+Purple 110
+Cyan 242
+Teal 252
+2
+Maroon 183
+Cyan 93
+2
+Teal 111
+Cyan 96
+3
+Red 261
+Cyan 155
+Blue 164
+3
+Red 158
+Cyan 113
+Maroon 224
+2
+Blue 100
+Teal 227
+2
+Maroon 124
+Purple 270
+3
+Blue 88
+Maroon 189
+Teal 258
+3
+Purple 120
+Maroon 166
+Cyan 169
+3
+Maroon 88
+Red 103
+Teal 75
+2
+Red 96
+Purple 238
+2
+Teal 249
+Red 93
+3
+Purple 166
+Red 153
+Maroon 114
+3
+Purple 193
+Teal 84
+Red 210
+3
+Blue 276
+Maroon 259
+Purple 122
+3
+Teal 250
+Blue 241
+Red 242
+3
+Teal 256
+Blue 251
+Cyan 188
+3
+Purple 281
+Red 160
+Teal 143
+2
+Red 150
+Cyan 111
+2
+Teal 163
+Maroon 119
+2
+Red 166
+Blue 121
+3
+Blue 87
+Purple 258
+Cyan 152
+3
+Maroon 148
+Blue 259
+Cyan 103
+3
+Cyan 182
+Purple 194
+Blue 219
+3
+Red 189
+Maroon 184
+Purple 190
+2
+Cyan 167
+Red 165
+2
+Cyan 90
+Teal 72
+3
+Blue 141
+Maroon 149
+Purple 181
+2
+Maroon 285
+Blue 210
+3
+Purple 194
+Red 115
+Blue 241
+2
+Purple 75
+Cyan 246
+2
+Teal 166
+Purple 264
+2
+Blue 153
+Teal 92
+3
+Purple 203
+Maroon 194
+Cyan 88
+3
+Cyan 211
+Teal 229
+Red 146
+2
+Purple 151
+Red 137
+3
+Maroon 101
+Purple 102
+Teal 146
+297
+Maroon 21 15
+Maroon 25 2
+Maroon 32 1
+Teal 37 6
+Teal 27 17
+Red 17 31
+Maroon 10 24
+Teal 17 36
+Teal 8 4
+Maroon 0 35
+Maroon 30 35
+Maroon 37 24
+Maroon 3 35
+Red 28 7
+Maroon 31 12
+Maroon 35 28
+Teal 31 13
+Red 22 12
+Teal 29 6
+Teal 2 36
+Red 14 37
+Teal 6 21
+Teal 22 29
+Maroon 10 23
+Maroon 9 17
+Maroon 17 2
+Teal 17 8
+Red 8 1
+Teal 20 28
+Red 1 8
+Teal 5 17
+Maroon 16 13
+Teal 26 34
+Maroon 7 35
+Red 5 29
+Teal 38 19
+Teal 20 32
+Maroon 16 9
+Maroon 20 24
+Maroon 26 16
+Red 2 6
+Red 5 20
+Teal 8 37
+Teal 23 14
+Maroon 33 8
+Red 34 0
+Teal 6 1
+Maroon 6 29
+Maroon 37 17
+Maroon 8 1
+Red 27 33
+Teal 6 36
+Maroon 1 0
+Teal 24 37
+Teal 21 31
+Maroon 36 37
+Teal 32 0
+Teal 22 27
+Red 28 24
+Maroon 26 19
+Red 0 16
+Teal 8 9
+Teal 20 1
+Red 30 17
+Teal 23 28
+Teal 25 38
+Teal 0 20
+Teal 29 24
+Maroon 8 14
+Maroon 24 16
+Teal 4 36
+Teal 30 11
+Teal 35 37
+Maroon 37 7
+Teal 1 27
+Teal 1 4
+Maroon 11 22
+Red 21 23
+Maroon 9 22
+Teal 1 28
+Maroon 13 36
+Teal 27 31
+Maroon 37 27
+Teal 6 15
+Teal 3 8
+Red 35 25
+Teal 5 19
+Maroon 11 18
+Maroon 33 9
+Maroon 34 22
+Red 9 21
+Red 24 23
+Maroon 2 34
+Red 34 33
+Teal 16 15
+Teal 30 5
+Teal 1 13
+Teal 29 21
+Teal 24 11
+Teal 29 4
+Teal 19 13
+Maroon 13 37
+Teal 36 10
+Maroon 23 32
+Teal 30 21
+Teal 6 20
+Maroon 15 8
+Teal 21 32
+Teal 18 16
+Teal 4 37
+Maroon 5 4
+Maroon 34 32
+Teal 8 21
+Red 15 1
+Teal 29 8
+Teal 36 27
+Teal 23 1
+Maroon 28 3
+Teal 28 21
+Teal 19 32
+Red 2 1
+Red 33 15
+Teal 8 20
+Maroon 12 31
+Maroon 16 24
+Maroon 35 37
+Teal 15 28
+Teal 35 7
+Teal 12 5
+Maroon 22 3
+Maroon 18 22
+Teal 0 19
+Teal 10 19
+Teal 27 30
+Red 2 0
+Teal 16 8
+Teal 21 0
+Teal 25 9
+Maroon 19 20
+Maroon 30 15
+Maroon 4 2
+Teal 19 22
+Teal 19 36
+Teal 4 3
+Teal 27 11
+Maroon 33 29
+Red 38 7
+Teal 18 22
+Teal 25 35
+Red 24 37
+Teal 10 24
+Teal 2 15
+Teal 2 32
+Maroon 35 24
+Teal 2 19
+Maroon 0 13
+Red 28 5
+Maroon 2 13
+Red 6 19
+Maroon 30 31
+Teal 3 36
+Maroon 5 17
+Maroon 35 33
+Teal 28 33
+Maroon 23 27
+Maroon 21 23
+Red 9 4
+Teal 12 14
+Teal 34 7
+Maroon 37 12
+Maroon 29 37
+Teal 33 10
+Teal 5 4
+Maroon 37 10
+Maroon 33 7
+Teal 8 19
+Teal 6 7
+Teal 33 31
+Teal 37 11
+Teal 3 38
+Teal 5 9
+Maroon 32 28
+Red 31 7
+Teal 15 9
+Teal 17 37
+Red 27 18
+Red 28 12
+Maroon 35 14
+Teal 9 17
+Teal 12 38
+Teal 13 3
+Teal 20 14
+Teal 7 29
+Teal 18 36
+Maroon 14 17
+Red 16 6
+Red 3 32
+Teal 15 34
+Teal 38 0
+Red 2 7
+Teal 7 14
+Red 38 17
+Maroon 28 4
+Maroon 38 35
+Red 24 1
+Teal 25 15
+Teal 25 27
+Teal 9 31
+Maroon 16 17
+Teal 36 1
+Red 20 19
+Teal 9 23
+Red 19 35
+Maroon 26 14
+Teal 14 5
+Teal 20 5
+Teal 21 37
+Red 12 30
+Teal 26 0
+Maroon 13 19
+Teal 18 35
+Red 32 20
+Maroon 19 9
+Teal 16 31
+Teal 18 10
+Teal 15 16
+Red 16 37
+Maroon 37 2
+Teal 5 23
+Red 9 1
+Red 28 34
+Red 0 29
+Maroon 25 26
+Red 21 15
+Maroon 31 6
+Red 38 32
+Teal 2 31
+Maroon 13 20
+Maroon 34 27
+Maroon 12 3
+Teal 6 8
+Teal 37 0
+Teal 26 20
+Teal 18 3
+Teal 11 10
+Teal 24 9
+Teal 15 37
+Teal 9 5
+Red 36 19
+Maroon 1 35
+Red 31 29
+Teal 32 26
+Teal 37 33
+Red 38 14
+Maroon 21 8
+Teal 1 15
+Teal 32 8
+Teal 1 17
+Red 28 16
+Maroon 11 2
+Teal 30 20
+Teal 14 20
+Teal 28 19
+Teal 7 16
+Maroon 15 36
+Teal 23 13
+Teal 14 22
+Teal 27 24
+Red 13 4
+Maroon 21 20
+Red 14 7
+Maroon 33 34
+Teal 19 7
+Teal 34 32
+Red 35 2
+Teal 16 18
+Teal 26 23
+Maroon 13 10
+Maroon 24 36
+Maroon 10 25
+Red 38 0
+Teal 21 22
+Maroon 31 21
+Teal 9 16
+Maroon 19 3
+Teal 35 14
+Teal 8 13
+Teal 27 0
+Red 38 29
+Teal 32 21
+Teal 27 38
+Teal 26 2
+Teal 38 25
+Teal 25 20
+Teal 31 15
+Red 38 34
+Maroon 32 38
+8
+Red 0
+Green 0
+Yellow 0
+Purple 0
+Cyan 0
+Orange 2 Red Yellow
+Maroon 2 Red Purple
+Emerald 2 Green Cyan
+26
+2
+Purple 117
+Maroon 106
+3
+Orange 140
+Cyan 86
+Maroon 165
+2
+Red 70
+Green 149
+2
+Red 149
+Purple 64
+2
+Red 138
+Emerald 84
+2
+Orange 73
+Emerald 148
+2
+Orange 172
+Yellow 132
+2
+Orange 92
+Red 50
+2
+Red 172
+Green 179
+3
+Green 148
+Red 158
+Cyan 151
+3
+Cyan 131
+Maroon 77
+Orange 120
+2
+Cyan 97
+Purple 103
+2
+Red 150
+Yellow 91
+3
+Purple 83
+Cyan 171
+Red 176
+2
+Green 154
+Red 125
+3
+Red 147
+Maroon 147
+Green 126
+3
+Yellow 96
+Purple 131
+Orange 80
+3
+Green 100
+Purple 86
+Maroon 85
+3
+Maroon 81
+Emerald 164
+Cyan 110
+3
+Maroon 127
+Purple 113
+Orange 154
+3
+Red 74
+Emerald 151
+Green 134
+3
+Emerald 126
+Maroon 61
+Cyan 171
+3
+Yellow 76
+Green 112
+Red 84
+3
+Yellow 162
+Green 95
+Maroon 69
+3
+Emerald 60
+Maroon 103
+Purple 145
+3
+Cyan 95
+Emerald 58
+Maroon 84
+239
+Emerald 18 15
+Maroon 5 6
+Emerald 23 1
+Maroon 24 9
+Emerald 5 1
+Red 18 2
+Emerald 14 12
+Maroon 20 15
+Emerald 0 9
+Emerald 2 9
+Emerald 17 19
+Red 13 11
+Red 18 6
+Orange 9 1
+Emerald 18 24
+Orange 19 11
+Orange 20 18
+Orange 20 3
+Red 2 15
+Maroon 9 25
+Red 2 11
+Maroon 18 15
+Emerald 5 2
+Emerald 21 15
+Orange 18 10
+Maroon 0 8
+Red 5 24
+Emerald 22 6
+Orange 25 12
+Emerald 7 4
+Orange 17 6
+Maroon 16 5
+Maroon 3 6
+Emerald 1 20
+Maroon 2 16
+Emerald 19 11
+Orange 4 7
+Orange 1 13
+Orange 17 16
+Red 18 20
+Maroon 11 9
+Emerald 21 20
+Red 0 17
+Orange 13 19
+Red 1 25
+Red 5 16
+Orange 20 22
+Emerald 14 17
+Maroon 17 10
+Maroon 7 2
+Maroon 5 10
+Emerald 6 1
+Emerald 3 1
+Maroon 13 9
+Emerald 22 12
+Maroon 10 8
+Emerald 22 2
+Orange 12 11
+Orange 15 14
+Maroon 5 4
+Maroon 7 4
+Emerald 24 10
+Orange 1 6
+Emerald 18 0
+Emerald 1 15
+Maroon 12 14
+Red 11 9
+Red 20 10
+Orange 22 12
+Red 25 19
+Orange 1 2
+Orange 2 10
+Emerald 10 15
+Maroon 1 18
+Orange 0 6
+Orange 22 14
+Maroon 6 24
+Maroon 18 16
+Emerald 15 7
+Maroon 21 11
+Red 3 14
+Emerald 15 10
+Emerald 18 17
+Emerald 15 19
+Orange 14 12
+Emerald 17 20
+Emerald 16 0
+Orange 0 12
+Orange 15 1
+Maroon 7 5
+Red 23 16
+Orange 15 21
+Emerald 17 7
+Maroon 8 13
+Maroon 24 6
+Maroon 22 21
+Emerald 25 0
+Emerald 20 5
+Emerald 9 16
+Emerald 25 13
+Red 14 19
+Emerald 11 0
+Orange 7 23
+Maroon 10 0
+Maroon 25 7
+Maroon 10 5
+Emerald 15 8
+Orange 23 5
+Maroon 17 9
+Emerald 14 15
+Maroon 4 21
+Orange 13 17
+Orange 11 6
+Red 10 12
+Orange 14 22
+Maroon 8 22
+Emerald 10 0
+Maroon 25 13
+Maroon 25 16
+Emerald 25 21
+Orange 0 5
+Red 4 1
+Maroon 15 17
+Emerald 22 3
+Orange 5 0
+Maroon 6 13
+Maroon 18 12
+Red 1 23
+Maroon 7 12
+Red 2 1
+Orange 4 20
+Orange 25 16
+Orange 12 9
+Orange 19 5
+Emerald 17 8
+Red 21 18
+Maroon 25 8
+Emerald 0 17
+Emerald 23 22
+Maroon 6 1
+Maroon 10 15
+Red 1 16
+Maroon 18 20
+Orange 8 23
+Maroon 0 25
+Orange 13 1
+Orange 25 0
+Orange 12 13
+Emerald 17 24
+Maroon 0 1
+Emerald 16 13
+Orange 21 20
+Maroon 3 25
+Orange 23 13
+Red 5 19
+Red 20 9
+Orange 13 7
+Maroon 14 19
+Red 9 23
+Orange 0 17
+Red 18 1
+Emerald 15 11
+Emerald 4 1
+Emerald 6 18
+Orange 8 17
+Emerald 1 12
+Maroon 4 23
+Maroon 19 10
+Maroon 11 23
+Maroon 14 8
+Emerald 0 6
+Emerald 18 7
+Orange 2 13
+Red 7 3
+Emerald 22 8
+Orange 7 2
+Maroon 0 15
+Red 16 6
+Maroon 4 19
+Red 10 9
+Emerald 12 10
+Orange 21 16
+Red 4 18
+Red 0 23
+Orange 8 2
+Maroon 5 8
+Red 19 23
+Emerald 3 11
+Red 7 21
+Maroon 22 15
+Red 25 4
+Orange 9 21
+Emerald 14 22
+Emerald 4 6
+Emerald 4 11
+Emerald 24 2
+Emerald 10 8
+Orange 21 17
+Orange 21 24
+Orange 24 25
+Emerald 3 14
+Orange 2 19
+Emerald 15 2
+Orange 14 24
+Maroon 1 15
+Orange 15 8
+Maroon 0 9
+Maroon 24 13
+Emerald 10 16
+Maroon 9 17
+Red 1 22
+Maroon 22 4
+Maroon 4 1
+Red 2 21
+Emerald 17 9
+Emerald 6 9
+Maroon 14 6
+Maroon 4 17
+Maroon 23 25
+Orange 23 2
+Maroon 23 12
+Orange 14 19
+Maroon 13 11
+Orange 6 24
+Maroon 3 18
+Orange 25 14
+Maroon 18 25
+Emerald 24 12
+Emerald 18 2
+Maroon 18 17
+Emerald 17 6
+Orange 18 15
+Red 9 15
+Red 4 6
+Maroon 7 20
+Orange 13 24
+Emerald 19 9
+Orange 19 15
+Maroon 15 16
+13
+Red 0
+Green 0
+Blue 0
+Yellow 0
+Purple 0
+Cyan 0
+Lime 2 Green Yellow
+Orange 2 Red Yellow
+Maroon 2 Red Purple
+Violet 2 Blue Purple
+Teal 2 Blue Cyan
+Emerald 2 Green Cyan
+Black 6 Red Green Blue Yellow Purple Cyan
+36
+5
+Black 59
+Orange 46
+Teal 81
+Maroon 109
+Emerald 146
+4
+Violet 58
+Green 163
+Lime 113
+Yellow 113
+5
+Blue 149
+Yellow 151
+Black 159
+Violet 154
+Maroon 67
+4
+Black 139
+Violet 50
+Lime 80
+Teal 120
+3
+Red 101
+Green 156
+Lime 136
+4
+Maroon 60
+Green 152
+Yellow 50
+Black 121
+5
+Black 73
+Cyan 138
+Green 110
+Violet 60
+Purple 97
+5
+Maroon 123
+Cyan 149
+Yellow 66
+Orange 164
+Teal 102
+4
+Cyan 151
+Black 47
+Orange 104
+Purple 46
+3
+Emerald 141
+Teal 85
+Maroon 156
+5
+Black 74
+Yellow 93
+Cyan 75
+Violet 165
+Purple 49
+4
+Blue 108
+Cyan 96
+Yellow 116
+Violet 50
+3
+Blue 151
+Green 135
+Purple 142
+3
+Black 149
+Teal 147
+Emerald 101
+3
+Orange 67
+Black 91
+Yellow 98
+5
+Orange 155
+Emerald 115
+Red 67
+Blue 62
+Maroon 151
+5
+Emerald 114
+Teal 44
+Cyan 104
+Maroon 64
+Blue 131
+4
+Cyan 141
+Yellow 120
+Black 76
+Orange 88
+3
+Black 107
+Cyan 77
+Lime 156
+4
+Cyan 149
+Lime 86
+Red 155
+Emerald 60
+5
+Black 151
+Lime 43
+Purple 147
+Yellow 82
+Maroon 151
+3
+Red 84
+Teal 167
+Blue 45
+3
+Cyan 143
+Teal 81
+Red 166
+3
+Teal 100
+Cyan 128
+Black 145
+4
+Red 127
+Yellow 158
+Maroon 88
+Green 89
+3
+Emerald 84
+Black 117
+Orange 78
+5
+Green 150
+Blue 144
+Emerald 163
+Black 89
+Purple 166
+5
+Blue 131
+Lime 116
+Black 114
+Violet 134
+Cyan 67
+4
+Purple 133
+Green 160
+Violet 49
+Cyan 122
+5
+Lime 45
+Violet 124
+Purple 53
+Green 75
+Black 45
+3
+Cyan 118
+Maroon 157
+Red 171
+3
+Violet 167
+Teal 83
+Blue 104
+5
+Black 102
+Purple 109
+Violet 73
+Emerald 117
+Orange 135
+5
+Cyan 50
+Black 118
+Maroon 162
+Red 44
+Teal 52
+3
+Yellow 131
+Orange 91
+Blue 141
+4
+Red 128
+Purple 58
+Emerald 56
+Orange 160
+94
+Orange 16 14
+Orange 17 27
+Orange 33 15
+Orange 21 14
+Orange 15 2
+Orange 10 18
+Black 12 3
+Maroon 18 27
+Lime 12 19
+Lime 5 25
+Orange 10 11
+Maroon 31 3
+Orange 0 21
+Lime 1 23
+Lime 23 13
+Maroon 27 32
+Maroon 23 35
+Orange 20 17
+Black 28 11
+Orange 33 25
+Lime 21 16
+Maroon 19 32
+Orange 0 19
+Maroon 31 22
+Orange 21 29
+Black 33 35
+Orange 21 6
+Black 26 15
+Orange 3 7
+Lime 35 31
+Orange 29 25
+Lime 32 16
+Orange 15 1
+Black 11 1
+Maroon 5 10
+Orange 15 4
+Lime 2 33
+Lime 27 15
+Orange 6 17
+Lime 27 20
+Lime 3 23
+Orange 32 15
+Black 1 8
+Orange 31 3
+Maroon 34 22
+Orange 15 24
+Orange 27 15
+Maroon 26 29
+Black 11 29
+Orange 13 32
+Maroon 20 0
+Lime 12 14
+Orange 19 11
+Lime 18 16
+Maroon 35 6
+Maroon 24 21
+Maroon 27 30
+Lime 5 1
+Orange 14 31
+Orange 24 19
+Lime 4 7
+Orange 6 21
+Maroon 27 6
+Orange 22 16
+Lime 18 0
+Lime 24 0
+Lime 28 5
+Maroon 5 22
+Orange 29 13
+Black 10 12
+Maroon 24 28
+Maroon 8 28
+Maroon 32 20
+Maroon 9 20
+Orange 17 12
+Lime 19 32
+Orange 14 19
+Lime 13 8
+Lime 29 22
+Maroon 24 12
+Black 20 27
+Orange 12 4
+Orange 15 33
+Orange 16 29
+Orange 22 5
+Lime 26 14
+Orange 1 15
+Lime 11 22
+Black 24 17
+Orange 32 9
+Lime 34 16
+Orange 2 25
+Maroon 21 12
+Orange 2 30
+13
+Red 0
+Green 0
+Blue 0
+Yellow 0
+Purple 0
+Cyan 0
+Lime 2 Green Yellow
+Orange 2 Red Yellow
+Maroon 2 Red Purple
+Violet 2 Blue Purple
+Teal 2 Blue Cyan
+Emerald 2 Green Cyan
+Black 6 Red Green Blue Yellow Purple Cyan
+32
+2
+Red 127
+Black 213
+3
+Emerald 180
+Black 136
+Orange 89
+3
+Purple 115
+Violet 226
+Orange 64
+2
+Orange 151
+Blue 99
+3
+Cyan 243
+Purple 209
+Blue 191
+2
+Purple 69
+Orange 179
+2
+Cyan 111
+Maroon 197
+3
+Cyan 205
+Lime 222
+Black 128
+3
+Red 144
+Blue 207
+Violet 118
+2
+Green 114
+Emerald 139
+2
+Green 177
+Maroon 154
+2
+Orange 67
+Red 78
+3
+Lime 163
+Purple 106
+Black 231
+2
+Maroon 137
+Black 213
+2
+Maroon 69
+Lime 223
+3
+Maroon 179
+Blue 149
+Yellow 186
+3
+Teal 78
+Yellow 172
+Violet 170
+3
+Purple 83
+Lime 160
+Teal 64
+2
+Cyan 137
+Blue 118
+3
+Teal 123
+Purple 134
+Lime 209
+3
+Maroon 108
+Violet 188
+Cyan 137
+3
+Purple 245
+Teal 224
+Emerald 102
+3
+Green 193
+Emerald 130
+Lime 193
+3
+Emerald 140
+Yellow 114
+Purple 113
+3
+Orange 127
+Blue 131
+Black 198
+3
+Violet 120
+Blue 162
+Emerald 219
+3
+Violet 73
+Orange 67
+Teal 86
+3
+Yellow 215
+Orange 77
+Lime 162
+3
+Red 212
+Yellow 229
+Teal 178
+2
+Teal 128
+Maroon 184
+2
+Purple 216
+Violet 222
+2
+Teal 98
+Yellow 147
+184
+Teal 28 30
+Lime 7 4
+Black 7 3
+Yellow 28 14
+Black 13 12
+Lime 4 31
+Lime 31 12
+Lime 7 16
+Black 6 22
+Blue 26 3
+Orange 0 2
+Blue 26 19
+Lime 13 6
+Lime 5 11
+Lime 2 13
+Black 21 12
+Blue 25 6
+Yellow 14 19
+Cyan 22 0
+Lime 16 21
+Orange 21 12
+Lime 15 7
+Orange 7 20
+Black 18 17
+Black 2 6
+Teal 23 11
+Teal 28 16
+Blue 10 23
+Black 18 15
+Teal 18 29
+Lime 9 26
+Blue 8 10
+Cyan 18 15
+Blue 6 23
+Teal 0 28
+Lime 24 7
+Blue 2 23
+Yellow 1 22
+Black 11 22
+Teal 15 20
+Black 27 11
+Lime 22 30
+Teal 7 17
+Blue 16 27
+Orange 13 15
+Blue 4 23
+Blue 5 16
+Black 22 31
+Orange 0 28
+Blue 27 18
+Lime 0 2
+Lime 8 26
+Lime 12 16
+Orange 11 16
+Black 28 3
+Teal 4 22
+Lime 9 16
+Cyan 13 31
+Yellow 3 30
+Teal 28 29
+Black 8 18
+Yellow 1 0
+Lime 3 22
+Blue 24 18
+Black 0 30
+Black 2 20
+Black 0 29
+Orange 5 17
+Teal 0 14
+Orange 13 22
+Yellow 14 16
+Yellow 10 5
+Teal 3 10
+Black 29 21
+Lime 6 0
+Blue 0 15
+Lime 8 17
+Orange 31 22
+Lime 24 27
+Yellow 11 0
+Blue 28 17
+Yellow 11 24
+Teal 8 5
+Yellow 8 4
+Teal 14 13
+Teal 11 28
+Yellow 10 7
+Lime 15 25
+Blue 11 15
+Black 28 29
+Black 2 23
+Black 31 2
+Teal 30 21
+Blue 14 4
+Yellow 0 31
+Lime 3 17
+Teal 5 22
+Teal 29 21
+Black 18 30
+Black 15 6
+Blue 13 7
+Cyan 28 9
+Yellow 17 30
+Blue 29 31
+Black 4 12
+Lime 16 0
+Yellow 5 31
+Yellow 27 1
+Orange 30 13
+Black 2 12
+Orange 7 1
+Blue 20 30
+Blue 30 7
+Teal 7 8
+Lime 30 24
+Blue 6 15
+Yellow 21 6
+Blue 0 26
+Blue 15 29
+Lime 5 6
+Orange 24 8
+Blue 8 18
+Teal 4 13
+Black 5 25
+Yellow 27 31
+Lime 16 14
+Teal 6 8
+Orange 4 0
+Black 1 26
+Lime 3 25
+Orange 10 14
+Lime 1 13
+Lime 3 1
+Lime 11 8
+Yellow 19 6
+Black 24 29
+Blue 22 21
+Yellow 19 8
+Blue 28 26
+Black 21 4
+Black 14 28
+Blue 4 2
+Lime 1 2
+Yellow 25 9
+Cyan 12 21
+Lime 25 21
+Lime 13 23
+Yellow 8 18
+Teal 16 27
+Yellow 27 30
+Lime 18 6
+Yellow 14 5
+Yellow 0 24
+Teal 1 14
+Blue 10 17
+Cyan 27 9
+Orange 14 21
+Teal 9 17
+Teal 16 14
+Lime 28 29
+Teal 21 16
+Lime 1 28
+Lime 28 3
+Blue 2 26
+Black 11 2
+Orange 2 18
+Lime 9 3
+Blue 9 26
+Cyan 24 9
+Yellow 31 3
+Lime 19 11
+Orange 23 28
+Blue 0 24
+Black 28 15
+Lime 20 9
+Teal 3 9
+Yellow 12 0
+Orange 21 16
+Blue 1 12
+Orange 11 18
+Teal 30 20
+Lime 14 17
+Teal 29 23
+Yellow 4 21
+8
+Red 0
+Green 0
+Blue 0
+Yellow 0
+Cyan 0
+Orange 2 Red Yellow
+Teal 2 Blue Cyan
+Emerald 2 Green Cyan
+36
+3
+Emerald 47
+Yellow 76
+Orange 80
+2
+Teal 96
+Red 100
+3
+Orange 146
+Green 66
+Red 153
+2
+Teal 124
+Blue 80
+3
+Teal 63
+Cyan 43
+Green 58
+3
+Yellow 137
+Blue 89
+Orange 89
+2
+Orange 160
+Emerald 91
+3
+Teal 98
+Orange 65
+Green 62
+2
+Red 106
+Yellow 79
+3
+Cyan 154
+Emerald 148
+Yellow 53
+2
+Teal 60
+Blue 132
+2
+Blue 118
+Orange 76
+3
+Yellow 78
+Green 109
+Orange 73
+2
+Teal 83
+Cyan 135
+3
+Green 95
+Cyan 88
+Emerald 118
+3
+Emerald 40
+Red 46
+Green 133
+2
+Teal 61
+Emerald 66
+2
+Emerald 75
+Orange 72
+2
+Green 101
+Teal 159
+3
+Teal 93
+Orange 52
+Red 122
+3
+Teal 96
+Red 40
+Cyan 50
+3
+Orange 63
+Green 146
+Teal 122
+2
+Orange 157
+Yellow 82
+2
+Cyan 143
+Teal 110
+2
+Cyan 42
+Yellow 75
+3
+Blue 152
+Orange 136
+Red 85
+3
+Blue 119
+Red 131
+Yellow 76
+3
+Orange 124
+Cyan 43
+Yellow 44
+2
+Green 145
+Teal 131
+3
+Blue 76
+Green 42
+Cyan 115
+3
+Cyan 70
+Teal 73
+Emerald 157
+2
+Blue 73
+Emerald 49
+3
+Cyan 83
+Yellow 146
+Teal 66
+2
+Emerald 51
+Red 160
+2
+Blue 107
+Green 104
+2
+Red 82
+Blue 146
+196
+Red 8 33
+Yellow 17 5
+Red 19 15
+Yellow 5 0
+Yellow 31 1
+Yellow 3 33
+Red 1 21
+Yellow 11 5
+Teal 29 25
+Emerald 15 29
+Orange 33 28
+Orange 4 15
+Yellow 24 14
+Yellow 8 28
+Red 13 34
+Yellow 33 16
+Yellow 16 18
+Teal 23 8
+Yellow 3 13
+Yellow 17 16
+Red 10 22
+Yellow 32 35
+Yellow 17 18
+Yellow 16 6
+Emerald 11 32
+Teal 1 30
+Emerald 13 19
+Teal 5 9
+Red 32 35
+Red 24 14
+Orange 29 7
+Teal 9 1
+Yellow 9 17
+Teal 6 21
+Yellow 3 32
+Yellow 12 34
+Teal 3 9
+Teal 33 10
+Teal 5 27
+Yellow 0 6
+Teal 16 3
+Red 5 35
+Emerald 21 34
+Emerald 19 12
+Yellow 7 22
+Yellow 18 11
+Teal 26 14
+Yellow 8 18
+Yellow 33 3
+Yellow 4 13
+Yellow 24 32
+Yellow 8 22
+Yellow 5 33
+Red 35 24
+Red 4 13
+Red 12 2
+Yellow 6 7
+Teal 3 28
+Teal 35 32
+Yellow 25 19
+Yellow 4 22
+Yellow 4 26
+Yellow 0 10
+Yellow 24 17
+Teal 13 1
+Teal 24 30
+Yellow 27 2
+Yellow 28 21
+Yellow 1 10
+Yellow 10 1
+Orange 21 23
+Red 28 21
+Teal 21 13
+Yellow 8 32
+Orange 6 31
+Teal 21 15
+Orange 7 30
+Yellow 4 10
+Yellow 15 33
+Yellow 19 34
+Teal 25 1
+Yellow 13 25
+Yellow 2 23
+Yellow 15 14
+Yellow 18 31
+Red 27 12
+Yellow 27 11
+Yellow 31 34
+Orange 11 19
+Red 1 19
+Orange 5 15
+Yellow 1 0
+Emerald 27 19
+Orange 17 27
+Teal 4 31
+Yellow 0 32
+Red 14 28
+Yellow 3 0
+Yellow 26 18
+Red 23 24
+Yellow 1 2
+Yellow 1 21
+Yellow 35 30
+Red 11 30
+Emerald 8 0
+Yellow 11 24
+Yellow 23 13
+Red 33 30
+Yellow 14 24
+Red 5 20
+Yellow 3 16
+Yellow 23 0
+Yellow 6 27
+Yellow 13 26
+Yellow 6 29
+Yellow 11 7
+Orange 9 29
+Emerald 10 4
+Yellow 29 21
+Teal 18 10
+Yellow 25 12
+Teal 4 34
+Yellow 19 6
+Blue 32 23
+Teal 6 17
+Teal 26 3
+Orange 1 14
+Yellow 27 14
+Yellow 1 20
+Emerald 30 14
+Blue 17 6
+Yellow 16 10
+Yellow 28 26
+Yellow 8 3
+Yellow 11 13
+Teal 27 13
+Teal 9 10
+Red 16 12
+Teal 20 6
+Red 29 9
+Teal 6 9
+Yellow 19 17
+Blue 17 22
+Yellow 9 20
+Teal 4 17
+Orange 22 0
+Red 27 34
+Yellow 29 4
+Yellow 15 3
+Red 6 9
+Yellow 18 24
+Teal 2 6
+Teal 22 2
+Yellow 2 33
+Yellow 14 27
+Yellow 22 20
+Yellow 17 10
+Yellow 13 18
+Teal 31 8
+Yellow 7 11
+Yellow 28 33
+Blue 27 5
+Yellow 6 35
+Red 1 30
+Teal 12 6
+Red 16 24
+Yellow 17 30
+Yellow 0 7
+Emerald 15 7
+Emerald 29 3
+Yellow 30 34
+Yellow 27 24
+Teal 13 28
+Emerald 21 19
+Yellow 31 13
+Teal 1 34
+Yellow 26 14
+Teal 25 35
+Emerald 24 4
+Yellow 12 24
+Teal 26 12
+Blue 15 24
+Yellow 27 25
+Orange 13 23
+Yellow 25 33
+Yellow 19 8
+Yellow 11 26
+Yellow 10 3
+Orange 11 9
+Yellow 12 29
+Teal 18 1
+Emerald 6 26
+Teal 0 31
+Emerald 4 5
+Yellow 17 20
+Teal 16 9
+10
+Red 0
+Green 0
+Blue 0
+Yellow 0
+Purple 0
+Cyan 0
+Lime 2 Green Yellow
+Orange 2 Red Yellow
+Violet 2 Blue Purple
+Teal 2 Blue Cyan
+32
+4
+Purple 100
+Green 200
+Red 220
+Lime 239
+5
+Green 90
+Lime 184
+Violet 125
+Yellow 246
+Orange 204
+4
+Lime 177
+Blue 183
+Red 130
+Cyan 194
+5
+Violet 88
+Orange 83
+Yellow 209
+Lime 248
+Purple 203
+7
+Yellow 66
+Teal 196
+Cyan 99
+Green 178
+Violet 93
+Orange 74
+Purple 125
+4
+Blue 148
+Orange 175
+Purple 110
+Yellow 137
+5
+Purple 155
+Cyan 68
+Blue 146
+Red 211
+Yellow 243
+7
+Lime 238
+Orange 102
+Cyan 99
+Red 87
+Violet 245
+Yellow 104
+Purple 231
+6
+Teal 106
+Cyan 184
+Blue 143
+Orange 115
+Purple 68
+Red 246
+4
+Lime 179
+Blue 69
+Teal 117
+Purple 243
+5
+Teal 85
+Violet 125
+Orange 236
+Cyan 120
+Purple 164
+5
+Lime 81
+Teal 121
+Violet 114
+Red 107
+Purple 67
+5
+Red 169
+Yellow 99
+Cyan 220
+Purple 208
+Violet 200
+4
+Orange 208
+Blue 143
+Red 143
+Purple 103
+5
+Lime 129
+Violet 134
+Orange 218
+Cyan 227
+Purple 211
+6
+Teal 169
+Lime 137
+Orange 144
+Cyan 217
+Violet 207
+Blue 72
+7
+Purple 150
+Lime 202
+Blue 119
+Violet 212
+Green 134
+Cyan 199
+Teal 104
+7
+Violet 208
+Teal 132
+Orange 212
+Purple 154
+Cyan 229
+Yellow 103
+Green 188
+5
+Lime 192
+Orange 65
+Yellow 188
+Blue 228
+Violet 93
+7
+Violet 239
+Yellow 164
+Lime 75
+Red 202
+Cyan 188
+Teal 105
+Orange 255
+5
+Cyan 240
+Blue 198
+Yellow 126
+Orange 206
+Purple 125
+7
+Orange 171
+Violet 88
+Blue 84
+Purple 222
+Red 74
+Cyan 234
+Lime 202
+4
+Yellow 251
+Purple 153
+Violet 119
+Blue 123
+5
+Teal 203
+Violet 245
+Purple 99
+Cyan 84
+Yellow 186
+5
+Teal 103
+Green 237
+Yellow 247
+Red 203
+Blue 189
+4
+Teal 233
+Blue 227
+Purple 73
+Lime 167
+7
+Blue 80
+Teal 186
+Green 259
+Cyan 114
+Purple 214
+Lime 151
+Yellow 184
+6
+Orange 95
+Red 168
+Cyan 176
+Lime 219
+Blue 251
+Yellow 128
+4
+Purple 125
+Lime 153
+Teal 178
+Red 152
+5
+Purple 71
+Yellow 96
+Violet 218
+Cyan 204
+Orange 156
+7
+Purple 214
+Lime 159
+Green 110
+Orange 94
+Cyan 239
+Teal 151
+Yellow 158
+6
+Red 162
+Green 260
+Orange 167
+Cyan 258
+Lime 96
+Violet 261
+238
+Orange 23 7
+Violet 0 27
+Orange 13 12
+Violet 19 27
+Teal 17 13
+Lime 2 22
+Orange 6 18
+Violet 1 17
+Orange 24 15
+Teal 15 13
+Violet 20 13
+Orange 17 12
+Lime 19 18
+Lime 16 17
+Orange 20 3
+Teal 6 7
+Lime 17 14
+Teal 26 17
+Orange 1 23
+Lime 29 4
+Lime 18 6
+Teal 13 24
+Teal 26 2
+Violet 26 23
+Lime 27 24
+Teal 29 27
+Teal 9 0
+Lime 16 5
+Lime 14 27
+Teal 26 3
+Teal 8 19
+Teal 30 22
+Violet 22 2
+Teal 16 7
+Violet 2 16
+Violet 2 0
+Lime 10 3
+Lime 1 9
+Orange 3 19
+Violet 26 16
+Orange 9 7
+Violet 0 23
+Orange 30 4
+Teal 16 13
+Orange 2 18
+Violet 6 20
+Orange 1 3
+Orange 9 21
+Teal 22 25
+Teal 25 9
+Orange 22 17
+Orange 30 13
+Teal 31 5
+Orange 4 2
+Orange 26 2
+Orange 24 2
+Violet 10 1
+Violet 5 24
+Violet 0 21
+Orange 22 18
+Orange 12 31
+Lime 19 15
+Teal 10 9
+Orange 8 30
+Orange 16 2
+Teal 29 3
+Teal 11 12
+Violet 22 13
+Violet 28 14
+Violet 15 2
+Orange 12 14
+Orange 19 12
+Orange 5 10
+Teal 14 19
+Orange 10 27
+Teal 23 6
+Lime 11 17
+Orange 22 3
+Violet 20 2
+Teal 8 4
+Lime 2 13
+Teal 13 6
+Orange 9 28
+Violet 25 1
+Violet 17 19
+Teal 24 2
+Teal 12 10
+Violet 30 5
+Orange 11 20
+Orange 16 24
+Teal 31 7
+Orange 19 10
+Orange 13 9
+Orange 19 18
+Orange 5 14
+Orange 5 18
+Violet 8 10
+Orange 15 29
+Orange 21 2
+Violet 30 20
+Teal 28 0
+Violet 30 31
+Teal 13 11
+Orange 16 7
+Orange 15 11
+Lime 1 6
+Orange 27 15
+Violet 13 29
+Teal 1 28
+Violet 20 30
+Orange 15 16
+Teal 30 5
+Violet 29 30
+Orange 23 31
+Orange 4 5
+Violet 21 14
+Orange 11 6
+Lime 28 17
+Orange 14 12
+Teal 26 5
+Violet 28 9
+Orange 1 29
+Orange 26 7
+Lime 23 16
+Orange 4 21
+Violet 25 26
+Violet 17 26
+Orange 25 31
+Orange 4 19
+Lime 11 19
+Teal 3 13
+Teal 11 20
+Orange 15 22
+Lime 5 6
+Teal 25 12
+Violet 13 1
+Orange 28 30
+Teal 6 21
+Teal 23 7
+Orange 30 18
+Lime 16 6
+Lime 31 27
+Violet 20 4
+Lime 28 31
+Orange 19 24
+Orange 7 3
+Violet 2 1
+Orange 8 1
+Violet 13 8
+Lime 20 7
+Orange 0 30
+Violet 0 19
+Teal 16 4
+Teal 2 28
+Orange 30 31
+Orange 11 19
+Lime 9 18
+Orange 9 27
+Violet 24 9
+Teal 4 20
+Violet 29 23
+Lime 20 21
+Orange 5 4
+Orange 23 21
+Orange 7 29
+Lime 0 24
+Teal 16 10
+Teal 3 1
+Teal 21 13
+Orange 13 15
+Violet 5 28
+Orange 17 1
+Orange 19 2
+Violet 16 25
+Orange 22 1
+Violet 8 28
+Lime 14 30
+Orange 21 3
+Teal 11 2
+Teal 8 18
+Lime 23 20
+Teal 0 13
+Orange 0 20
+Violet 25 3
+Lime 22 29
+Lime 3 13
+Violet 1 29
+Violet 5 21
+Violet 13 26
+Orange 25 29
+Orange 18 9
+Teal 22 21
+Lime 22 24
+Lime 9 6
+Violet 22 31
+Orange 2 30
+Teal 2 20
+Teal 13 9
+Violet 15 4
+Violet 24 28
+Lime 4 12
+Orange 28 19
+Teal 16 26
+Violet 22 12
+Lime 13 9
+Orange 8 0
+Orange 27 9
+Violet 4 25
+Orange 13 10
+Orange 28 16
+Lime 26 30
+Violet 0 3
+Lime 13 21
+Orange 28 8
+Violet 9 25
+Violet 18 22
+Violet 15 17
+Teal 25 0
+Lime 15 21
+Lime 29 7
+Lime 18 20
+Teal 16 9
+Violet 10 14
+Orange 9 23
+Violet 30 8
+Lime 24 30
+Orange 20 2
+Orange 14 8
+Lime 12 26
+Violet 14 28
+Violet 20 11
+Orange 7 22
+Violet 26 5
+Orange 15 1
+Violet 24 23
+Orange 24 28
+Orange 19 5
+Lime 8 11
+6
+Green 0
+Blue 0
+Purple 0
+Cyan 0
+Violet 2 Blue Purple
+Emerald 2 Green Cyan
+36
+2
+Cyan 201
+Purple 175
+2
+Cyan 161
+Emerald 111
+2
+Green 129
+Cyan 121
+2
+Green 56
+Emerald 78
+2
+Emerald 151
+Violet 169
+2
+Emerald 58
+Blue 70
+3
+Cyan 170
+Purple 107
+Green 169
+2
+Violet 64
+Cyan 138
+3
+Emerald 93
+Blue 141
+Violet 183
+3
+Cyan 157
+Emerald 130
+Blue 74
+3
+Purple 124
+Emerald 89
+Blue 61
+2
+Blue 178
+Violet 145
+3
+Purple 75
+Green 72
+Cyan 179
+3
+Emerald 87
+Violet 201
+Blue 175
+3
+Emerald 124
+Cyan 99
+Violet 103
+2
+Cyan 112
+Green 54
+2
+Cyan 180
+Blue 204
+2
+Green 99
+Cyan 164
+3
+Purple 199
+Blue 111
+Emerald 77
+3
+Violet 164
+Blue 86
+Cyan 137
+2
+Violet 197
+Cyan 154
+2
+Green 125
+Cyan 150
+2
+Cyan 197
+Purple 85
+3
+Purple 107
+Violet 61
+Blue 178
+2
+Emerald 133
+Green 131
+2
+Purple 64
+Blue 164
+2
+Violet 142
+Green 159
+2
+Cyan 132
+Emerald 152
+3
+Violet 205
+Emerald 146
+Green 90
+3
+Green 150
+Emerald 103
+Violet 66
+3
+Violet 174
+Purple 72
+Blue 81
+3
+Blue 63
+Green 63
+Cyan 68
+2
+Green 106
+Blue 101
+3
+Emerald 202
+Green 122
+Violet 87
+3
+Cyan 107
+Purple 125
+Green 157
+3
+Purple 62
+Blue 147
+Emerald 158
+195
+Emerald 3 1
+Violet 5 6
+Emerald 5 13
+Emerald 24 1
+Emerald 5 1
+Emerald 26 13
+Violet 14 3
+Emerald 9 20
+Emerald 13 35
+Violet 33 30
+Violet 26 3
+Violet 19 29
+Violet 26 24
+Violet 4 32
+Violet 19 32
+Emerald 9 7
+Emerald 15 11
+Emerald 6 2
+Emerald 26 27
+Violet 17 7
+Violet 33 23
+Violet 6 3
+Emerald 23 34
+Violet 23 17
+Violet 5 24
+Emerald 34 35
+Violet 20 30
+Emerald 8 4
+Emerald 13 15
+Emerald 31 32
+Emerald 21 10
+Emerald 23 33
+Emerald 6 32
+Emerald 4 8
+Violet 22 10
+Emerald 18 2
+Violet 3 31
+Emerald 9 22
+Emerald 14 3
+Emerald 16 22
+Emerald 4 3
+Violet 13 7
+Violet 13 0
+Emerald 13 2
+Violet 1 23
+Emerald 7 18
+Emerald 10 20
+Violet 31 2
+Violet 18 23
+Violet 15 0
+Violet 16 20
+Emerald 13 10
+Emerald 19 0
+Emerald 33 23
+Violet 7 31
+Emerald 30 33
+Violet 12 11
+Violet 7 1
+Emerald 35 15
+Emerald 27 0
+Violet 8 4
+Violet 20 0
+Emerald 0 24
+Emerald 26 34
+Emerald 28 19
+Emerald 14 7
+Emerald 23 5
+Emerald 30 5
+Emerald 18 11
+Violet 18 25
+Emerald 5 7
+Emerald 2 17
+Emerald 24 6
+Emerald 17 10
+Emerald 27 35
+Emerald 2 25
+Emerald 20 24
+Emerald 13 33
+Violet 25 18
+Emerald 28 16
+Emerald 33 22
+Emerald 22 17
+Violet 17 26
+Emerald 27 1
+Violet 9 7
+Emerald 10 1
+Emerald 35 1
+Emerald 34 20
+Violet 16 32
+Emerald 28 3
+Emerald 30 10
+Violet 35 25
+Violet 11 34
+Emerald 13 29
+Emerald 13 14
+Violet 1 21
+Violet 26 22
+Emerald 22 21
+Emerald 15 5
+Violet 26 30
+Emerald 2 6
+Violet 9 33
+Violet 18 5
+Violet 28 12
+Violet 30 3
+Violet 16 13
+Emerald 25 16
+Emerald 6 18
+Emerald 26 21
+Emerald 31 21
+Emerald 22 12
+Emerald 14 34
+Violet 7 15
+Emerald 20 5
+Emerald 25 3
+Emerald 17 7
+Violet 31 18
+Emerald 27 30
+Emerald 3 14
+Emerald 31 7
+Emerald 11 17
+Emerald 5 28
+Emerald 12 19
+Emerald 35 4
+Emerald 12 20
+Violet 33 32
+Violet 18 4
+Emerald 11 5
+Emerald 29 31
+Violet 34 13
+Violet 0 5
+Emerald 29 13
+Emerald 9 35
+Emerald 21 25
+Emerald 2 22
+Emerald 25 11
+Emerald 6 30
+Emerald 26 0
+Violet 6 23
+Violet 10 13
+Emerald 28 7
+Emerald 9 21
+Emerald 11 19
+Violet 32 35
+Emerald 21 14
+Emerald 29 1
+Emerald 20 16
+Violet 22 12
+Emerald 5 19
+Emerald 5 29
+Emerald 13 1
+Violet 19 16
+Violet 14 21
+Emerald 32 9
+Violet 15 16
+Emerald 3 32
+Emerald 23 28
+Emerald 23 1
+Green 26 6
+Violet 21 6
+Violet 3 10
+Violet 18 17
+Emerald 1 19
+Emerald 0 3
+Emerald 20 14
+Emerald 28 17
+Violet 34 7
+Emerald 0 28
+Violet 29 17
+Emerald 3 5
+Violet 31 20
+Emerald 35 10
+Violet 10 2
+Emerald 9 25
+Green 18 12
+Violet 0 6
+Violet 15 33
+Emerald 13 17
+Emerald 22 1
+Emerald 16 26
+Emerald 7 16
+Emerald 34 2
+Violet 4 0
+Emerald 1 15
+Emerald 29 25
+Emerald 6 11
+Emerald 14 1
+Emerald 12 3
+Emerald 5 26
+Emerald 20 2
+Emerald 13 19
+Violet 17 24
+Violet 21 31
+Emerald 33 6
+Emerald 16 21
+13
+Red 0
+Green 0
+Blue 0
+Yellow 0
+Purple 0
+Cyan 0
+Lime 2 Green Yellow
+Orange 2 Red Yellow
+Maroon 2 Red Purple
+Violet 2 Blue Purple
+Teal 2 Blue Cyan
+Emerald 2 Green Cyan
+Black 6 Red Green Blue Yellow Purple Cyan
+35
+6
+Emerald 85
+Lime 240
+Green 203
+Teal 135
+Maroon 257
+Yellow 107
+5
+Emerald 248
+Orange 150
+Red 163
+Black 246
+Violet 230
+7
+Violet 79
+Teal 272
+Maroon 170
+Red 286
+Cyan 85
+Purple 146
+Blue 183
+6
+Black 133
+Purple 243
+Violet 135
+Orange 188
+Yellow 252
+Blue 231
+7
+Red 103
+Blue 77
+Green 262
+Yellow 184
+Emerald 157
+Cyan 254
+Orange 291
+7
+Cyan 178
+Yellow 290
+Black 183
+Maroon 190
+Blue 293
+Emerald 79
+Violet 291
+4
+Green 78
+Cyan 104
+Red 290
+Maroon 287
+7
+Lime 188
+Red 279
+Purple 190
+Yellow 196
+Black 142
+Teal 150
+Green 201
+6
+Black 249
+Blue 191
+Yellow 77
+Maroon 98
+Orange 104
+Emerald 236
+7
+Teal 136
+Maroon 271
+Cyan 220
+Lime 86
+Black 292
+Emerald 153
+Orange 160
+7
+Teal 288
+Blue 75
+Maroon 112
+Emerald 80
+Lime 104
+Violet 251
+Yellow 209
+5
+Blue 101
+Cyan 211
+Purple 252
+Red 175
+Green 111
+7
+Teal 197
+Red 199
+Emerald 242
+Yellow 238
+Violet 148
+Cyan 256
+Black 81
+7
+Black 220
+Green 221
+Maroon 110
+Cyan 260
+Violet 240
+Teal 277
+Red 176
+7
+Blue 131
+Green 118
+Maroon 171
+Lime 162
+Violet 266
+Red 151
+Yellow 215
+5
+Lime 166
+Emerald 205
+Black 91
+Yellow 186
+Orange 291
+6
+Purple 278
+Violet 263
+Black 233
+Orange 151
+Red 177
+Yellow 247
+6
+Maroon 218
+Teal 103
+Lime 100
+Green 160
+Purple 199
+Emerald 246
+4
+Cyan 281
+Green 90
+Yellow 133
+Violet 142
+5
+Purple 186
+Green 204
+Cyan 87
+Yellow 112
+Violet 231
+4
+Blue 87
+Green 277
+Teal 204
+Cyan 116
+4
+Black 101
+Green 117
+Maroon 220
+Red 173
+6
+Cyan 115
+Red 231
+Emerald 149
+Purple 186
+Green 256
+Yellow 272
+7
+Orange 192
+Blue 167
+Teal 236
+Violet 264
+Red 210
+Emerald 98
+Cyan 134
+6
+Violet 95
+Maroon 125
+Blue 135
+Red 251
+Lime 233
+Purple 163
+7
+Green 216
+Maroon 242
+Emerald 236
+Purple 222
+Red 267
+Cyan 266
+Yellow 143
+6
+Black 198
+Orange 293
+Green 289
+Cyan 85
+Emerald 244
+Teal 115
+5
+Red 257
+Cyan 138
+Green 285
+Black 78
+Lime 258
+6
+Emerald 280
+Maroon 131
+Yellow 100
+Teal 97
+Red 77
+Cyan 249
+5
+Yellow 249
+Orange 85
+Red 137
+Blue 92
+Cyan 81
+4
+Green 164
+Blue 105
+Yellow 85
+Black 91
+6
+Maroon 154
+Purple 230
+Green 94
+Black 294
+Emerald 277
+Teal 274
+5
+Emerald 192
+Teal 249
+Red 129
+Orange 138
+Black 165
+5
+Purple 176
+Cyan 168
+Red 78
+Teal 272
+Emerald 279
+4
+Cyan 248
+Maroon 222
+Green 83
+Lime 272
+193
+Teal 16 31
+Cyan 11 16
+Cyan 29 0
+Red 28 4
+Cyan 1 12
+Black 17 27
+Cyan 33 16
+Green 13 23
+Blue 26 20
+Cyan 7 32
+Blue 26 27
+Orange 26 33
+Black 8 30
+Cyan 5 22
+Black 26 19
+Green 18 16
+Green 11 28
+Teal 22 4
+Orange 9 1
+Cyan 21 17
+Blue 22 10
+Orange 31 32
+Black 19 2
+Teal 3 25
+Cyan 15 23
+Emerald 10 3
+Cyan 21 8
+Cyan 10 21
+Emerald 27 32
+Orange 25 29
+Emerald 0 10
+Emerald 4 16
+Yellow 19 27
+Orange 26 4
+Teal 25 32
+Cyan 2 27
+Cyan 13 32
+Red 17 8
+Black 33 1
+Emerald 3 24
+Cyan 20 24
+Purple 33 12
+Cyan 14 5
+Emerald 5 34
+Yellow 31 7
+Emerald 14 34
+Green 34 22
+Teal 22 33
+Yellow 19 30
+Green 6 21
+Red 1 28
+Blue 33 3
+Emerald 33 25
+Orange 23 10
+Teal 17 15
+Green 31 30
+Green 9 4
+Emerald 21 14
+Cyan 11 12
+Blue 8 28
+Cyan 3 33
+Black 30 24
+Black 25 20
+Cyan 19 14
+Cyan 24 23
+Cyan 1 31
+Purple 15 29
+Teal 13 0
+Orange 18 2
+Green 19 20
+Emerald 33 24
+Blue 13 27
+Black 5 34
+Blue 25 19
+Emerald 16 18
+Orange 0 25
+Orange 10 21
+Teal 4 32
+Orange 34 33
+Orange 31 15
+Black 3 33
+Emerald 17 24
+Cyan 4 26
+Black 9 31
+Green 24 9
+Green 21 14
+Purple 33 9
+Blue 14 6
+Purple 3 22
+Emerald 31 6
+Black 9 7
+Emerald 4 11
+Cyan 22 25
+Teal 30 9
+Blue 12 17
+Teal 1 5
+Cyan 29 12
+Red 5 32
+Teal 33 28
+Black 14 10
+Green 11 14
+Purple 28 33
+Orange 18 0
+Emerald 25 16
+Black 9 6
+Cyan 5 6
+Green 1 0
+Black 19 11
+Orange 2 10
+Teal 0 19
+Blue 18 12
+Green 15 9
+Purple 11 1
+Orange 21 12
+Orange 28 0
+Emerald 16 30
+Black 12 33
+Green 19 10
+Orange 1 18
+Blue 28 13
+Black 22 31
+Cyan 2 22
+Purple 11 4
+Purple 0 7
+Blue 21 34
+Teal 19 13
+Blue 21 14
+Black 8 15
+Green 14 8
+Black 34 13
+Orange 24 7
+Green 27 13
+Black 5 22
+Orange 22 6
+Red 26 27
+Orange 0 3
+Blue 27 17
+Orange 16 5
+Teal 10 20
+Green 12 17
+Emerald 34 15
+Green 1 2
+Green 10 32
+Teal 1 12
+Blue 25 28
+Red 4 1
+Green 32 10
+Orange 12 2
+Purple 2 26
+Orange 7 34
+Cyan 12 24
+Orange 1 24
+Purple 26 1
+Emerald 29 6
+Emerald 25 20
+Cyan 0 34
+Cyan 23 19
+Green 31 5
+Emerald 6 8
+Green 1 34
+Teal 21 3
+Orange 19 29
+Orange 0 29
+Orange 6 2
+Blue 25 14
+Cyan 18 11
+Black 21 22
+Cyan 0 2
+Green 30 20
+Teal 7 26
+Red 34 29
+Cyan 13 0
+Teal 22 1
+Cyan 24 34
+Teal 6 7
+Purple 33 27
+Emerald 12 32
+Cyan 5 19
+Green 5 16
+Blue 13 28
+Red 25 15
+Orange 28 30
+Cyan 12 23
+Orange 4 22
+Cyan 2 17
+Purple 1 0
+Cyan 1 34
+Cyan 8 17
+Emerald 14 33
+Black 31 6
+Blue 30 21
+Emerald 16 23
+Emerald 6 2
+5
+Red 0
+Blue 0
+Purple 0
+Cyan 0
+Violet 2 Blue Purple
+31
+3
+Violet 181
+Cyan 148
+Red 144
+2
+Purple 181
+Violet 167
+3
+Blue 161
+Red 102
+Violet 64
+2
+Red 177
+Cyan 166
+2
+Red 197
+Violet 77
+3
+Blue 182
+Violet 156
+Cyan 104
+3
+Red 63
+Violet 145
+Cyan 173
+3
+Red 88
+Blue 135
+Purple 114
+3
+Violet 176
+Cyan 134
+Red 114
+3
+Cyan 186
+Blue 179
+Purple 82
+2
+Red 152
+Blue 54
+2
+Violet 201
+Blue 158
+2
+Violet 89
+Red 91
+2
+Red 98
+Purple 70
+3
+Red 133
+Violet 200
+Purple 177
+2
+Blue 146
+Cyan 118
+2
+Violet 94
+Blue 118
+2
+Cyan 185
+Red 198
+2
+Violet 119
+Cyan 177
+3
+Blue 122
+Purple 74
+Cyan 117
+2
+Cyan 53
+Violet 108
+2
+Blue 135
+Purple 203
+3
+Violet 165
+Red 147
+Purple 56
+2
+Red 117
+Cyan 85
+2
+Purple 177
+Red 161
+2
+Violet 99
+Cyan 127
+2
+Violet 185
+Blue 116
+3
+Red 140
+Cyan 158
+Purple 97
+2
+Red 127
+Cyan 192
+3
+Blue 98
+Red 198
+Cyan 140
+2
+Violet 71
+Red 126
+228
+Violet 22 25
+Violet 0 14
+Violet 10 7
+Red 15 18
+Cyan 27 11
+Cyan 8 4
+Cyan 29 2
+Red 5 13
+Violet 13 15
+Violet 7 19
+Violet 24 17
+Red 11 7
+Cyan 7 19
+Violet 18 1
+Cyan 29 17
+Violet 10 8
+Red 27 15
+Red 28 13
+Cyan 24 13
+Red 24 1
+Violet 30 6
+Red 21 24
+Red 0 8
+Red 7 20
+Cyan 26 9
+Cyan 19 29
+Red 11 20
+Violet 14 4
+Cyan 27 23
+Cyan 3 1
+Cyan 27 28
+Violet 30 21
+Cyan 23 16
+Violet 9 13
+Red 9 17
+Red 26 25
+Red 27 17
+Red 16 10
+Violet 25 22
+Violet 29 30
+Violet 24 20
+Violet 2 6
+Red 19 16
+Red 4 16
+Red 29 7
+Cyan 2 5
+Cyan 6 10
+Cyan 22 14
+Cyan 30 28
+Violet 8 6
+Red 10 11
+Cyan 24 18
+Violet 23 28
+Violet 10 26
+Red 8 6
+Red 18 26
+Red 25 9
+Cyan 21 2
+Red 13 3
+Red 2 1
+Cyan 20 29
+Violet 27 21
+Cyan 9 17
+Red 17 20
+Red 8 13
+Violet 1 19
+Violet 21 30
+Red 28 30
+Red 7 5
+Red 2 29
+Violet 18 19
+Cyan 15 28
+Violet 18 12
+Violet 22 28
+Violet 12 20
+Red 22 20
+Cyan 16 12
+Violet 25 4
+Red 1 22
+Violet 12 24
+Violet 9 23
+Red 14 28
+Red 5 16
+Cyan 29 18
+Cyan 18 26
+Violet 19 1
+Violet 0 22
+Red 13 7
+Violet 16 2
+Red 26 3
+Red 20 21
+Cyan 6 13
+Cyan 18 15
+Violet 8 12
+Cyan 24 10
+Violet 7 23
+Red 20 17
+Violet 14 0
+Violet 30 20
+Violet 10 3
+Cyan 6 21
+Cyan 15 18
+Cyan 20 26
+Violet 0 10
+Violet 23 15
+Violet 24 29
+Violet 13 17
+Red 7 2
+Cyan 26 6
+Red 7 21
+Red 22 3
+Red 26 13
+Violet 5 11
+Violet 20 19
+Violet 18 5
+Red 13 23
+Violet 24 27
+Red 21 10
+Red 7 12
+Red 15 11
+Red 7 15
+Violet 12 5
+Violet 23 26
+Cyan 11 8
+Cyan 12 7
+Red 22 27
+Cyan 0 9
+Red 27 8
+Violet 13 24
+Violet 22 14
+Red 25 27
+Cyan 9 16
+Cyan 9 26
+Cyan 11 29
+Violet 4 11
+Cyan 11 1
+Cyan 5 21
+Violet 10 2
+Violet 26 23
+Red 2 19
+Red 27 13
+Red 30 13
+Red 20 23
+Violet 5 6
+Violet 18 17
+Red 28 29
+Cyan 26 25
+Violet 16 8
+Violet 24 15
+Violet 9 25
+Red 25 0
+Red 19 11
+Red 12 1
+Cyan 8 20
+Red 20 4
+Red 13 6
+Red 4 24
+Red 18 12
+Violet 0 27
+Red 20 19
+Cyan 10 22
+Cyan 12 28
+Cyan 13 21
+Red 27 30
+Violet 30 19
+Red 26 14
+Red 30 17
+Red 11 19
+Violet 28 7
+Red 2 13
+Cyan 11 12
+Violet 19 29
+Violet 1 30
+Red 29 27
+Red 12 16
+Cyan 15 9
+Cyan 20 6
+Violet 14 25
+Cyan 19 5
+Red 25 12
+Cyan 3 9
+Violet 24 5
+Red 20 29
+Violet 28 26
+Cyan 28 22
+Red 8 29
+Red 14 25
+Violet 13 12
+Cyan 30 8
+Red 2 5
+Violet 6 4
+Violet 14 9
+Violet 2 15
+Red 17 24
+Violet 0 4
+Violet 20 3
+Cyan 14 29
+Red 13 10
+Cyan 0 3
+Red 10 24
+Cyan 16 6
+Red 27 0
+Violet 0 12
+Red 18 21
+Red 6 9
+Violet 3 28
+Violet 7 21
+Violet 4 27
+Cyan 17 26
+Red 0 12
+Cyan 6 24
+Violet 28 24
+Red 22 4
+Violet 15 25
+Violet 16 9
+Cyan 3 29
+Red 26 30
+Red 17 4
+Cyan 15 29
+Red 4 28
+Red 8 16
+Violet 3 11
+Violet 23 18
+Cyan 11 9
+Violet 3 16
+Violet 15 29
+Violet 23 17
+Cyan 27 29
+8
+Red 0
+Green 0
+Blue 0
+Purple 0
+Cyan 0
+Maroon 2 Red Purple
+Violet 2 Blue Purple
+Emerald 2 Green Cyan
+48
+4
+Blue 115
+Purple 195
+Cyan 152
+Maroon 60
+5
+Cyan 97
+Purple 85
+Violet 153
+Emerald 72
+Blue 114
+4
+Cyan 197
+Blue 203
+Maroon 122
+Red 126
+5
+Blue 61
+Violet 170
+Red 144
+Maroon 61
+Cyan 169
+5
+Emerald 180
+Blue 130
+Violet 155
+Maroon 181
+Cyan 174
+5
+Cyan 157
+Maroon 79
+Blue 107
+Violet 185
+Purple 179
+5
+Cyan 91
+Violet 157
+Red 61
+Purple 107
+Emerald 61
+3
+Cyan 143
+Purple 166
+Violet 138
+4
+Blue 114
+Emerald 202
+Maroon 160
+Cyan 101
+5
+Violet 89
+Emerald 122
+Maroon 123
+Purple 138
+Green 94
+5
+Cyan 80
+Emerald 102
+Green 195
+Purple 107
+Violet 173
+5
+Blue 62
+Red 98
+Maroon 111
+Emerald 67
+Violet 175
+3
+Cyan 208
+Maroon 90
+Red 69
+5
+Green 122
+Maroon 77
+Red 185
+Violet 126
+Blue 69
+5
+Emerald 95
+Violet 143
+Blue 83
+Green 77
+Maroon 121
+3
+Green 148
+Blue 75
+Emerald 95
+4
+Green 196
+Red 78
+Cyan 84
+Emerald 80
+5
+Emerald 111
+Purple 186
+Cyan 114
+Violet 171
+Green 119
+5
+Blue 54
+Cyan 62
+Green 84
+Purple 111
+Violet 112
+5
+Violet 68
+Blue 108
+Green 126
+Red 194
+Purple 127
+3
+Green 128
+Cyan 114
+Purple 189
+5
+Cyan 60
+Blue 139
+Violet 162
+Green 89
+Maroon 208
+3
+Violet 121
+Red 57
+Purple 147
+5
+Maroon 55
+Cyan 81
+Purple 116
+Violet 100
+Green 77
+5
+Maroon 116
+Purple 170
+Cyan 207
+Red 76
+Violet 59
+4
+Cyan 179
+Emerald 53
+Maroon 95
+Violet 142
+4
+Violet 76
+Blue 176
+Red 183
+Maroon 86
+5
+Red 204
+Emerald 57
+Green 76
+Purple 188
+Maroon 75
+5
+Purple 203
+Red 85
+Emerald 147
+Blue 135
+Cyan 206
+5
+Emerald 135
+Violet 75
+Blue 133
+Green 137
+Red 197
+5
+Maroon 59
+Blue 165
+Cyan 186
+Green 113
+Violet 181
+3
+Red 103
+Emerald 62
+Violet 100
+3
+Cyan 154
+Purple 161
+Emerald 200
+3
+Red 124
+Blue 189
+Emerald 173
+4
+Violet 199
+Maroon 175
+Red 139
+Emerald 59
+5
+Blue 75
+Green 94
+Emerald 77
+Red 208
+Cyan 114
+3
+Red 161
+Green 104
+Cyan 205
+3
+Cyan 133
+Maroon 150
+Violet 157
+3
+Red 149
+Maroon 116
+Violet 209
+5
+Cyan 187
+Purple 80
+Violet 200
+Blue 134
+Maroon 58
+3
+Blue 211
+Purple 211
+Violet 141
+5
+Cyan 117
+Emerald 89
+Red 137
+Violet 134
+Maroon 55
+4
+Red 83
+Maroon 57
+Cyan 172
+Green 95
+4
+Violet 101
+Cyan 97
+Purple 192
+Blue 193
+4
+Violet 129
+Blue 112
+Maroon 131
+Emerald 168
+3
+Cyan 171
+Violet 186
+Purple 190
+4
+Purple 115
+Green 162
+Red 117
+Violet 82
+5
+Green 93
+Emerald 82
+Purple 82
+Blue 66
+Red 108
+314
+Maroon 7 1
+Blue 2 34
+Violet 27 5
+Blue 3 47
+Blue 6 33
+Emerald 11 17
+Blue 25 1
+Emerald 8 37
+Blue 14 2
+Emerald 20 32
+Maroon 5 15
+Emerald 44 27
+Maroon 33 26
+Emerald 27 31
+Blue 26 3
+Emerald 28 39
+Maroon 1 28
+Maroon 24 6
+Maroon 15 42
+Maroon 34 37
+Blue 45 36
+Blue 27 30
+Maroon 15 30
+Emerald 0 44
+Blue 46 47
+Blue 40 16
+Blue 9 10
+Maroon 14 20
+Violet 3 1
+Blue 28 33
+Emerald 31 15
+Blue 17 16
+Maroon 2 37
+Violet 11 21
+Violet 43 18
+Emerald 7 35
+Violet 20 15
+Emerald 13 22
+Maroon 43 44
+Violet 7 36
+Emerald 21 47
+Violet 25 1
+Blue 2 26
+Maroon 31 19
+Blue 39 8
+Emerald 1 22
+Blue 26 31
+Maroon 17 47
+Blue 32 43
+Emerald 23 47
+Violet 26 45
+Maroon 11 0
+Emerald 25 21
+Emerald 47 5
+Maroon 25 31
+Violet 7 0
+Violet 39 28
+Emerald 8 1
+Maroon 37 33
+Violet 46 0
+Maroon 32 40
+Maroon 9 11
+Emerald 35 40
+Emerald 44 18
+Violet 3 6
+Maroon 6 30
+Blue 44 39
+Emerald 33 40
+Blue 16 30
+Maroon 36 24
+Blue 40 27
+Blue 22 17
+Maroon 29 25
+Emerald 17 29
+Maroon 20 1
+Violet 8 33
+Maroon 37 0
+Emerald 13 14
+Blue 42 44
+Maroon 12 31
+Blue 37 27
+Violet 11 22
+Violet 14 42
+Violet 18 15
+Maroon 2 40
+Maroon 6 41
+Blue 41 30
+Violet 26 8
+Maroon 39 25
+Violet 37 8
+Blue 43 23
+Maroon 3 27
+Emerald 24 14
+Violet 21 2
+Violet 0 9
+Emerald 20 21
+Emerald 27 29
+Maroon 23 33
+Maroon 19 34
+Violet 47 9
+Blue 41 47
+Maroon 3 10
+Violet 40 11
+Blue 36 27
+Blue 37 0
+Emerald 23 42
+Violet 30 40
+Blue 19 6
+Maroon 0 20
+Maroon 45 25
+Blue 29 19
+Violet 4 44
+Violet 2 20
+Violet 33 34
+Maroon 10 31
+Blue 27 46
+Violet 9 36
+Blue 9 34
+Blue 4 7
+Blue 10 8
+Maroon 38 43
+Maroon 13 7
+Maroon 40 5
+Blue 1 24
+Blue 34 23
+Violet 2 34
+Emerald 8 20
+Violet 42 7
+Emerald 35 2
+Emerald 40 25
+Maroon 26 31
+Violet 19 20
+Maroon 29 40
+Blue 1 6
+Blue 21 45
+Violet 41 14
+Blue 23 2
+Violet 7 8
+Blue 22 10
+Maroon 24 18
+Emerald 34 25
+Violet 3 47
+Maroon 3 4
+Violet 5 28
+Blue 43 17
+Maroon 45 41
+Blue 33 37
+Maroon 21 41
+Violet 42 2
+Maroon 41 0
+Violet 42 35
+Violet 34 4
+Violet 0 6
+Maroon 11 6
+Violet 9 6
+Emerald 39 35
+Maroon 3 14
+Blue 22 44
+Blue 27 24
+Maroon 0 47
+Blue 11 40
+Maroon 13 20
+Maroon 1 5
+Blue 31 15
+Maroon 11 25
+Blue 45 2
+Maroon 40 22
+Maroon 43 39
+Maroon 7 26
+Blue 10 4
+Violet 46 16
+Maroon 20 42
+Emerald 19 35
+Violet 35 46
+Blue 10 43
+Blue 25 35
+Violet 5 0
+Violet 4 2
+Blue 37 23
+Emerald 43 8
+Maroon 29 43
+Violet 40 31
+Blue 45 16
+Violet 12 43
+Emerald 30 2
+Emerald 25 30
+Maroon 45 47
+Maroon 47 24
+Blue 15 1
+Maroon 6 11
+Blue 2 17
+Maroon 6 36
+Emerald 9 29
+Maroon 20 31
+Blue 35 3
+Emerald 43 22
+Emerald 13 11
+Blue 35 18
+Maroon 32 25
+Maroon 29 2
+Maroon 8 19
+Blue 9 12
+Blue 28 8
+Maroon 40 9
+Violet 29 43
+Emerald 36 0
+Violet 13 16
+Maroon 37 29
+Violet 25 27
+Blue 10 44
+Blue 20 36
+Blue 38 26
+Blue 26 39
+Maroon 18 44
+Maroon 3 25
+Blue 11 35
+Maroon 28 9
+Violet 20 1
+Maroon 17 13
+Violet 12 17
+Emerald 32 29
+Violet 18 31
+Maroon 34 41
+Maroon 36 3
+Emerald 28 3
+Emerald 0 23
+Blue 34 27
+Maroon 13 46
+Blue 22 38
+Emerald 29 22
+Blue 13 7
+Blue 9 26
+Maroon 6 26
+Maroon 32 30
+Emerald 11 32
+Blue 12 29
+Violet 35 28
+Maroon 30 1
+Blue 35 7
+Blue 19 16
+Emerald 14 1
+Blue 5 29
+Emerald 0 32
+Blue 40 21
+Blue 6 23
+Blue 25 23
+Emerald 40 39
+Maroon 42 44
+Violet 16 5
+Blue 4 2
+Blue 16 38
+Maroon 1 4
+Violet 14 43
+Maroon 14 3
+Maroon 13 47
+Blue 2 20
+Emerald 37 12
+Maroon 43 3
+Violet 21 37
+Blue 26 32
+Blue 4 19
+Violet 3 5
+Blue 46 45
+Maroon 47 30
+Emerald 24 47
+Blue 9 36
+Violet 36 2
+Blue 44 35
+Emerald 40 15
+Blue 21 19
+Violet 7 34
+Maroon 28 26
+Maroon 19 3
+Blue 17 1
+Violet 6 41
+Blue 21 14
+Violet 15 12
+Violet 33 19
+Emerald 14 31
+Blue 25 17
+Violet 44 8
+Emerald 33 16
+Blue 15 35
+Emerald 4 43
+Blue 28 19
+Violet 4 41
+Blue 0 37
+Blue 44 42
+Violet 1 35
+Blue 11 17
+Blue 41 16
+Violet 30 24
+Violet 22 46
+Maroon 29 27
+Violet 15 2
+Blue 6 43
+Violet 10 1
+Violet 4 22
+Maroon 21 38
+Emerald 33 9
+Maroon 1 36
+Violet 15 23
+Violet 14 37
+Blue 23 31
+Maroon 35 24
+Emerald 21 1
+Blue 21 23
+Violet 14 46
+Blue 1 7
+Maroon 12 16
+Maroon 8 39
+Blue 19 36
+Blue 20 14
+Maroon 2 0
+13
+Red 0
+Green 0
+Blue 0
+Yellow 0
+Purple 0
+Cyan 0
+Lime 2 Green Yellow
+Orange 2 Red Yellow
+Maroon 2 Red Purple
+Violet 2 Blue Purple
+Teal 2 Blue Cyan
+Emerald 2 Green Cyan
+Black 6 Red Green Blue Yellow Purple Cyan
+28
+5
+Purple 101
+Red 142
+Violet 147
+Emerald 57
+Blue 159
+5
+Black 66
+Red 97
+Green 127
+Orange 78
+Blue 56
+4
+Purple 82
+Cyan 69
+Emerald 141
+Blue 132
+4
+Purple 106
+Black 134
+Red 154
+Violet 127
+5
+Purple 48
+Green 44
+Black 127
+Lime 69
+Cyan 82
+7
+Blue 127
+Black 79
+Maroon 84
+Teal 60
+Lime 138
+Orange 156
+Emerald 143
+6
+Violet 102
+Lime 95
+Cyan 99
+Black 78
+Yellow 84
+Purple 90
+6
+Green 132
+Maroon 156
+Blue 146
+Orange 51
+Yellow 99
+Red 90
+7
+Red 65
+Green 46
+Cyan 110
+Blue 63
+Yellow 144
+Orange 138
+Maroon 117
+4
+Violet 81
+Teal 105
+Emerald 105
+Maroon 114
+4
+Black 54
+Maroon 112
+Violet 129
+Lime 89
+5
+Teal 112
+Maroon 118
+Red 133
+Orange 144
+Black 64
+5
+Maroon 151
+Orange 44
+Green 72
+Black 44
+Yellow 124
+5
+Blue 66
+Emerald 136
+Yellow 65
+Black 127
+Cyan 81
+6
+Cyan 55
+Emerald 112
+Black 134
+Maroon 119
+Green 97
+Purple 48
+7
+Orange 132
+Teal 97
+Violet 81
+Cyan 44
+Purple 82
+Emerald 98
+Red 140
+7
+Green 92
+Violet 62
+Lime 143
+Emerald 132
+Cyan 53
+Purple 110
+Red 80
+6
+Black 122
+Green 132
+Cyan 103
+Teal 42
+Yellow 120
+Violet 119
+4
+Yellow 57
+Purple 72
+Emerald 134
+Orange 57
+7
+Maroon 58
+Cyan 116
+Orange 122
+Green 65
+Emerald 95
+Red 59
+Purple 55
+4
+Lime 77
+Green 140
+Cyan 87
+Emerald 45
+5
+Cyan 125
+Teal 85
+Purple 72
+Emerald 80
+Black 43
+4
+Maroon 123
+Violet 115
+Teal 126
+Emerald 113
+5
+Green 93
+Red 106
+Teal 40
+Maroon 121
+Black 140
+6
+Orange 106
+Green 131
+Teal 46
+Maroon 96
+Red 113
+Emerald 154
+5
+Violet 101
+Emerald 133
+Maroon 109
+Teal 43
+Red 77
+5
+Teal 150
+Green 85
+Violet 120
+Cyan 159
+Emerald 42
+4
+Red 107
+Lime 60
+Purple 48
+Emerald 140
+198
+Yellow 27 24
+Yellow 12 9
+Orange 14 3
+Maroon 6 12
+Maroon 19 18
+Maroon 2 8
+Orange 18 6
+Yellow 0 16
+Yellow 12 24
+Maroon 0 10
+Maroon 17 20
+Yellow 2 10
+Maroon 17 7
+Maroon 11 23
+Lime 1 8
+Yellow 0 12
+Yellow 16 10
+Black 15 5
+Orange 20 3
+Orange 0 1
+Lime 27 0
+Maroon 9 4
+Yellow 3 24
+Maroon 13 19
+Maroon 5 0
+Yellow 25 5
+Orange 13 2
+Yellow 19 22
+Orange 20 23
+Orange 18 7
+Lime 20 0
+Lime 5 27
+Orange 25 6
+Maroon 5 14
+Maroon 25 6
+Maroon 4 7
+Yellow 23 27
+Orange 27 22
+Orange 16 14
+Orange 26 9
+Orange 19 16
+Lime 6 16
+Maroon 27 7
+Lime 1 2
+Maroon 21 15
+Lime 27 17
+Lime 16 26
+Lime 24 0
+Orange 24 9
+Maroon 21 11
+Violet 19 11
+Lime 15 21
+Maroon 17 1
+Orange 23 17
+Maroon 5 8
+Yellow 24 5
+Maroon 2 15
+Yellow 25 18
+Maroon 9 1
+Orange 1 22
+Violet 25 6
+Lime 24 13
+Yellow 18 6
+Yellow 23 14
+Black 0 13
+Orange 10 13
+Orange 25 8
+Lime 13 10
+Orange 27 4
+Maroon 26 5
+Yellow 25 16
+Maroon 1 22
+Yellow 23 8
+Orange 26 17
+Yellow 4 15
+Maroon 27 9
+Orange 20 22
+Maroon 16 19
+Maroon 14 8
+Maroon 16 10
+Lime 22 10
+Lime 23 0
+Yellow 1 12
+Maroon 8 9
+Maroon 27 17
+Yellow 19 11
+Maroon 13 1
+Lime 22 21
+Maroon 18 12
+Black 0 21
+Orange 0 19
+Orange 19 3
+Maroon 10 24
+Orange 26 20
+Yellow 16 21
+Orange 17 14
+Lime 19 20
+Black 8 15
+Orange 23 25
+Lime 24 27
+Lime 7 18
+Maroon 0 17
+Yellow 4 1
+Orange 19 10
+Lime 20 10
+Lime 7 21
+Lime 24 9
+Maroon 19 25
+Orange 3 21
+Yellow 11 15
+Maroon 6 27
+Maroon 2 10
+Lime 4 8
+Violet 11 18
+Maroon 5 4
+Black 18 16
+Maroon 22 11
+Maroon 23 2
+Orange 12 0
+Lime 25 8
+Yellow 18 12
+Maroon 22 12
+Yellow 4 10
+Orange 9 5
+Orange 8 2
+Maroon 24 5
+Yellow 5 14
+Yellow 16 5
+Violet 10 9
+Orange 21 25
+Black 20 3
+Maroon 12 11
+Maroon 3 25
+Violet 17 3
+Maroon 23 13
+Orange 17 10
+Maroon 19 17
+Orange 22 18
+Orange 15 9
+Maroon 2 16
+Yellow 6 11
+Lime 0 8
+Maroon 23 21
+Yellow 22 10
+Orange 24 0
+Maroon 0 2
+Maroon 3 8
+Yellow 2 17
+Lime 11 9
+Maroon 18 5
+Orange 11 5
+Lime 8 7
+Yellow 12 1
+Orange 16 11
+Maroon 23 7
+Yellow 11 22
+Maroon 18 13
+Orange 15 17
+Maroon 3 9
+Orange 22 7
+Orange 23 12
+Maroon 21 19
+Yellow 12 14
+Maroon 10 5
+Maroon 6 10
+Maroon 7 0
+Maroon 27 16
+Yellow 11 17
+Orange 2 13
+Maroon 9 25
+Orange 13 12
+Orange 27 8
+Yellow 3 2
+Lime 1 25
+Yellow 11 27
+Lime 25 14
+Yellow 17 22
+Yellow 1 16
+Maroon 25 16
+Lime 17 0
+Maroon 21 26
+Lime 17 14
+Lime 9 2
+Orange 18 16
+Lime 10 4
+Orange 5 8
+Orange 17 7
+Maroon 0 11
+Orange 19 15
+Maroon 23 11
+Maroon 6 17
+Maroon 19 0
+Maroon 5 27
+Maroon 0 1
+Lime 2 6
+Yellow 5 6
+Yellow 14 20
+Lime 18 24
+13
+Red 0
+Green 0
+Blue 0
+Yellow 0
+Purple 0
+Cyan 0
+Lime 2 Green Yellow
+Orange 2 Red Yellow
+Maroon 2 Red Purple
+Violet 2 Blue Purple
+Teal 2 Blue Cyan
+Emerald 2 Green Cyan
+Black 6 Red Green Blue Yellow Purple Cyan
+31
+5
+Teal 207
+Blue 161
+Violet 181
+Maroon 235
+Orange 240
+5
+Yellow 189
+Red 217
+Black 110
+Cyan 155
+Blue 229
+4
+Green 189
+Red 253
+Teal 118
+Black 100
+5
+Yellow 98
+Lime 222
+Violet 87
+Orange 107
+Emerald 90
+5
+Green 120
+Orange 223
+Cyan 196
+Blue 94
+Black 204
+5
+Cyan 239
+Emerald 66
+Blue 145
+Teal 108
+Green 168
+5
+Violet 174
+Maroon 156
+Teal 211
+Black 76
+Cyan 89
+4
+Black 223
+Lime 219
+Red 123
+Maroon 165
+5
+Black 118
+Green 240
+Red 105
+Violet 181
+Maroon 175
+3
+Orange 130
+Lime 98
+Red 157
+4
+Teal 102
+Purple 200
+Lime 183
+Violet 231
+4
+Blue 171
+Violet 152
+Green 195
+Teal 115
+3
+Black 185
+Orange 97
+Teal 118
+3
+Emerald 83
+Teal 245
+Red 219
+5
+Lime 146
+Orange 213
+Black 196
+Violet 117
+Emerald 164
+4
+Black 104
+Lime 189
+Cyan 182
+Orange 174
+4
+Purple 100
+Orange 108
+Blue 91
+Green 242
+3
+Emerald 224
+Teal 251
+Red 206
+4
+Violet 132
+Maroon 123
+Emerald 248
+Teal 98
+3
+Yellow 115
+Black 205
+Violet 195
+5
+Black 94
+Maroon 190
+Emerald 142
+Orange 177
+Purple 186
+3
+Purple 201
+Lime 156
+Teal 150
+4
+Maroon 143
+Purple 193
+Orange 190
+Violet 203
+4
+Lime 139
+Black 184
+Violet 75
+Purple 252
+4
+Teal 183
+Yellow 162
+Green 196
+Orange 205
+3
+Green 172
+Purple 207
+Orange 174
+5
+Purple 222
+Red 248
+Blue 99
+Maroon 163
+Emerald 176
+5
+Orange 124
+Red 87
+Teal 162
+Green 98
+Maroon 121
+4
+Black 142
+Blue 253
+Orange 72
+Yellow 106
+4
+Blue 194
+Purple 219
+Green 118
+Teal 129
+5
+Green 228
+Orange 152
+Black 252
+Violet 111
+Yellow 231
+100
+Black 10 26
+Blue 28 13
+Orange 18 24
+Orange 27 8
+Black 28 7
+Orange 12 23
+Lime 10 4
+Orange 20 22
+Orange 20 16
+Lime 24 3
+Black 4 23
+Lime 24 1
+Black 23 9
+Emerald 28 8
+Black 7 28
+Black 6 0
+Black 20 11
+Orange 17 29
+Lime 13 22
+Orange 12 1
+Orange 6 15
+Orange 7 10
+Orange 8 21
+Black 6 12
+Orange 25 7
+Orange 28 22
+Blue 0 4
+Blue 14 1
+Black 8 21
+Orange 26 19
+Emerald 19 9
+Orange 14 3
+Emerald 3 28
+Black 1 3
+Orange 4 0
+Orange 30 13
+Black 17 30
+Orange 14 5
+Orange 18 9
+Orange 25 19
+Orange 3 7
+Orange 8 0
+Orange 23 24
+Lime 4 5
+Black 5 28
+Orange 11 5
+Blue 8 29
+Black 21 10
+Orange 20 6
+Black 18 23
+Black 9 11
+Black 16 28
+Black 14 15
+Black 30 29
+Orange 22 11
+Lime 11 9
+Blue 27 14
+Black 23 4
+Black 23 16
+Orange 30 14
+Orange 8 25
+Emerald 19 1
+Black 11 22
+Black 11 0
+Black 12 14
+Lime 25 1
+Lime 12 13
+Emerald 21 6
+Orange 16 24
+Black 1 17
+Orange 20 19
+Blue 28 11
+Orange 4 5
+Blue 22 24
+Black 8 0
+Black 8 30
+Orange 29 6
+Black 23 2
+Black 27 15
+Orange 5 7
+Black 6 14
+Orange 14 1
+Black 14 3
+Orange 10 20
+Black 18 11
+Blue 22 23
+Blue 10 16
+Orange 27 3
+Orange 20 26
+Orange 12 20
+Orange 22 30
+Orange 26 3
+Black 9 4
+Orange 22 27
+Lime 5 12
+Lime 5 9
+Black 2 4
+Emerald 12 18
+Orange 26 16
+Blue 17 5
+1
+Purple 0
+45
+1
+Purple 140
+1
+Purple 57
+1
+Purple 73
+1
+Purple 76
+1
+Purple 154
+1
+Purple 49
+1
+Purple 43
+1
+Purple 146
+1
+Purple 54
+1
+Purple 132
+1
+Purple 107
+1
+Purple 88
+1
+Purple 80
+1
+Purple 85
+1
+Purple 91
+1
+Purple 152
+1
+Purple 51
+1
+Purple 49
+1
+Purple 63
+1
+Purple 96
+1
+Purple 151
+1
+Purple 67
+1
+Purple 50
+1
+Purple 84
+1
+Purple 64
+1
+Purple 44
+1
+Purple 67
+1
+Purple 63
+1
+Purple 109
+1
+Purple 60
+1
+Purple 157
+1
+Purple 136
+1
+Purple 151
+1
+Purple 91
+1
+Purple 112
+1
+Purple 100
+1
+Purple 47
+1
+Purple 96
+1
+Purple 97
+1
+Purple 65
+1
+Purple 86
+1
+Purple 99
+1
+Purple 43
+1
+Purple 70
+1
+Purple 89
+89
+Purple 13 12
+Purple 3 38
+Purple 26 27
+Purple 44 0
+Purple 44 41
+Purple 13 44
+Purple 41 24
+Purple 15 26
+Purple 38 3
+Purple 24 40
+Purple 10 14
+Purple 10 12
+Purple 30 9
+Purple 33 0
+Purple 23 39
+Purple 9 5
+Purple 29 8
+Purple 3 44
+Purple 30 6
+Purple 19 24
+Purple 44 43
+Purple 25 27
+Purple 29 9
+Purple 21 4
+Purple 0 14
+Purple 25 38
+Purple 43 23
+Purple 0 5
+Purple 15 7
+Purple 17 37
+Purple 27 33
+Purple 30 19
+Purple 37 21
+Purple 5 8
+Purple 13 40
+Purple 36 23
+Purple 10 18
+Purple 39 1
+Purple 33 43
+Purple 0 4
+Purple 26 30
+Purple 12 7
+Purple 11 12
+Purple 4 18
+Purple 21 41
+Purple 32 38
+Purple 7 12
+Purple 24 21
+Purple 39 30
+Purple 28 18
+Purple 2 44
+Purple 18 42
+Purple 29 30
+Purple 4 11
+Purple 2 30
+Purple 32 14
+Purple 24 5
+Purple 12 1
+Purple 17 36
+Purple 13 30
+Purple 6 33
+Purple 25 30
+Purple 6 9
+Purple 18 24
+Purple 9 43
+Purple 31 28
+Purple 23 26
+Purple 22 11
+Purple 11 43
+Purple 40 17
+Purple 2 4
+Purple 24 34
+Purple 29 43
+Purple 23 7
+Purple 27 8
+Purple 8 15
+Purple 2 42
+Purple 37 3
+Purple 1 4
+Purple 6 20
+Purple 9 26
+Purple 33 37
+Purple 10 15
+Purple 26 2
+Purple 11 22
+Purple 6 15
+Purple 39 42
+Purple 32 43
+Purple 26 34
+8
+Red 0
+Green 0
+Blue 0
+Yellow 0
+Purple 0
+Lime 2 Green Yellow
+Maroon 2 Red Purple
+Violet 2 Blue Purple
+33
+3
+Purple 120
+Lime 160
+Blue 214
+2
+Blue 141
+Red 95
+2
+Purple 83
+Blue 122
+3
+Green 91
+Violet 106
+Maroon 133
+3
+Lime 227
+Red 200
+Green 154
+3
+Maroon 74
+Violet 72
+Lime 73
+2
+Blue 122
+Yellow 169
+2
+Violet 194
+Lime 135
+2
+Lime 105
+Blue 93
+2
+Green 212
+Violet 208
+2
+Blue 152
+Red 207
+3
+Lime 222
+Yellow 121
+Maroon 60
+2
+Yellow 189
+Red 210
+3
+Blue 90
+Red 121
+Purple 107
+3
+Lime 88
+Green 95
+Yellow 131
+3
+Lime 218
+Maroon 145
+Yellow 228
+2
+Blue 109
+Violet 81
+2
+Purple 209
+Red 197
+3
+Blue 211
+Purple 212
+Yellow 102
+3
+Violet 199
+Blue 88
+Red 229
+3
+Purple 223
+Lime 163
+Red 121
+2
+Blue 172
+Green 69
+2
+Lime 221
+Blue 169
+2
+Purple 148
+Violet 194
+3
+Yellow 144
+Maroon 84
+Red 84
+2
+Red 145
+Lime 103
+2
+Maroon 61
+Red 231
+2
+Green 61
+Lime 147
+2
+Violet 84
+Purple 112
+2
+Yellow 66
+Red 90
+2
+Maroon 108
+Lime 119
+3
+Lime 198
+Purple 150
+Yellow 204
+3
+Green 149
+Maroon 175
+Purple 147
+169
+Yellow 5 23
+Maroon 21 7
+Maroon 26 23
+Yellow 18 7
+Yellow 26 7
+Maroon 16 5
+Lime 21 29
+Yellow 23 7
+Lime 18 2
+Maroon 1 32
+Yellow 19 2
+Yellow 29 12
+Yellow 16 28
+Maroon 9 3
+Yellow 1 10
+Maroon 11 18
+Yellow 23 17
+Maroon 30 27
+Maroon 26 14
+Maroon 3 20
+Lime 15 6
+Maroon 17 11
+Yellow 29 8
+Maroon 6 10
+Maroon 2 30
+Lime 12 27
+Yellow 1 18
+Maroon 20 29
+Maroon 25 9
+Yellow 2 6
+Maroon 14 29
+Lime 9 24
+Yellow 7 10
+Maroon 17 31
+Maroon 28 26
+Lime 29 23
+Maroon 0 26
+Yellow 26 15
+Maroon 17 20
+Yellow 12 9
+Maroon 27 15
+Yellow 31 24
+Maroon 5 29
+Maroon 15 2
+Maroon 26 8
+Yellow 15 0
+Maroon 31 22
+Lime 5 27
+Maroon 1 11
+Yellow 10 0
+Maroon 16 22
+Yellow 13 18
+Yellow 28 0
+Maroon 32 1
+Maroon 30 13
+Maroon 18 29
+Yellow 16 0
+Lime 5 9
+Maroon 8 21
+Yellow 19 32
+Maroon 6 14
+Maroon 24 12
+Maroon 6 5
+Lime 11 8
+Maroon 17 19
+Maroon 1 23
+Maroon 19 5
+Maroon 13 30
+Maroon 15 29
+Maroon 4 25
+Maroon 16 2
+Lime 24 25
+Maroon 0 19
+Maroon 16 8
+Violet 27 7
+Yellow 2 21
+Maroon 5 24
+Maroon 24 9
+Maroon 23 11
+Maroon 24 28
+Maroon 11 29
+Maroon 23 1
+Yellow 9 17
+Violet 23 11
+Maroon 10 6
+Maroon 11 28
+Maroon 18 2
+Lime 26 20
+Maroon 21 29
+Yellow 31 6
+Maroon 21 4
+Yellow 24 15
+Maroon 15 12
+Maroon 16 6
+Maroon 24 16
+Lime 31 3
+Yellow 12 24
+Maroon 3 7
+Lime 1 11
+Maroon 26 4
+Maroon 26 29
+Yellow 26 17
+Lime 5 8
+Yellow 24 23
+Maroon 24 22
+Maroon 7 18
+Yellow 2 11
+Yellow 22 10
+Maroon 21 3
+Lime 7 15
+Maroon 5 28
+Maroon 31 8
+Lime 25 16
+Yellow 19 10
+Maroon 0 2
+Maroon 7 27
+Yellow 12 11
+Maroon 18 28
+Yellow 21 10
+Maroon 27 0
+Lime 2 16
+Yellow 0 10
+Yellow 19 21
+Maroon 27 3
+Yellow 4 7
+Maroon 0 22
+Maroon 15 22
+Maroon 6 19
+Maroon 16 13
+Maroon 24 2
+Maroon 15 28
+Yellow 31 27
+Yellow 9 12
+Yellow 19 3
+Lime 16 0
+Yellow 6 0
+Maroon 17 25
+Maroon 16 29
+Yellow 8 31
+Maroon 20 2
+Yellow 21 25
+Yellow 9 13
+Yellow 12 17
+Maroon 7 22
+Lime 30 18
+Lime 8 0
+Maroon 32 4
+Maroon 25 22
+Maroon 31 2
+Maroon 12 28
+Lime 16 32
+Lime 10 30
+Yellow 18 1
+Yellow 26 6
+Maroon 18 3
+Maroon 31 29
+Yellow 13 28
+Maroon 12 19
+Maroon 5 12
+Maroon 18 7
+Yellow 14 18
+Maroon 22 15
+Yellow 26 10
+Maroon 26 21
+Maroon 17 32
+Lime 27 21
+Maroon 1 14
+Yellow 30 25
+Maroon 11 31
+4
+Blue 0
+Yellow 0
+Cyan 0
+Teal 2 Blue Cyan
+36
+4
+Teal 199
+Blue 114
+Yellow 181
+Cyan 225
+4
+Teal 93
+Blue 166
+Cyan 216
+Yellow 175
+4
+Cyan 144
+Teal 120
+Yellow 83
+Blue 200
+4
+Yellow 103
+Teal 103
+Blue 149
+Cyan 197
+4
+Yellow 116
+Teal 228
+Blue 217
+Cyan 135
+4
+Blue 119
+Teal 126
+Yellow 62
+Cyan 89
+4
+Yellow 64
+Blue 102
+Cyan 95
+Teal 132
+4
+Teal 147
+Cyan 76
+Blue 149
+Yellow 137
+4
+Cyan 144
+Blue 104
+Teal 76
+Yellow 83
+4
+Yellow 205
+Blue 140
+Teal 181
+Cyan 109
+4
+Cyan 201
+Blue 64
+Yellow 218
+Teal 103
+4
+Cyan 122
+Teal 68
+Yellow 92
+Blue 213
+4
+Teal 136
+Cyan 162
+Yellow 213
+Blue 174
+4
+Blue 74
+Teal 111
+Cyan 227
+Yellow 93
+4
+Yellow 108
+Cyan 160
+Blue 196
+Teal 186
+3
+Blue 170
+Yellow 66
+Teal 220
+4
+Teal 116
+Yellow 94
+Blue 175
+Cyan 120
+4
+Cyan 86
+Teal 119
+Blue 123
+Yellow 193
+3
+Blue 137
+Teal 202
+Cyan 172
+3
+Teal 96
+Yellow 185
+Blue 68
+4
+Teal 113
+Blue 139
+Yellow 93
+Cyan 154
+4
+Blue 210
+Yellow 85
+Teal 209
+Cyan 218
+4
+Blue 71
+Cyan 74
+Yellow 163
+Teal 194
+3
+Blue 95
+Cyan 207
+Yellow 140
+4
+Cyan 120
+Teal 121
+Yellow 197
+Blue 166
+3
+Yellow 149
+Teal 107
+Cyan 197
+3
+Teal 62
+Yellow 107
+Blue 76
+4
+Cyan 139
+Teal 199
+Yellow 200
+Blue 177
+4
+Cyan 192
+Yellow 148
+Teal 77
+Blue 127
+3
+Cyan 120
+Yellow 62
+Blue 67
+4
+Yellow 58
+Cyan 70
+Teal 121
+Blue 216
+4
+Teal 97
+Yellow 67
+Cyan 62
+Blue 117
+4
+Cyan 144
+Teal 190
+Blue 113
+Yellow 181
+4
+Yellow 57
+Teal 143
+Cyan 183
+Blue 123
+3
+Teal 80
+Cyan 107
+Blue 207
+4
+Yellow 115
+Blue 194
+Cyan 139
+Teal 100
+207
+Cyan 8 34
+Blue 16 15
+Cyan 10 30
+Blue 24 32
+Blue 35 32
+Yellow 31 19
+Blue 18 27
+Cyan 25 32
+Blue 7 2
+Cyan 25 7
+Cyan 29 8
+Teal 29 4
+Yellow 27 12
+Yellow 16 31
+Blue 30 5
+Blue 31 11
+Cyan 7 23
+Blue 8 30
+Blue 21 25
+Cyan 18 7
+Blue 30 22
+Teal 13 9
+Teal 34 13
+Teal 3 4
+Yellow 15 0
+Blue 27 17
+Teal 24 35
+Yellow 19 10
+Teal 27 33
+Cyan 3 1
+Blue 35 26
+Teal 15 21
+Yellow 31 30
+Cyan 35 28
+Blue 18 8
+Cyan 20 1
+Blue 34 11
+Blue 18 26
+Cyan 9 11
+Cyan 25 11
+Blue 1 17
+Cyan 18 8
+Teal 8 19
+Blue 27 19
+Blue 4 28
+Cyan 13 17
+Blue 11 32
+Cyan 17 22
+Cyan 26 2
+Cyan 27 21
+Blue 19 34
+Cyan 5 7
+Blue 12 26
+Yellow 30 12
+Cyan 24 34
+Cyan 34 23
+Teal 13 15
+Blue 29 10
+Yellow 30 7
+Yellow 19 27
+Cyan 17 0
+Teal 17 35
+Cyan 12 20
+Cyan 23 33
+Teal 10 9
+Cyan 21 22
+Teal 6 9
+Cyan 0 23
+Blue 25 35
+Teal 15 6
+Cyan 15 6
+Teal 21 23
+Yellow 32 9
+Blue 27 30
+Cyan 27 3
+Cyan 15 5
+Yellow 30 6
+Blue 7 12
+Blue 28 29
+Cyan 18 33
+Yellow 8 26
+Blue 17 5
+Teal 30 27
+Cyan 17 18
+Teal 21 12
+Blue 24 21
+Cyan 21 6
+Teal 14 7
+Blue 7 11
+Cyan 27 4
+Cyan 13 23
+Teal 13 25
+Yellow 24 8
+Teal 35 27
+Blue 30 1
+Cyan 34 26
+Blue 20 3
+Yellow 11 29
+Cyan 22 20
+Blue 26 13
+Cyan 24 26
+Cyan 20 35
+Cyan 4 34
+Teal 26 3
+Cyan 26 12
+Teal 26 17
+Blue 16 22
+Yellow 6 1
+Yellow 21 29
+Blue 4 21
+Cyan 33 26
+Teal 28 22
+Blue 19 11
+Cyan 13 25
+Blue 6 29
+Cyan 23 27
+Yellow 1 26
+Cyan 1 9
+Teal 28 18
+Cyan 13 22
+Cyan 1 11
+Blue 17 13
+Cyan 20 10
+Blue 26 31
+Teal 6 13
+Cyan 27 34
+Cyan 12 33
+Teal 12 19
+Blue 24 15
+Blue 10 13
+Blue 15 11
+Cyan 34 31
+Cyan 21 17
+Teal 32 4
+Cyan 22 15
+Cyan 14 35
+Blue 13 27
+Teal 11 1
+Teal 33 2
+Blue 4 25
+Cyan 32 0
+Yellow 6 23
+Teal 3 23
+Cyan 13 9
+Teal 22 18
+Cyan 22 5
+Blue 9 6
+Cyan 33 28
+Cyan 13 29
+Cyan 25 26
+Yellow 12 20
+Cyan 4 17
+Teal 24 10
+Cyan 17 15
+Teal 32 0
+Cyan 0 17
+Blue 11 20
+Yellow 33 4
+Yellow 6 9
+Blue 5 20
+Blue 34 17
+Teal 2 3
+Yellow 25 29
+Cyan 18 1
+Yellow 5 10
+Cyan 4 14
+Blue 10 26
+Teal 19 5
+Cyan 14 17
+Teal 29 21
+Teal 18 0
+Yellow 15 14
+Cyan 31 21
+Cyan 16 13
+Blue 29 30
+Blue 8 23
+Cyan 29 25
+Cyan 8 0
+Cyan 23 26
+Blue 31 16
+Teal 30 25
+Blue 21 8
+Cyan 0 22
+Yellow 28 0
+Blue 0 21
+Cyan 28 20
+Blue 28 3
+Blue 9 33
+Teal 13 26
+Teal 14 13
+Blue 21 29
+Cyan 19 34
+Cyan 23 28
+Teal 0 22
+Cyan 20 28
+Cyan 32 7
+Blue 22 15
+Cyan 3 20
+Blue 16 6
+Cyan 13 5
+Cyan 6 11
+Teal 10 28
+Teal 29 2
+Blue 34 2
+Cyan 1 7
+Cyan 5 11
+Cyan 35 22
+13
+Red 0
+Green 0
+Blue 0
+Yellow 0
+Purple 0
+Cyan 0
+Lime 2 Green Yellow
+Orange 2 Red Yellow
+Maroon 2 Red Purple
+Violet 2 Blue Purple
+Teal 2 Blue Cyan
+Emerald 2 Green Cyan
+Black 6 Red Green Blue Yellow Purple Cyan
+29
+5
+Lime 138
+Black 182
+Maroon 196
+Purple 61
+Red 208
+7
+Maroon 121
+Green 168
+Cyan 88
+Yellow 154
+Black 66
+Orange 108
+Blue 166
+5
+Cyan 225
+Violet 197
+Teal 81
+Blue 171
+Emerald 156
+4
+Lime 195
+Green 106
+Violet 193
+Purple 221
+4
+Violet 222
+Green 150
+Lime 122
+Maroon 135
+7
+Green 218
+Cyan 120
+Orange 148
+Black 58
+Yellow 161
+Teal 224
+Violet 149
+4
+Lime 110
+Emerald 229
+Yellow 174
+Violet 105
+7
+Purple 169
+Cyan 182
+Orange 83
+Teal 177
+Emerald 216
+Black 59
+Blue 96
+5
+Green 154
+Black 197
+Purple 76
+Lime 123
+Cyan 202
+6
+Purple 181
+Maroon 136
+Yellow 188
+Lime 189
+Blue 205
+Green 207
+5
+Red 201
+Purple 90
+Lime 84
+Maroon 188
+Orange 199
+7
+Blue 91
+Cyan 166
+Emerald 192
+Maroon 88
+Orange 157
+Red 94
+Teal 75
+5
+Black 207
+Red 75
+Orange 220
+Lime 134
+Blue 154
+5
+Blue 110
+Green 219
+Emerald 123
+Maroon 94
+Orange 202
+4
+Purple 108
+Cyan 163
+Red 226
+Emerald 65
+7
+Purple 154
+Orange 68
+Violet 98
+Emerald 169
+Yellow 205
+Red 139
+Black 118
+5
+Maroon 146
+Yellow 167
+Blue 118
+Orange 64
+Black 172
+4
+Yellow 88
+Emerald 138
+Teal 85
+Purple 205
+7
+Blue 225
+Purple 186
+Yellow 203
+Cyan 185
+Lime 127
+Orange 168
+Maroon 97
+6
+Emerald 160
+Cyan 119
+Lime 179
+Orange 214
+Teal 182
+Blue 183
+5
+Red 83
+Black 144
+Emerald 199
+Yellow 191
+Lime 178
+4
+Green 65
+Black 104
+Cyan 229
+Lime 157
+6
+Maroon 147
+Teal 95
+Blue 100
+Red 123
+Orange 97
+Purple 193
+4
+Purple 160
+Lime 181
+Orange 164
+Yellow 174
+4
+Cyan 212
+Maroon 215
+Green 201
+Violet 94
+5
+Cyan 116
+Yellow 104
+Blue 143
+Red 200
+Teal 194
+4
+Green 114
+Orange 91
+Purple 63
+Yellow 227
+7
+Maroon 208
+Red 80
+Lime 155
+Green 130
+Purple 81
+Orange 176
+Emerald 105
+6
+Red 65
+Violet 161
+Cyan 90
+Lime 216
+Teal 104
+Green 168
+144
+Cyan 20 15
+Green 11 25
+Cyan 26 10
+Cyan 3 4
+Teal 22 10
+Teal 1 0
+Violet 18 26
+Violet 0 20
+Violet 4 12
+Cyan 16 21
+Green 6 26
+Maroon 2 24
+Cyan 19 21
+Cyan 22 24
+Green 2 28
+Violet 21 7
+Teal 11 14
+Violet 0 4
+Violet 18 11
+Black 4 22
+Violet 28 25
+Green 4 21
+Green 19 7
+Green 12 1
+Cyan 14 7
+Cyan 0 9
+Green 2 22
+Cyan 26 21
+Violet 15 18
+Cyan 19 28
+Violet 17 5
+Teal 9 15
+Teal 23 6
+Teal 21 26
+Cyan 8 15
+Emerald 9 23
+Cyan 13 16
+Green 14 6
+Green 21 5
+Emerald 17 14
+Green 14 13
+Cyan 26 4
+Cyan 13 12
+Violet 8 7
+Teal 22 16
+Green 19 25
+Green 19 14
+Cyan 19 5
+Green 4 7
+Violet 9 27
+Violet 19 3
+Teal 21 1
+Maroon 15 7
+Violet 14 9
+Teal 11 25
+Black 22 4
+Violet 28 6
+Green 10 8
+Teal 14 7
+Teal 4 16
+Cyan 1 21
+Cyan 10 20
+Teal 7 15
+Green 24 4
+Violet 20 8
+Violet 4 1
+Violet 20 17
+Violet 4 17
+Violet 13 28
+Teal 13 21
+Green 7 5
+Emerald 11 5
+Cyan 6 15
+Emerald 19 14
+Violet 20 1
+Cyan 3 5
+Cyan 0 10
+Teal 13 6
+Cyan 20 8
+Teal 28 24
+Cyan 20 7
+Violet 0 25
+Teal 3 0
+Cyan 8 2
+Violet 21 12
+Emerald 24 27
+Teal 3 16
+Teal 8 6
+Cyan 5 27
+Teal 23 21
+Teal 6 10
+Violet 0 5
+Cyan 19 27
+Violet 26 9
+Teal 13 15
+Violet 5 24
+Teal 16 11
+Cyan 20 27
+Cyan 15 21
+Cyan 4 18
+Black 24 28
+Green 17 8
+Violet 7 14
+Cyan 8 27
+Violet 8 28
+Cyan 13 24
+Green 6 22
+Teal 18 2
+Cyan 2 4
+Violet 8 2
+Cyan 3 8
+Violet 22 21
+Emerald 27 6
+Cyan 22 21
+Violet 5 3
+Green 22 1
+Violet 6 19
+Maroon 8 24
+Green 8 4
+Cyan 9 3
+Green 0 20
+Teal 15 8
+Green 15 16
+Cyan 5 25
+Maroon 10 12
+Green 7 8
+Violet 11 23
+Cyan 4 0
+Maroon 26 20
+Violet 8 3
+Emerald 27 1
+Violet 21 14
+Green 27 2
+Black 6 15
+Violet 28 1
+Violet 24 20
+Violet 6 1
+Teal 2 5
+Violet 26 20
+Violet 0 11
+Green 6 12
+Green 6 19
+Violet 0 8
+Green 5 6
+6
+Green 0
+Blue 0
+Yellow 0
+Purple 0
+Lime 2 Green Yellow
+Violet 2 Blue Purple
+48
+5
+Lime 144
+Purple 126
+Yellow 203
+Violet 101
+Green 121
+4
+Green 71
+Yellow 135
+Lime 148
+Purple 212
+4
+Violet 178
+Lime 65
+Green 115
+Purple 109
+6
+Green 100
+Lime 206
+Violet 193
+Yellow 92
+Blue 220
+Purple 89
+6
+Purple 155
+Violet 180
+Lime 92
+Green 190
+Blue 211
+Yellow 186
+6
+Violet 129
+Purple 221
+Green 88
+Yellow 199
+Lime 120
+Blue 85
+6
+Green 120
+Purple 69
+Lime 169
+Violet 220
+Blue 126
+Yellow 91
+6
+Yellow 200
+Violet 167
+Blue 66
+Green 182
+Lime 144
+Purple 95
+6
+Green 94
+Yellow 184
+Blue 189
+Violet 102
+Purple 62
+Lime 183
+6
+Violet 143
+Purple 96
+Yellow 114
+Blue 181
+Lime 145
+Green 131
+6
+Yellow 96
+Purple 118
+Green 86
+Blue 137
+Lime 86
+Violet 115
+6
+Yellow 130
+Lime 88
+Green 73
+Violet 132
+Blue 222
+Purple 205
+5
+Purple 187
+Yellow 94
+Blue 81
+Violet 184
+Green 202
+6
+Lime 121
+Green 226
+Yellow 143
+Blue 79
+Violet 132
+Purple 145
+6
+Violet 95
+Lime 77
+Blue 130
+Yellow 160
+Purple 178
+Green 117
+6
+Violet 74
+Lime 126
+Yellow 132
+Blue 133
+Purple 62
+Green 158
+5
+Violet 60
+Lime 62
+Blue 202
+Yellow 167
+Green 218
+4
+Green 86
+Violet 126
+Yellow 69
+Blue 158
+4
+Yellow 159
+Purple 148
+Blue 132
+Lime 205
+6
+Yellow 210
+Purple 94
+Green 132
+Blue 196
+Lime 165
+Violet 184
+4
+Yellow 133
+Lime 205
+Purple 133
+Blue 91
+4
+Yellow 76
+Purple 59
+Lime 99
+Violet 179
+5
+Violet 215
+Lime 184
+Blue 197
+Purple 186
+Yellow 227
+6
+Lime 136
+Blue 159
+Yellow 107
+Green 181
+Purple 137
+Violet 218
+5
+Green 116
+Blue 91
+Lime 127
+Violet 92
+Purple 175
+6
+Yellow 106
+Lime 118
+Green 111
+Blue 205
+Purple 173
+Violet 73
+6
+Green 102
+Lime 83
+Yellow 118
+Violet 65
+Blue 131
+Purple 148
+5
+Blue 146
+Yellow 220
+Lime 71
+Purple 127
+Green 141
+6
+Yellow 181
+Blue 178
+Purple 178
+Green 210
+Violet 102
+Lime 139
+6
+Yellow 59
+Lime 208
+Blue 201
+Green 76
+Purple 138
+Violet 147
+5
+Violet 129
+Lime 123
+Green 166
+Blue 146
+Yellow 160
+5
+Yellow 191
+Green 202
+Lime 73
+Violet 61
+Purple 62
+6
+Yellow 168
+Purple 176
+Green 137
+Lime 193
+Blue 155
+Violet 125
+6
+Purple 86
+Yellow 160
+Green 156
+Lime 143
+Blue 164
+Violet 102
+6
+Blue 132
+Lime 206
+Yellow 113
+Violet 184
+Green 150
+Purple 97
+6
+Purple 224
+Yellow 107
+Blue 203
+Lime 222
+Violet 153
+Green 187
+5
+Yellow 88
+Blue 116
+Violet 80
+Lime 170
+Green 217
+4
+Violet 215
+Purple 211
+Yellow 126
+Green 224
+6
+Purple 85
+Lime 61
+Violet 113
+Blue 200
+Yellow 104
+Green 161
+4
+Violet 109
+Blue 206
+Yellow 84
+Purple 215
+6
+Green 215
+Violet 115
+Yellow 88
+Lime 192
+Purple 177
+Blue 151
+4
+Yellow 61
+Green 166
+Lime 129
+Purple 146
+6
+Violet 173
+Green 222
+Purple 68
+Yellow 142
+Blue 216
+Lime 117
+6
+Blue 123
+Yellow 144
+Purple 105
+Violet 98
+Lime 73
+Green 62
+6
+Lime 122
+Violet 94
+Purple 188
+Blue 81
+Yellow 91
+Green 202
+6
+Yellow 98
+Purple 193
+Green 156
+Lime 212
+Violet 80
+Blue 127
+5
+Violet 119
+Yellow 82
+Green 171
+Lime 89
+Purple 152
+5
+Lime 148
+Purple 149
+Green 72
+Violet 208
+Blue 163
+135
+Violet 39 29
+Lime 27 26
+Lime 29 1
+Lime 19 0
+Lime 7 15
+Lime 44 26
+Violet 18 40
+Lime 3 29
+Lime 42 41
+Green 47 12
+Violet 4 31
+Lime 22 7
+Lime 19 5
+Lime 3 34
+Lime 19 4
+Lime 22 32
+Lime 7 18
+Lime 34 21
+Lime 38 17
+Lime 16 35
+Lime 36 46
+Lime 17 20
+Lime 37 21
+Lime 36 3
+Violet 36 26
+Violet 23 14
+Lime 2 21
+Lime 9 3
+Violet 30 23
+Lime 18 16
+Lime 5 36
+Violet 36 24
+Lime 18 43
+Lime 38 13
+Violet 13 14
+Violet 22 15
+Violet 44 13
+Violet 9 27
+Lime 0 20
+Lime 28 41
+Lime 36 10
+Violet 30 38
+Lime 15 8
+Lime 0 13
+Lime 42 17
+Lime 10 1
+Lime 33 6
+Lime 40 5
+Green 2 29
+Violet 32 37
+Lime 16 34
+Lime 14 40
+Violet 15 35
+Lime 10 18
+Green 37 26
+Lime 29 45
+Lime 36 11
+Lime 40 14
+Violet 3 27
+Lime 4 17
+Lime 47 24
+Violet 7 46
+Green 7 27
+Lime 17 40
+Lime 16 32
+Lime 7 28
+Lime 33 44
+Green 27 15
+Lime 25 1
+Violet 20 8
+Lime 46 25
+Lime 15 22
+Lime 28 3
+Green 24 40
+Lime 17 16
+Lime 17 46
+Lime 15 39
+Lime 36 24
+Lime 26 6
+Lime 46 1
+Lime 32 21
+Green 16 40
+Lime 44 34
+Lime 5 17
+Lime 0 15
+Lime 4 37
+Lime 24 37
+Lime 15 13
+Lime 46 36
+Lime 36 40
+Lime 10 34
+Violet 22 38
+Lime 45 18
+Violet 12 41
+Violet 14 6
+Lime 2 20
+Lime 18 2
+Green 5 21
+Lime 4 41
+Lime 33 16
+Lime 24 13
+Lime 17 27
+Violet 44 2
+Violet 11 25
+Lime 24 41
+Lime 46 33
+Violet 7 14
+Lime 21 1
+Lime 6 43
+Lime 0 23
+Green 43 35
+Violet 47 36
+Lime 13 34
+Green 11 13
+Lime 40 4
+Lime 36 12
+Lime 10 12
+Green 17 45
+Lime 22 2
+Lime 37 5
+Violet 36 37
+Lime 16 24
+Violet 15 8
+Lime 25 43
+Lime 43 41
+Green 32 5
+Lime 1 38
+Lime 37 46
+Lime 26 28
+Green 25 34
+Lime 14 25
+Green 45 11
+Lime 46 31
+Violet 32 29
+Lime 24 46
+13
+Red 0
+Green 0
+Blue 0
+Yellow 0
+Purple 0
+Cyan 0
+Lime 2 Green Yellow
+Orange 2 Red Yellow
+Maroon 2 Red Purple
+Violet 2 Blue Purple
+Teal 2 Blue Cyan
+Emerald 2 Green Cyan
+Black 6 Red Green Blue Yellow Purple Cyan
+48
+4
+Red 218
+Emerald 88
+Violet 135
+Teal 235
+7
+Teal 258
+Maroon 85
+Green 216
+Red 100
+Violet 88
+Emerald 210
+Yellow 151
+5
+Maroon 236
+Green 144
+Red 229
+Cyan 243
+Yellow 189
+5
+Blue 84
+Orange 131
+Teal 254
+Black 237
+Maroon 208
+5
+Maroon 227
+Teal 109
+Purple 153
+Emerald 238
+Green 170
+5
+Maroon 145
+Cyan 152
+Violet 98
+Purple 136
+Yellow 181
+6
+Blue 183
+Maroon 94
+Emerald 132
+Lime 242
+Red 148
+Yellow 148
+6
+Lime 251
+Teal 179
+Blue 264
+Maroon 145
+Cyan 120
+Violet 229
+5
+Teal 109
+Black 161
+Emerald 103
+Violet 251
+Purple 243
+7
+Green 154
+Teal 225
+Orange 90
+Maroon 150
+Violet 99
+Emerald 264
+Yellow 196
+7
+Green 101
+Violet 224
+Red 76
+Maroon 194
+Orange 174
+Purple 146
+Blue 187
+6
+Teal 220
+Red 250
+Black 184
+Emerald 130
+Green 81
+Blue 130
+5
+Red 86
+Violet 162
+Maroon 125
+Blue 71
+Yellow 174
+4
+Orange 244
+Purple 92
+Black 82
+Red 182
+7
+Teal 117
+Maroon 138
+Yellow 80
+Lime 130
+Black 120
+Blue 114
+Cyan 129
+7
+Teal 204
+Emerald 219
+Yellow 112
+Violet 238
+Blue 172
+Black 180
+Purple 233
+5
+Yellow 233
+Black 172
+Blue 70
+Green 120
+Lime 155
+7
+Maroon 107
+Orange 157
+Blue 163
+Yellow 222
+Black 101
+Purple 206
+Cyan 101
+7
+Purple 206
+Yellow 185
+Black 184
+Cyan 222
+Blue 212
+Green 115
+Emerald 130
+4
+Yellow 242
+Purple 244
+Red 205
+Green 229
+6
+Cyan 117
+Teal 211
+Purple 113
+Blue 113
+Maroon 221
+Violet 68
+7
+Teal 241
+Black 112
+Maroon 252
+Red 141
+Yellow 173
+Cyan 242
+Blue 123
+4
+Maroon 119
+Cyan 190
+Violet 208
+Green 167
+5
+Red 198
+Green 106
+Emerald 242
+Blue 159
+Orange 68
+4
+Black 138
+Orange 92
+Violet 247
+Red 70
+6
+Maroon 122
+Lime 193
+Black 191
+Red 90
+Cyan 116
+Purple 150
+4
+Maroon 118
+Teal 143
+Lime 116
+Green 215
+5
+Red 194
+Green 113
+Teal 141
+Lime 197
+Violet 171
+4
+Black 180
+Blue 70
+Red 226
+Purple 86
+6
+Black 125
+Lime 88
+Emerald 180
+Green 77
+Purple 112
+Orange 108
+4
+Maroon 107
+Cyan 159
+Lime 252
+Purple 187
+4
+Purple 96
+Black 112
+Violet 167
+Orange 253
+6
+Blue 222
+Black 262
+Red 209
+Orange 214
+Green 255
+Cyan 264
+4
+Red 156
+Purple 195
+Blue 147
+Maroon 247
+6
+Red 229
+Emerald 78
+Violet 221
+Black 175
+Teal 141
+Maroon 170
+4
+Black 249
+Blue 110
+Emerald 107
+Red 214
+6
+Purple 91
+Black 191
+Emerald 258
+Cyan 266
+Maroon 250
+Green 188
+7
+Blue 246
+Yellow 159
+Orange 71
+Black 114
+Red 125
+Teal 233
+Green 79
+6
+Purple 202
+Maroon 174
+Red 86
+Yellow 116
+Green 94
+Emerald 243
+4
+Orange 147
+Yellow 103
+Violet 207
+Blue 243
+7
+Violet 85
+Emerald 142
+Orange 208
+Maroon 86
+Red 221
+Purple 229
+Teal 68
+4
+Emerald 95
+Purple 79
+Cyan 121
+Violet 125
+4
+Cyan 215
+Black 72
+Violet 154
+Red 177
+6
+Violet 117
+Red 266
+Purple 162
+Maroon 119
+Green 155
+Yellow 191
+7
+Green 146
+Blue 225
+Yellow 266
+Lime 190
+Cyan 261
+Emerald 266
+Red 125
+4
+Black 175
+Violet 201
+Emerald 95
+Cyan 195
+7
+Blue 151
+Purple 215
+Black 196
+Teal 250
+Green 176
+Violet 99
+Emerald 133
+6
+Emerald 132
+Black 265
+Green 166
+Maroon 250
+Orange 124
+Purple 69
+235
+Orange 18 12
+Cyan 10 45
+Cyan 33 45
+Cyan 28 29
+Orange 19 18
+Orange 34 45
+Cyan 12 35
+Red 12 14
+Orange 3 37
+Orange 30 35
+Orange 20 44
+Cyan 29 44
+Black 6 18
+Lime 30 14
+Orange 25 31
+Orange 22 9
+Black 11 43
+Orange 28 6
+Cyan 8 26
+Orange 5 16
+Cyan 45 0
+Orange 10 28
+Black 7 25
+Lime 39 29
+Red 24 17
+Cyan 21 32
+Cyan 24 46
+Cyan 16 19
+Cyan 16 3
+Red 29 27
+Red 17 9
+Cyan 21 3
+Orange 32 27
+Red 36 39
+Black 31 14
+Orange 10 35
+Orange 8 35
+Orange 17 43
+Red 42 38
+Black 31 0
+Black 28 47
+Orange 44 22
+Orange 27 19
+Red 7 8
+Lime 3 12
+Red 25 41
+Orange 22 33
+Cyan 6 0
+Cyan 31 29
+Red 38 14
+Orange 5 26
+Red 8 42
+Orange 40 13
+Orange 42 19
+Orange 4 1
+Orange 29 35
+Cyan 44 46
+Red 5 35
+Red 14 42
+Orange 39 18
+Orange 37 34
+Red 12 10
+Orange 23 7
+Black 47 38
+Red 32 26
+Red 31 22
+Orange 29 3
+Orange 22 23
+Black 8 36
+Black 41 33
+Orange 0 19
+Orange 4 41
+Orange 47 46
+Red 27 15
+Orange 4 9
+Orange 39 17
+Red 0 9
+Orange 20 19
+Cyan 36 4
+Cyan 24 37
+Red 34 25
+Orange 4 20
+Red 6 43
+Cyan 17 25
+Lime 20 7
+Cyan 14 41
+Red 42 43
+Cyan 6 7
+Black 17 3
+Red 18 30
+Red 23 18
+Orange 44 40
+Cyan 21 36
+Black 12 35
+Orange 13 2
+Orange 25 28
+Orange 37 19
+Orange 23 12
+Orange 16 10
+Orange 29 40
+Orange 7 27
+Orange 19 16
+Lime 5 35
+Orange 20 47
+Cyan 32 14
+Orange 20 15
+Red 4 0
+Red 33 0
+Red 43 9
+Cyan 0 16
+Orange 38 0
+Orange 6 13
+Cyan 28 8
+Orange 45 38
+Orange 7 20
+Red 13 38
+Orange 31 0
+Red 13 15
+Orange 38 32
+Red 24 20
+Red 22 9
+Cyan 29 41
+Cyan 34 8
+Red 29 21
+Red 37 46
+Orange 9 37
+Orange 32 30
+Red 13 39
+Red 35 44
+Cyan 11 0
+Cyan 39 11
+Orange 33 35
+Black 37 23
+Orange 7 35
+Black 0 31
+Orange 37 15
+Orange 45 40
+Cyan 35 13
+Cyan 46 14
+Red 37 16
+Orange 21 2
+Orange 5 32
+Orange 2 18
+Red 23 38
+Cyan 5 43
+Red 9 43
+Red 0 42
+Cyan 1 11
+Cyan 29 35
+Red 31 26
+Cyan 5 12
+Cyan 41 25
+Red 44 8
+Cyan 38 2
+Orange 10 9
+Cyan 22 29
+Orange 29 5
+Cyan 15 23
+Cyan 31 5
+Orange 34 4
+Orange 38 16
+Cyan 21 30
+Orange 18 19
+Cyan 25 23
+Cyan 32 29
+Orange 8 17
+Orange 5 19
+Orange 41 15
+Orange 26 33
+Orange 9 34
+Orange 18 9
+Red 25 15
+Orange 29 37
+Cyan 2 32
+Black 1 30
+Orange 10 33
+Cyan 21 26
+Cyan 37 11
+Red 2 0
+Orange 24 15
+Orange 19 15
+Black 23 10
+Cyan 36 42
+Cyan 35 30
+Orange 8 43
+Red 15 31
+Lime 22 43
+Red 19 17
+Red 0 21
+Orange 4 3
+Orange 32 46
+Cyan 37 5
+Red 41 2
+Black 32 13
+Orange 13 19
+Cyan 17 41
+Orange 18 30
+Orange 24 19
+Black 4 38
+Black 13 19
+Orange 37 10
+Orange 12 16
+Lime 28 47
+Orange 28 5
+Orange 29 27
+Black 36 21
+Orange 44 27
+Orange 9 42
+Cyan 39 46
+Orange 28 47
+Red 43 38
+Orange 36 24
+Cyan 46 23
+Red 30 2
+Orange 45 25
+Orange 21 31
+Orange 22 3
+Black 15 47
+Cyan 42 31
+Cyan 8 1
+Orange 5 43
+Cyan 13 11
+Cyan 2 26
+Cyan 41 13
+Orange 32 42
+Cyan 23 34
+Cyan 44 33
+Orange 6 33
+Cyan 38 7
+Red 41 6
+Orange 40 47
+Cyan 3 46
+Orange 10 25
+Orange 14 42
+Cyan 45 24
+9
+Red 0
+Green 0
+Blue 0
+Yellow 0
+Purple 0
+Cyan 0
+Orange 2 Red Yellow
+Maroon 2 Red Purple
+Emerald 2 Green Cyan
+46
+3
+Maroon 140
+Orange 147
+Green 102
+5
+Purple 140
+Blue 241
+Maroon 247
+Green 78
+Emerald 168
+3
+Purple 156
+Green 150
+Red 104
+3
+Red 169
+Orange 199
+Purple 89
+3
+Orange 166
+Maroon 73
+Purple 231
+5
+Orange 132
+Blue 179
+Cyan 178
+Red 224
+Maroon 202
+5
+Maroon 121
+Red 150
+Yellow 207
+Orange 99
+Cyan 109
+5
+Purple 73
+Red 83
+Orange 191
+Yellow 119
+Maroon 176
+3
+Yellow 217
+Orange 131
+Blue 68
+3
+Green 83
+Orange 183
+Cyan 211
+4
+Cyan 157
+Orange 146
+Red 93
+Yellow 138
+5
+Orange 195
+Yellow 154
+Blue 143
+Cyan 113
+Maroon 237
+3
+Emerald 229
+Yellow 207
+Blue 79
+5
+Blue 89
+Maroon 100
+Red 101
+Green 189
+Purple 148
+4
+Maroon 197
+Cyan 187
+Yellow 168
+Purple 144
+4
+Red 241
+Orange 163
+Emerald 200
+Blue 85
+3
+Purple 190
+Blue 76
+Red 135
+3
+Yellow 139
+Cyan 225
+Orange 170
+3
+Red 89
+Maroon 75
+Yellow 66
+5
+Emerald 189
+Green 217
+Maroon 76
+Cyan 119
+Orange 181
+5
+Yellow 115
+Purple 123
+Emerald 115
+Orange 151
+Green 174
+3
+Orange 96
+Red 224
+Purple 213
+4
+Emerald 131
+Maroon 66
+Cyan 215
+Yellow 162
+3
+Orange 152
+Blue 105
+Emerald 82
+5
+Cyan 135
+Yellow 207
+Green 210
+Maroon 243
+Blue 118
+3
+Green 181
+Red 164
+Purple 131
+3
+Red 88
+Emerald 143
+Maroon 74
+5
+Orange 92
+Cyan 167
+Yellow 238
+Blue 76
+Purple 125
+3
+Cyan 146
+Emerald 207
+Red 234
+3
+Emerald 74
+Red 177
+Orange 148
+3
+Green 100
+Orange 246
+Blue 205
+3
+Purple 90
+Maroon 124
+Blue 174
+3
+Blue 107
+Emerald 138
+Red 63
+5
+Maroon 83
+Blue 87
+Orange 66
+Purple 81
+Yellow 119
+5
+Cyan 148
+Red 126
+Maroon 111
+Orange 165
+Green 186
+4
+Blue 158
+Cyan 116
+Emerald 190
+Purple 111
+4
+Emerald 130
+Red 168
+Blue 113
+Orange 86
+3
+Maroon 150
+Emerald 158
+Red 175
+4
+Purple 164
+Emerald 118
+Red 247
+Yellow 170
+4
+Emerald 182
+Blue 189
+Red 71
+Orange 243
+5
+Purple 123
+Green 121
+Maroon 244
+Blue 66
+Cyan 186
+3
+Red 129
+Yellow 66
+Orange 228
+4
+Yellow 121
+Maroon 76
+Red 243
+Purple 187
+5
+Emerald 182
+Orange 176
+Cyan 210
+Yellow 204
+Red 223
+4
+Emerald 187
+Purple 185
+Red 154
+Green 184
+4
+Purple 243
+Blue 178
+Maroon 118
+Red 243
+155
+Purple 19 39
+Purple 39 1
+Cyan 0 31
+Green 24 1
+Emerald 42 28
+Emerald 0 17
+Maroon 7 8
+Cyan 10 36
+Purple 25 43
+Maroon 26 34
+Purple 1 22
+Green 32 21
+Green 35 33
+Cyan 10 38
+Cyan 6 14
+Emerald 31 30
+Purple 8 39
+Emerald 19 4
+Purple 4 39
+Emerald 0 11
+Blue 38 34
+Emerald 1 10
+Green 12 0
+Purple 29 37
+Green 40 11
+Emerald 31 25
+Purple 36 31
+Cyan 36 44
+Purple 7 19
+Blue 38 13
+Emerald 43 30
+Cyan 42 32
+Purple 9 28
+Cyan 25 27
+Cyan 23 12
+Purple 9 40
+Purple 45 0
+Cyan 38 26
+Purple 6 16
+Blue 43 0
+Cyan 10 23
+Green 7 22
+Cyan 22 6
+Green 8 36
+Maroon 41 6
+Yellow 11 13
+Green 0 23
+Maroon 37 1
+Maroon 25 38
+Cyan 36 11
+Blue 40 41
+Maroon 5 42
+Green 20 26
+Green 15 22
+Maroon 8 11
+Green 15 2
+Blue 32 42
+Maroon 10 13
+Emerald 43 15
+Green 44 24
+Green 14 28
+Emerald 37 7
+Emerald 41 35
+Purple 9 14
+Cyan 40 39
+Emerald 6 14
+Cyan 8 11
+Blue 11 28
+Maroon 22 44
+Purple 28 15
+Purple 23 42
+Cyan 14 32
+Emerald 27 34
+Purple 44 39
+Cyan 38 6
+Blue 37 34
+Purple 14 24
+Green 41 6
+Maroon 32 11
+Purple 28 22
+Green 4 25
+Cyan 41 23
+Cyan 43 40
+Emerald 43 5
+Green 42 3
+Cyan 39 32
+Blue 40 22
+Orange 0 38
+Blue 24 12
+Purple 38 37
+Cyan 13 0
+Emerald 15 0
+Cyan 32 28
+Maroon 1 35
+Purple 32 6
+Cyan 32 36
+Green 20 3
+Maroon 33 29
+Maroon 27 37
+Maroon 4 7
+Emerald 21 43
+Green 40 15
+Purple 29 13
+Emerald 27 29
+Cyan 29 9
+Purple 40 8
+Purple 35 40
+Green 17 7
+Green 45 38
+Emerald 30 6
+Cyan 2 27
+Orange 41 44
+Blue 45 41
+Cyan 25 5
+Cyan 10 27
+Green 16 34
+Blue 3 17
+Blue 3 40
+Maroon 31 3
+Maroon 0 45
+Cyan 38 29
+Green 28 9
+Green 25 29
+Cyan 18 33
+Maroon 25 17
+Purple 37 30
+Purple 12 31
+Emerald 23 7
+Emerald 41 42
+Emerald 36 18
+Cyan 42 35
+Cyan 41 27
+Cyan 42 37
+Maroon 15 1
+Maroon 12 13
+Emerald 33 37
+Emerald 3 18
+Green 28 1
+Green 39 4
+Emerald 22 33
+Purple 31 8
+Emerald 45 2
+Purple 10 37
+Green 23 28
+Emerald 15 12
+Green 45 31
+Maroon 37 16
+Cyan 34 39
+Purple 1 16
+Cyan 7 45
+Purple 29 16
+Maroon 17 40
+Cyan 41 2
+Purple 15 27
+Green 37 0
+13
+Red 0
+Green 0
+Blue 0
+Yellow 0
+Purple 0
+Cyan 0
+Lime 2 Green Yellow
+Orange 2 Red Yellow
+Maroon 2 Red Purple
+Violet 2 Blue Purple
+Teal 2 Blue Cyan
+Emerald 2 Green Cyan
+Black 6 Red Green Blue Yellow Purple Cyan
+36
+5
+Maroon 153
+Black 170
+Green 197
+Teal 217
+Cyan 111
+5
+Blue 86
+Violet 119
+Black 104
+Maroon 160
+Green 191
+4
+Purple 100
+Orange 71
+Cyan 192
+Yellow 134
+6
+Yellow 179
+Black 190
+Cyan 129
+Green 192
+Red 221
+Violet 153
+7
+Red 122
+Blue 219
+Lime 113
+Emerald 109
+Cyan 207
+Orange 174
+Maroon 92
+4
+Purple 113
+Lime 144
+Green 99
+Orange 183
+4
+Green 182
+Emerald 128
+Blue 99
+Teal 78
+4
+Teal 93
+Lime 183
+Orange 196
+Green 101
+4
+Yellow 153
+Orange 70
+Blue 216
+Red 85
+6
+Teal 152
+Blue 89
+Purple 125
+Orange 74
+Lime 124
+Black 177
+4
+Emerald 213
+Orange 132
+Green 183
+Cyan 149
+7
+Violet 74
+Teal 74
+Green 186
+Yellow 59
+Orange 196
+Emerald 86
+Purple 170
+5
+Lime 98
+Green 113
+Teal 144
+Orange 219
+Emerald 153
+6
+Violet 161
+Emerald 149
+Orange 78
+Blue 179
+Purple 154
+Lime 154
+4
+Orange 199
+Red 141
+Green 121
+Emerald 89
+5
+Teal 192
+Orange 195
+Lime 139
+Blue 73
+Red 181
+5
+Emerald 136
+Red 101
+Teal 93
+Yellow 143
+Blue 147
+4
+Cyan 212
+Violet 177
+Blue 164
+Maroon 75
+7
+Lime 190
+Black 173
+Teal 133
+Green 216
+Purple 177
+Violet 92
+Red 106
+4
+Orange 58
+Maroon 122
+Black 117
+Lime 209
+7
+Blue 72
+Orange 63
+Black 138
+Emerald 179
+Maroon 85
+Violet 89
+Lime 206
+6
+Cyan 86
+Purple 130
+Blue 183
+Orange 167
+Red 155
+Teal 164
+7
+Yellow 207
+Blue 98
+Teal 161
+Maroon 180
+Purple 109
+Red 86
+Black 101
+5
+Teal 173
+Orange 178
+Yellow 122
+Violet 110
+Blue 182
+6
+Yellow 125
+Black 221
+Maroon 77
+Orange 148
+Violet 110
+Lime 166
+5
+Orange 211
+Maroon 103
+Purple 170
+Lime 118
+Black 102
+6
+Teal 171
+Orange 120
+Green 154
+Lime 218
+Emerald 197
+Black 199
+4
+Violet 65
+Black 225
+Blue 172
+Teal 137
+6
+Lime 205
+Teal 111
+Violet 61
+Black 67
+Green 67
+Cyan 225
+5
+Cyan 195
+Blue 126
+Lime 107
+Black 85
+Red 182
+4
+Emerald 107
+Violet 193
+Purple 198
+Orange 155
+6
+Lime 181
+Cyan 63
+Violet 182
+Emerald 159
+Blue 123
+Maroon 162
+5
+Green 219
+Purple 77
+Black 194
+Yellow 63
+Violet 223
+5
+Lime 71
+Teal 61
+Emerald 70
+Orange 212
+Maroon 135
+6
+Emerald 103
+Black 222
+Lime 124
+Teal 215
+Cyan 142
+Yellow 118
+7
+Maroon 190
+Red 183
+Orange 213
+Teal 93
+Purple 174
+Cyan 141
+Lime 187
+209
+Black 25 7
+Violet 12 32
+Green 32 29
+Violet 16 21
+Cyan 16 19
+Black 23 7
+Blue 16 23
+Black 7 22
+Lime 26 6
+Green 9 2
+Lime 0 14
+Green 35 26
+Violet 8 9
+Violet 16 20
+Green 14 19
+Violet 20 30
+Black 2 20
+Violet 7 32
+Teal 19 6
+Black 10 21
+Green 20 1
+Black 19 33
+Blue 16 31
+Blue 22 15
+Teal 13 5
+Violet 7 19
+Black 20 35
+Teal 7 35
+Violet 26 7
+Lime 6 23
+Cyan 31 11
+Lime 2 34
+Black 5 10
+Blue 22 24
+Lime 6 17
+Violet 0 11
+Cyan 28 4
+Cyan 1 31
+Cyan 2 11
+Black 24 4
+Lime 34 13
+Cyan 25 0
+Green 23 32
+Blue 32 15
+Green 20 33
+Lime 26 31
+Violet 25 4
+Violet 11 10
+Violet 4 23
+Violet 33 29
+Violet 5 30
+Violet 34 30
+Lime 34 14
+Violet 16 10
+Cyan 8 13
+Black 25 26
+Violet 1 19
+Blue 17 5
+Teal 18 22
+Violet 7 26
+Black 17 28
+Black 34 1
+Lime 3 24
+Lime 24 1
+Violet 21 4
+Green 3 6
+Violet 31 12
+Cyan 30 34
+Black 4 29
+Green 14 12
+Green 9 26
+Black 22 10
+Cyan 18 20
+Lime 14 29
+Black 1 30
+Lime 6 12
+Lime 11 34
+Black 9 14
+Lime 10 26
+Cyan 24 32
+Violet 5 15
+Blue 34 27
+Teal 12 24
+Violet 24 29
+Blue 3 24
+Lime 19 34
+Violet 20 34
+Green 31 1
+Green 34 9
+Violet 35 29
+Black 31 11
+Cyan 6 17
+Blue 7 8
+Violet 25 15
+Cyan 0 32
+Black 33 6
+Cyan 26 11
+Green 2 21
+Lime 12 2
+Cyan 28 10
+Cyan 5 26
+Teal 12 16
+Black 26 25
+Green 33 11
+Black 1 27
+Cyan 27 2
+Cyan 33 5
+Cyan 6 35
+Cyan 30 21
+Teal 15 22
+Green 28 24
+Violet 1 29
+Green 31 14
+Violet 9 0
+Green 34 19
+Cyan 5 20
+Teal 10 3
+Cyan 17 1
+Cyan 12 33
+Lime 33 4
+Green 29 22
+Violet 25 19
+Violet 27 30
+Lime 18 16
+Blue 17 23
+Violet 34 0
+Lime 26 5
+Black 35 21
+Violet 32 24
+Lime 29 34
+Black 8 24
+Lime 5 0
+Teal 21 3
+Violet 0 23
+Teal 15 10
+Green 27 11
+Violet 4 20
+Green 14 27
+Teal 15 26
+Green 33 5
+Lime 27 24
+Blue 29 33
+Blue 13 4
+Green 33 2
+Violet 9 8
+Cyan 2 18
+Violet 0 22
+Cyan 35 14
+Violet 4 16
+Teal 27 33
+Violet 26 18
+Green 18 33
+Green 31 8
+Cyan 8 28
+Black 17 33
+Cyan 3 10
+Black 35 19
+Teal 20 28
+Green 15 33
+Cyan 35 26
+Lime 3 5
+Cyan 17 15
+Violet 31 30
+Black 29 1
+Cyan 16 32
+Violet 34 18
+Green 17 2
+Black 27 14
+Violet 24 33
+Green 21 4
+Lime 9 31
+Violet 29 31
+Cyan 5 7
+Green 31 23
+Yellow 20 33
+Green 21 26
+Violet 28 19
+Lime 30 24
+Violet 26 31
+Lime 27 2
+Green 29 6
+Violet 18 20
+Blue 17 8
+Green 34 8
+Violet 2 17
+Blue 20 7
+Blue 33 31
+Blue 11 25
+Violet 10 2
+Violet 26 15
+Black 34 5
+Green 11 22
+Black 18 2
+Teal 13 27
+Lime 30 1
+Black 26 19
+Violet 7 2
+Black 29 27
+Black 6 34
+Blue 28 13
+Cyan 35 11
+Lime 24 2
+Green 5 31
+Green 17 24
+Blue 33 16
+Violet 20 33
+Violet 10 32
+Violet 3 1
+Green 9 3
+3
+Green 0
+Cyan 0
+Emerald 2 Green Cyan
+45
+2
+Cyan 285
+Green 282
+2
+Cyan 282
+Emerald 129
+2
+Cyan 206
+Emerald 97
+2
+Green 281
+Cyan 253
+2
+Cyan 188
+Emerald 218
+3
+Green 250
+Emerald 96
+Cyan 291
+2
+Cyan 128
+Green 267
+2
+Emerald 203
+Cyan 166
+2
+Green 280
+Cyan 273
+3
+Emerald 110
+Green 288
+Cyan 195
+3
+Green 110
+Cyan 241
+Emerald 226
+2
+Green 272
+Cyan 257
+2
+Cyan 115
+Emerald 192
+3
+Green 122
+Cyan 224
+Emerald 157
+3
+Emerald 266
+Green 132
+Cyan 130
+3
+Emerald 287
+Green 214
+Cyan 256
+3
+Cyan 183
+Emerald 174
+Green 251
+2
+Cyan 115
+Green 254
+3
+Cyan 94
+Green 146
+Emerald 216
+3
+Green 156
+Cyan 86
+Emerald 212
+2
+Cyan 239
+Emerald 109
+3
+Cyan 281
+Green 83
+Emerald 140
+3
+Green 238
+Cyan 109
+Emerald 74
+2
+Emerald 88
+Cyan 82
+3
+Emerald 150
+Cyan 185
+Green 168
+2
+Green 236
+Emerald 87
+3
+Emerald 123
+Green 163
+Cyan 266
+3
+Green 149
+Emerald 221
+Cyan 81
+2
+Green 193
+Emerald 253
+3
+Cyan 83
+Emerald 223
+Green 188
+3
+Cyan 189
+Green 162
+Emerald 131
+3
+Emerald 245
+Cyan 170
+Green 150
+2
+Cyan 290
+Emerald 137
+3
+Green 252
+Cyan 197
+Emerald 132
+2
+Emerald 221
+Green 274
+3
+Emerald 243
+Cyan 197
+Green 257
+2
+Cyan 289
+Green 206
+3
+Cyan 285
+Emerald 189
+Green 175
+3
+Emerald 234
+Green 160
+Cyan 76
+2
+Cyan 143
+Green 226
+2
+Emerald 131
+Cyan 291
+2
+Green 101
+Emerald 128
+3
+Emerald 240
+Green 118
+Cyan 237
+3
+Emerald 179
+Cyan 201
+Green 74
+2
+Cyan 139
+Emerald 182
+155
+Emerald 23 13
+Emerald 44 9
+Emerald 5 44
+Emerald 40 24
+Emerald 11 1
+Emerald 36 3
+Emerald 39 16
+Emerald 30 10
+Emerald 6 32
+Emerald 42 0
+Emerald 15 14
+Emerald 9 4
+Emerald 30 33
+Emerald 0 39
+Emerald 19 17
+Emerald 5 23
+Emerald 14 22
+Emerald 42 8
+Emerald 42 13
+Emerald 29 38
+Emerald 34 16
+Emerald 43 39
+Emerald 19 16
+Emerald 19 20
+Emerald 18 5
+Emerald 2 37
+Emerald 38 0
+Emerald 13 40
+Emerald 29 1
+Emerald 25 1
+Emerald 20 28
+Emerald 25 40
+Emerald 3 33
+Emerald 16 2
+Emerald 27 35
+Emerald 39 43
+Emerald 16 5
+Emerald 12 18
+Emerald 38 4
+Emerald 23 9
+Emerald 2 8
+Emerald 4 18
+Emerald 29 12
+Emerald 29 22
+Emerald 11 36
+Emerald 0 8
+Emerald 20 13
+Emerald 7 30
+Emerald 29 41
+Emerald 42 36
+Emerald 12 33
+Emerald 29 25
+Emerald 44 28
+Emerald 42 2
+Emerald 43 15
+Emerald 40 30
+Emerald 18 0
+Emerald 12 1
+Emerald 4 25
+Emerald 41 23
+Emerald 39 32
+Emerald 5 2
+Emerald 38 42
+Emerald 0 13
+Emerald 10 13
+Emerald 25 4
+Emerald 8 28
+Emerald 38 8
+Emerald 6 40
+Emerald 9 35
+Emerald 21 29
+Emerald 39 11
+Emerald 35 40
+Emerald 32 7
+Emerald 42 12
+Emerald 7 44
+Emerald 6 18
+Emerald 39 25
+Emerald 10 28
+Emerald 20 25
+Emerald 44 7
+Emerald 29 10
+Emerald 30 13
+Emerald 8 44
+Emerald 36 8
+Emerald 38 14
+Emerald 38 7
+Emerald 38 9
+Emerald 14 18
+Emerald 4 0
+Emerald 26 36
+Emerald 34 22
+Emerald 30 25
+Emerald 30 18
+Emerald 2 23
+Emerald 26 43
+Emerald 11 38
+Emerald 16 6
+Emerald 33 34
+Emerald 17 35
+Emerald 10 35
+Emerald 5 27
+Emerald 18 6
+Emerald 37 31
+Emerald 31 42
+Emerald 25 13
+Emerald 38 44
+Emerald 42 9
+Emerald 29 21
+Emerald 18 3
+Emerald 27 1
+Emerald 17 28
+Emerald 35 13
+Emerald 23 38
+Emerald 21 1
+Emerald 2 12
+Emerald 1 10
+Emerald 1 43
+Emerald 26 19
+Emerald 35 5
+Emerald 28 17
+Emerald 35 7
+Emerald 18 14
+Emerald 6 4
+Emerald 28 43
+Emerald 34 11
+Emerald 32 4
+Emerald 38 26
+Emerald 0 20
+Emerald 4 27
+Emerald 32 37
+Emerald 25 42
+Emerald 35 21
+Emerald 21 13
+Emerald 44 36
+Emerald 38 40
+Emerald 3 19
+Emerald 4 14
+Emerald 24 5
+Emerald 32 11
+Emerald 4 36
+Emerald 10 0
+Emerald 22 6
+Emerald 5 15
+Emerald 13 39
+Emerald 3 9
+Emerald 36 33
+Emerald 18 41
+Emerald 1 13
+Emerald 2 19
+Emerald 26 37
+Emerald 43 11
+Emerald 3 6
+Emerald 39 17
+Emerald 36 22
+11
+Red 0
+Green 0
+Blue 0
+Yellow 0
+Purple 0
+Cyan 0
+Lime 2 Green Yellow
+Orange 2 Red Yellow
+Maroon 2 Red Purple
+Teal 2 Blue Cyan
+Emerald 2 Green Cyan
+36
+5
+Purple 118
+Lime 89
+Blue 79
+Teal 134
+Emerald 153
+3
+Yellow 78
+Lime 189
+Green 198
+4
+Green 161
+Red 116
+Orange 98
+Blue 117
+5
+Yellow 192
+Cyan 155
+Teal 102
+Purple 60
+Green 149
+3
+Emerald 71
+Orange 189
+Maroon 73
+3
+Orange 78
+Cyan 166
+Yellow 137
+5
+Yellow 203
+Lime 81
+Purple 98
+Red 148
+Teal 88
+4
+Maroon 82
+Purple 90
+Green 154
+Emerald 131
+3
+Lime 157
+Green 192
+Teal 81
+5
+Green 128
+Purple 57
+Emerald 137
+Yellow 146
+Teal 82
+4
+Green 84
+Red 156
+Yellow 108
+Blue 167
+5
+Green 88
+Emerald 92
+Cyan 63
+Lime 173
+Teal 178
+5
+Purple 125
+Maroon 60
+Yellow 127
+Orange 163
+Lime 198
+5
+Teal 96
+Red 175
+Purple 57
+Green 97
+Emerald 173
+3
+Purple 186
+Green 118
+Orange 89
+3
+Green 135
+Emerald 159
+Yellow 129
+3
+Orange 171
+Purple 64
+Cyan 106
+3
+Yellow 114
+Cyan 73
+Orange 177
+3
+Green 153
+Red 165
+Orange 99
+4
+Maroon 78
+Orange 57
+Cyan 57
+Green 137
+5
+Cyan 149
+Yellow 192
+Teal 186
+Maroon 162
+Emerald 155
+4
+Orange 122
+Yellow 109
+Cyan 78
+Lime 130
+4
+Blue 174
+Lime 87
+Teal 102
+Maroon 161
+4
+Maroon 181
+Yellow 156
+Green 186
+Red 64
+4
+Yellow 196
+Teal 140
+Maroon 198
+Red 106
+3
+Teal 116
+Green 78
+Blue 92
+5
+Emerald 97
+Lime 206
+Yellow 81
+Maroon 69
+Cyan 144
+4
+Yellow 157
+Lime 197
+Emerald 183
+Red 87
+5
+Teal 196
+Orange 79
+Lime 198
+Maroon 81
+Red 105
+3
+Lime 155
+Maroon 95
+Red 164
+3
+Orange 53
+Blue 69
+Purple 110
+4
+Yellow 137
+Cyan 203
+Teal 57
+Blue 203
+4
+Emerald 74
+Cyan 133
+Lime 194
+Maroon 168
+5
+Maroon 80
+Cyan 59
+Green 208
+Yellow 174
+Blue 64
+5
+Yellow 97
+Purple 155
+Orange 192
+Green 98
+Maroon 136
+5
+Orange 59
+Lime 90
+Green 206
+Teal 130
+Purple 195
+185
+Teal 10 22
+Maroon 31 30
+Emerald 1 6
+Purple 9 5
+Teal 21 10
+Emerald 28 11
+Lime 29 10
+Teal 6 24
+Emerald 19 23
+Purple 35 34
+Blue 14 5
+Emerald 31 23
+Orange 8 3
+Blue 4 11
+Purple 9 17
+Blue 2 30
+Teal 20 4
+Teal 4 26
+Emerald 17 26
+Purple 18 24
+Emerald 29 26
+Emerald 6 25
+Blue 10 27
+Blue 8 23
+Orange 6 23
+Teal 16 3
+Green 15 17
+Purple 1 20
+Blue 12 29
+Blue 12 11
+Purple 33 23
+Blue 25 13
+Cyan 9 35
+Emerald 2 21
+Cyan 1 30
+Green 14 9
+Blue 19 16
+Teal 6 5
+Teal 11 14
+Blue 26 8
+Green 2 9
+Maroon 0 20
+Orange 1 27
+Teal 30 11
+Purple 15 24
+Teal 28 30
+Emerald 19 10
+Blue 26 31
+Cyan 9 11
+Purple 8 18
+Teal 10 27
+Blue 25 24
+Green 33 24
+Teal 23 16
+Orange 25 31
+Orange 29 27
+Orange 31 35
+Teal 8 25
+Orange 33 2
+Teal 24 22
+Orange 30 24
+Emerald 7 19
+Teal 12 31
+Blue 19 8
+Teal 3 25
+Purple 8 27
+Green 6 33
+Purple 24 32
+Orange 31 22
+Maroon 27 17
+Maroon 23 18
+Purple 30 9
+Emerald 34 25
+Purple 0 10
+Purple 14 25
+Orange 16 9
+Emerald 24 7
+Orange 4 17
+Teal 31 35
+Emerald 13 9
+Orange 12 32
+Emerald 0 13
+Teal 30 15
+Blue 19 32
+Lime 35 16
+Purple 18 35
+Blue 21 16
+Teal 30 22
+Emerald 32 8
+Blue 9 25
+Orange 4 35
+Blue 8 10
+Teal 19 2
+Teal 31 0
+Purple 18 30
+Blue 2 15
+Lime 21 2
+Blue 31 20
+Purple 13 33
+Blue 3 27
+Green 1 7
+Orange 30 5
+Purple 22 31
+Teal 4 33
+Orange 24 7
+Teal 13 18
+Cyan 19 22
+Green 11 17
+Orange 34 22
+Purple 22 17
+Teal 23 28
+Lime 12 26
+Blue 7 32
+Orange 12 4
+Orange 26 4
+Orange 17 26
+Orange 10 2
+Orange 25 15
+Green 35 19
+Purple 2 30
+Teal 24 25
+Teal 25 8
+Green 33 14
+Purple 6 4
+Green 30 24
+Blue 6 23
+Green 3 24
+Green 9 19
+Lime 29 6
+Blue 31 22
+Cyan 33 7
+Teal 22 6
+Blue 23 35
+Maroon 31 5
+Green 21 12
+Orange 15 21
+Emerald 10 1
+Cyan 0 19
+Orange 26 23
+Teal 18 2
+Teal 31 2
+Purple 2 23
+Orange 31 8
+Cyan 5 21
+Emerald 19 26
+Blue 35 16
+Teal 22 33
+Orange 9 29
+Maroon 30 4
+Orange 35 27
+Cyan 15 31
+Orange 24 3
+Green 7 4
+Blue 34 12
+Teal 18 30
+Cyan 31 4
+Orange 1 14
+Teal 8 27
+Teal 10 6
+Blue 5 8
+Teal 30 9
+Blue 21 14
+Emerald 15 25
+Cyan 31 13
+Cyan 17 34
+Teal 20 21
+Purple 26 27
+Lime 19 25
+Blue 29 20
+Orange 13 9
+Teal 12 14
+Blue 19 22
+Orange 34 2
+Blue 21 29
+Blue 5 7
+Teal 16 6
+Blue 17 35
+Orange 20 8
+Emerald 7 23
+Blue 19 7
+Maroon 0 12
+Orange 15 22
+Lime 29 24
+Purple 13 23
+Green 8 5
+13
+Red 0
+Green 0
+Blue 0
+Yellow 0
+Purple 0
+Cyan 0
+Lime 2 Green Yellow
+Orange 2 Red Yellow
+Maroon 2 Red Purple
+Violet 2 Blue Purple
+Teal 2 Blue Cyan
+Emerald 2 Green Cyan
+Black 6 Red Green Blue Yellow Purple Cyan
+48
+3
+Maroon 198
+Purple 73
+Orange 204
+3
+Maroon 162
+Violet 186
+Orange 99
+3
+Teal 100
+Orange 63
+Yellow 203
+3
+Emerald 171
+Yellow 54
+Cyan 111
+3
+Teal 184
+Lime 148
+Orange 155
+2
+Green 151
+Lime 140
+3
+Cyan 146
+Teal 143
+Violet 204
+3
+Yellow 87
+Red 52
+Purple 60
+3
+Black 148
+Maroon 204
+Orange 170
+2
+Green 117
+Lime 83
+2
+Blue 171
+Red 98
+3
+Teal 189
+Cyan 149
+Emerald 184
+3
+Emerald 202
+Maroon 109
+Yellow 63
+2
+Maroon 203
+Blue 95
+3
+Orange 161
+Emerald 159
+Teal 166
+3
+Green 127
+Emerald 100
+Teal 172
+3
+Purple 53
+Lime 168
+Blue 67
+2
+Orange 98
+Red 197
+2
+Purple 84
+Red 156
+2
+Red 135
+Teal 116
+2
+Violet 171
+Purple 174
+3
+Orange 191
+Lime 193
+Purple 124
+2
+Lime 68
+Violet 118
+3
+Emerald 135
+Green 56
+Lime 82
+3
+Black 136
+Red 180
+Teal 178
+2
+Green 172
+Purple 141
+3
+Teal 126
+Yellow 199
+Emerald 206
+3
+Violet 144
+Lime 178
+Orange 191
+2
+Maroon 103
+Green 184
+2
+Orange 108
+Maroon 189
+2
+Emerald 166
+Cyan 54
+3
+Purple 130
+Lime 152
+Maroon 185
+3
+Emerald 191
+Cyan 203
+Red 171
+2
+Violet 81
+Teal 174
+2
+Green 65
+Orange 186
+2
+Purple 204
+Yellow 119
+2
+Yellow 112
+Black 154
+2
+Violet 131
+Lime 177
+3
+Orange 132
+Maroon 126
+Blue 202
+3
+Green 169
+Black 187
+Blue 110
+3
+Yellow 102
+Violet 162
+Blue 207
+3
+Black 170
+Violet 81
+Emerald 155
+2
+Emerald 164
+Black 86
+2
+Maroon 90
+Green 98
+2
+Yellow 124
+Maroon 96
+2
+Lime 179
+Red 119
+3
+Blue 147
+Yellow 199
+Orange 182
+2
+Lime 195
+Yellow 143
+208
+Lime 24 1
+Maroon 23 13
+Orange 2 15
+Red 30 31
+Orange 43 22
+Emerald 8 9
+Orange 29 4
+Cyan 22 34
+Orange 14 9
+Maroon 8 36
+Maroon 47 22
+Black 10 36
+Orange 4 19
+Purple 10 46
+Orange 10 6
+Lime 9 1
+Maroon 41 27
+Maroon 2 47
+Red 35 6
+Orange 3 25
+Black 36 11
+Orange 42 34
+Emerald 8 43
+Orange 32 24
+Maroon 23 43
+Orange 3 29
+Orange 36 10
+Maroon 36 47
+Lime 20 23
+Orange 18 35
+Orange 33 44
+Emerald 27 31
+Orange 37 41
+Black 24 15
+Maroon 43 1
+Maroon 24 22
+Emerald 14 43
+Lime 0 19
+Orange 11 3
+Lime 47 21
+Lime 22 39
+Black 3 43
+Red 14 12
+Orange 8 32
+Emerald 1 15
+Lime 4 27
+Red 0 37
+Lime 10 26
+Orange 36 5
+Orange 30 33
+Purple 24 7
+Maroon 24 10
+Orange 45 2
+Purple 26 0
+Emerald 19 15
+Orange 39 35
+Orange 14 36
+Black 43 9
+Purple 26 38
+Maroon 17 46
+Emerald 23 9
+Lime 7 38
+Black 20 30
+Orange 11 1
+Black 31 15
+Orange 40 5
+Red 4 6
+Lime 0 10
+Orange 38 37
+Red 31 30
+Red 16 45
+Maroon 20 1
+Lime 5 20
+Lime 14 11
+Black 10 45
+Maroon 28 17
+Maroon 28 11
+Cyan 44 30
+Red 9 8
+Lime 3 25
+Lime 29 10
+Orange 39 19
+Lime 1 4
+Red 13 40
+Purple 1 33
+Black 26 41
+Emerald 42 4
+Lime 1 33
+Purple 2 14
+Lime 45 25
+Orange 21 27
+Orange 27 40
+Lime 44 20
+Red 10 30
+Purple 11 16
+Cyan 31 39
+Orange 22 14
+Maroon 4 40
+Black 28 39
+Black 19 18
+Maroon 44 28
+Black 0 9
+Purple 39 0
+Black 6 10
+Orange 42 33
+Maroon 29 19
+Maroon 37 15
+Black 21 29
+Orange 29 33
+Red 32 35
+Maroon 33 0
+Red 23 8
+Lime 38 14
+Orange 4 17
+Black 12 31
+Orange 14 41
+Lime 12 2
+Orange 27 15
+Black 1 10
+Lime 41 18
+Lime 36 22
+Black 21 12
+Maroon 39 0
+Maroon 47 2
+Maroon 15 0
+Orange 8 41
+Maroon 24 20
+Lime 23 41
+Maroon 1 17
+Purple 24 0
+Maroon 38 6
+Orange 1 14
+Purple 20 40
+Red 23 13
+Orange 22 44
+Orange 45 41
+Purple 30 6
+Cyan 2 19
+Orange 17 14
+Orange 5 7
+Maroon 15 11
+Maroon 13 15
+Lime 42 27
+Purple 19 36
+Lime 16 8
+Purple 16 46
+Lime 21 9
+Orange 23 26
+Red 20 3
+Black 43 41
+Black 33 45
+Maroon 9 11
+Black 40 32
+Orange 46 13
+Orange 13 21
+Lime 43 19
+Orange 2 22
+Orange 39 23
+Red 9 17
+Orange 34 16
+Maroon 39 36
+Orange 16 11
+Black 38 32
+Purple 5 27
+Lime 34 21
+Orange 31 16
+Black 33 23
+Lime 3 7
+Maroon 10 40
+Orange 7 38
+Black 42 29
+Red 0 27
+Black 40 35
+Lime 27 28
+Purple 40 3
+Lime 47 31
+Orange 35 19
+Orange 11 44
+Emerald 8 22
+Maroon 46 43
+Lime 8 5
+Emerald 32 45
+Orange 0 14
+Black 26 47
+Black 14 31
+Lime 35 9
+Orange 2 43
+Purple 5 40
+Emerald 15 24
+Maroon 16 46
+Black 26 36
+Lime 31 7
+Orange 13 7
+Lime 27 22
+Orange 37 6
+Emerald 7 33
+Orange 15 18
+Lime 22 24
+Orange 11 6
+Red 46 34
+Maroon 15 6
+Maroon 33 26
+Red 22 47
+Lime 31 33
+Lime 14 29
+Purple 17 5
+Emerald 30 4
+Maroon 47 36
+13
+Red 0
+Green 0
+Blue 0
+Yellow 0
+Purple 0
+Cyan 0
+Lime 2 Green Yellow
+Orange 2 Red Yellow
+Maroon 2 Red Purple
+Violet 2 Blue Purple
+Teal 2 Blue Cyan
+Emerald 2 Green Cyan
+Black 6 Red Green Blue Yellow Purple Cyan
+28
+5
+Violet 172
+Lime 121
+Blue 70
+Orange 224
+Red 213
+4
+Violet 236
+Black 230
+Teal 205
+Lime 249
+5
+Lime 163
+Cyan 257
+Yellow 181
+Red 104
+Teal 185
+4
+Yellow 151
+Green 89
+Blue 199
+Black 100
+4
+Teal 143
+Orange 88
+Cyan 188
+Emerald 155
+4
+Orange 83
+Lime 173
+Violet 84
+Emerald 70
+4
+Lime 113
+Orange 176
+Violet 219
+Green 177
+3
+Black 73
+Maroon 139
+Purple 228
+4
+Violet 156
+Lime 125
+Green 221
+Yellow 151
+5
+Green 237
+Black 242
+Blue 124
+Lime 127
+Cyan 86
+5
+Blue 148
+Purple 166
+Green 256
+Orange 78
+Black 182
+5
+Red 211
+Maroon 153
+Yellow 143
+Purple 193
+Black 162
+5
+Yellow 76
+Black 99
+Green 251
+Emerald 84
+Blue 147
+3
+Blue 107
+Emerald 144
+Lime 120
+3
+Yellow 80
+Orange 108
+Blue 116
+3
+Lime 141
+Maroon 205
+Green 150
+3
+Emerald 255
+Blue 244
+Maroon 257
+5
+Black 144
+Teal 198
+Orange 114
+Cyan 117
+Blue 126
+4
+Purple 211
+Violet 229
+Blue 167
+Green 226
+4
+Black 81
+Red 131
+Blue 205
+Emerald 158
+3
+Black 171
+Blue 73
+Green 228
+3
+Purple 94
+Green 255
+Violet 140
+4
+Emerald 115
+Maroon 133
+Orange 232
+Black 192
+3
+Green 258
+Red 126
+Lime 259
+3
+Teal 210
+Maroon 221
+Emerald 81
+4
+Blue 97
+Red 173
+Maroon 245
+Purple 185
+3
+Emerald 224
+Black 168
+Red 76
+3
+Red 66
+Violet 217
+Maroon 151
+233
+Cyan 27 26
+Cyan 10 18
+Teal 0 17
+Black 9 17
+Black 1 24
+Green 2 9
+Red 4 10
+Green 21 27
+Purple 23 16
+Red 20 0
+Green 13 18
+Red 3 10
+Purple 9 8
+Green 12 26
+Red 8 20
+Green 14 18
+Red 5 21
+Cyan 6 15
+Green 5 13
+Green 14 0
+Red 7 17
+Green 26 15
+Purple 1 19
+Green 27 25
+Green 10 3
+Black 21 2
+Cyan 27 23
+Green 9 21
+Green 24 5
+Cyan 1 9
+Green 12 15
+Cyan 15 1
+Teal 5 19
+Red 1 24
+Red 5 19
+Green 21 1
+Purple 6 20
+Red 20 11
+Green 7 19
+Red 13 25
+Purple 15 4
+Cyan 7 9
+Cyan 12 20
+Purple 8 22
+Red 0 11
+Red 24 23
+Red 22 4
+Green 2 1
+Green 21 14
+Cyan 3 13
+Green 15 8
+Red 8 24
+Green 21 16
+Red 25 27
+Purple 12 18
+Red 11 8
+Green 18 0
+Green 9 26
+Cyan 16 13
+Cyan 3 2
+Purple 16 6
+Red 3 25
+Black 8 0
+Purple 25 3
+Cyan 26 25
+Red 21 24
+Green 23 11
+Blue 1 0
+Cyan 8 10
+Green 27 0
+Purple 6 4
+Green 4 12
+Black 9 27
+Red 2 3
+Red 14 21
+Red 18 1
+Green 11 6
+Cyan 4 21
+Green 16 14
+Red 20 4
+Green 9 0
+Green 24 2
+Cyan 20 21
+Green 21 7
+Red 14 15
+Teal 8 6
+Purple 4 24
+Green 18 16
+Green 16 19
+Purple 15 20
+Purple 21 5
+Purple 22 6
+Cyan 8 5
+Green 10 15
+Cyan 16 27
+Red 26 23
+Teal 14 8
+Teal 13 15
+Green 16 11
+Green 9 12
+Purple 4 7
+Green 0 18
+Black 27 5
+Red 17 5
+Green 24 22
+Purple 27 1
+Red 20 23
+Red 2 16
+Red 4 18
+Red 3 0
+Green 13 23
+Green 27 21
+Red 19 0
+Green 22 13
+Red 7 8
+Red 8 6
+Blue 15 25
+Teal 23 8
+Teal 4 14
+Purple 24 22
+Red 7 16
+Cyan 26 16
+Red 24 14
+Red 24 27
+Teal 19 8
+Cyan 1 27
+Green 20 13
+Cyan 18 2
+Purple 27 0
+Red 16 23
+Red 7 23
+Purple 12 1
+Teal 3 9
+Cyan 22 13
+Green 4 10
+Blue 6 20
+Green 8 16
+Red 8 7
+Red 14 4
+Green 25 6
+Red 14 17
+Red 25 5
+Green 27 15
+Red 9 15
+Green 10 21
+Black 11 9
+Black 3 7
+Teal 26 6
+Cyan 21 22
+Green 24 20
+Red 15 20
+Green 6 17
+Red 1 18
+Purple 21 16
+Purple 18 0
+Cyan 25 11
+Purple 16 15
+Black 5 6
+Green 14 6
+Purple 4 15
+Black 16 17
+Purple 0 17
+Purple 10 20
+Red 23 0
+Green 6 27
+Cyan 11 22
+Teal 26 2
+Purple 15 25
+Teal 16 20
+Purple 1 7
+Purple 9 15
+Red 15 7
+Teal 26 14
+Teal 14 2
+Red 18 24
+Black 11 17
+Green 9 15
+Red 16 6
+Purple 20 14
+Cyan 9 15
+Teal 12 3
+Black 7 20
+Black 4 0
+Green 14 5
+Cyan 12 6
+Black 1 18
+Green 2 11
+Purple 9 23
+Green 0 1
+Red 8 12
+Green 10 1
+Purple 13 15
+Cyan 10 26
+Cyan 5 12
+Red 2 1
+Red 14 18
+Green 13 27
+Green 10 23
+Cyan 18 17
+Black 8 13
+Green 22 8
+Red 1 23
+Cyan 2 17
+Green 15 25
+Cyan 7 27
+Red 9 3
+Green 27 14
+Red 27 17
+Cyan 10 19
+Red 23 7
+Red 4 16
+Red 19 1
+Purple 5 19
+Green 17 22
+Black 9 2
+Purple 15 9
+Cyan 21 9
+Green 27 12
+Purple 4 9
+Purple 5 24
+Teal 21 26
+Red 13 16
+Green 16 22
+Purple 11 14
+Purple 19 4
+Cyan 7 13
+Purple 18 23
+Purple 22 26
+Green 21 0
+Cyan 21 18
+Green 15 12
+Purple 10 16
+Purple 27 22
+13
+Red 0
+Green 0
+Blue 0
+Yellow 0
+Purple 0
+Cyan 0
+Lime 2 Green Yellow
+Orange 2 Red Yellow
+Maroon 2 Red Purple
+Violet 2 Blue Purple
+Teal 2 Blue Cyan
+Emerald 2 Green Cyan
+Black 6 Red Green Blue Yellow Purple Cyan
+36
+7
+Blue 76
+Purple 86
+Black 92
+Green 218
+Yellow 104
+Violet 62
+Lime 214
+6
+Blue 142
+Teal 187
+Purple 103
+Violet 110
+Red 69
+Lime 113
+7
+Maroon 125
+Blue 88
+Purple 132
+Green 175
+Lime 225
+Cyan 173
+Teal 188
+7
+Violet 166
+Orange 178
+Cyan 130
+Emerald 93
+Yellow 222
+Black 119
+Purple 117
+7
+Black 160
+Blue 241
+Red 242
+Yellow 153
+Violet 223
+Emerald 142
+Teal 150
+6
+Red 117
+Blue 124
+Violet 126
+Purple 140
+Orange 115
+Green 107
+4
+Lime 82
+Cyan 158
+Red 218
+Blue 74
+5
+Violet 230
+Red 241
+Black 210
+Maroon 76
+Blue 199
+6
+Emerald 183
+Orange 232
+Red 127
+Teal 70
+Yellow 203
+Lime 162
+6
+Cyan 238
+Emerald 219
+Lime 106
+Blue 166
+Red 181
+Purple 87
+6
+Maroon 245
+Purple 185
+Red 204
+Teal 219
+Emerald 136
+Lime 236
+6
+Red 224
+Yellow 187
+Black 227
+Emerald 154
+Purple 77
+Maroon 102
+5
+Cyan 97
+Lime 234
+Yellow 85
+Teal 227
+Purple 185
+7
+Green 68
+Blue 118
+Orange 239
+Red 205
+Yellow 118
+Teal 113
+Violet 241
+4
+Emerald 178
+Purple 221
+Yellow 201
+Lime 212
+6
+Yellow 196
+Green 113
+Black 140
+Maroon 138
+Violet 165
+Lime 189
+7
+Lime 147
+Black 77
+Emerald 175
+Purple 184
+Blue 114
+Maroon 242
+Teal 210
+6
+Emerald 75
+Cyan 73
+Blue 147
+Yellow 224
+Green 157
+Black 191
+4
+Teal 116
+Black 91
+Maroon 69
+Blue 200
+5
+Maroon 244
+Green 164
+Orange 169
+Blue 87
+Violet 111
+6
+Black 196
+Purple 217
+Teal 100
+Orange 238
+Yellow 225
+Blue 155
+5
+Green 184
+Purple 76
+Red 148
+Yellow 82
+Emerald 146
+6
+Black 137
+Maroon 201
+Lime 215
+Teal 140
+Blue 239
+Emerald 115
+6
+Lime 139
+Teal 218
+Emerald 95
+Violet 216
+Maroon 114
+Green 78
+5
+Green 160
+Lime 106
+Purple 151
+Maroon 92
+Emerald 236
+7
+Blue 227
+Red 128
+Orange 205
+Black 89
+Purple 82
+Green 178
+Yellow 194
+6
+Lime 107
+Teal 135
+Emerald 147
+Maroon 202
+Blue 228
+Red 203
+7
+Purple 74
+Green 239
+Black 112
+Teal 121
+Lime 62
+Cyan 107
+Violet 124
+5
+Yellow 118
+Green 201
+Violet 185
+Cyan 148
+Orange 181
+4
+Orange 89
+Yellow 143
+Emerald 170
+Green 183
+5
+Teal 181
+Blue 163
+Orange 180
+Green 139
+Cyan 195
+4
+Lime 148
+Violet 181
+Black 156
+Purple 116
+5
+Blue 207
+Cyan 222
+Emerald 130
+Maroon 100
+Violet 187
+5
+Cyan 119
+Purple 129
+Teal 219
+Maroon 219
+Red 110
+6
+Green 204
+Lime 164
+Purple 93
+Red 93
+Yellow 145
+Cyan 202
+6
+Yellow 139
+Maroon 230
+Black 166
+Blue 74
+Teal 116
+Red 119
+202
+Green 35 24
+Black 15 6
+Lime 19 18
+Purple 13 7
+Maroon 23 16
+Maroon 19 34
+Lime 2 1
+Orange 34 27
+Lime 25 16
+Green 32 19
+Black 0 29
+Maroon 14 6
+Lime 14 30
+Green 34 16
+Maroon 27 16
+Cyan 2 33
+Black 33 0
+Orange 6 10
+Lime 22 8
+Black 1 0
+Green 2 29
+Lime 10 3
+Black 29 10
+Cyan 9 29
+Lime 10 14
+Green 8 34
+Green 27 33
+Green 24 9
+Green 18 23
+Maroon 13 3
+Black 18 1
+Black 10 4
+Maroon 27 28
+Lime 23 8
+Cyan 21 0
+Orange 23 3
+Black 19 33
+Maroon 35 31
+Black 19 28
+Black 23 22
+Black 26 2
+Green 34 29
+Maroon 13 4
+Maroon 28 3
+Lime 6 20
+Lime 5 23
+Orange 4 16
+Black 18 6
+Green 16 9
+Purple 14 13
+Maroon 35 13
+Orange 4 33
+Lime 32 27
+Maroon 12 20
+Cyan 29 14
+Green 21 6
+Cyan 11 15
+Black 11 28
+Black 34 22
+Green 17 24
+Black 23 10
+Green 30 18
+Lime 4 0
+Maroon 4 9
+Lime 7 8
+Maroon 2 13
+Maroon 15 5
+Black 33 13
+Orange 5 13
+Maroon 14 2
+Lime 19 24
+Orange 23 29
+Purple 19 13
+Cyan 5 20
+Purple 26 34
+Black 28 21
+Black 18 20
+Lime 13 5
+Orange 21 17
+Black 33 17
+Purple 18 29
+Orange 13 14
+Cyan 10 27
+Black 27 30
+Orange 30 4
+Cyan 2 17
+Cyan 23 19
+Lime 21 35
+Purple 18 33
+Black 7 10
+Black 18 10
+Lime 29 6
+Black 33 18
+Green 17 0
+Lime 31 8
+Purple 9 1
+Lime 28 19
+Black 15 9
+Purple 28 26
+Green 31 33
+Lime 18 25
+Cyan 10 32
+Lime 32 10
+Green 6 28
+Black 22 11
+Lime 8 29
+Maroon 20 28
+Black 29 28
+Lime 19 5
+Lime 31 28
+Green 34 33
+Purple 21 8
+Lime 29 13
+Black 18 21
+Cyan 9 19
+Black 30 16
+Black 13 31
+Green 32 4
+Orange 25 34
+Green 20 12
+Black 22 16
+Black 26 0
+Black 16 17
+Green 35 29
+Black 24 29
+Maroon 27 34
+Orange 11 26
+Cyan 32 35
+Green 18 11
+Lime 15 5
+Purple 30 1
+Maroon 33 34
+Purple 8 5
+Lime 32 6
+Lime 12 32
+Green 23 15
+Purple 3 1
+Black 14 5
+Black 33 27
+Cyan 28 32
+Orange 5 16
+Black 10 25
+Black 32 35
+Lime 30 34
+Black 0 21
+Lime 17 10
+Lime 0 26
+Black 35 34
+Black 25 6
+Cyan 32 4
+Green 23 1
+Cyan 15 26
+Orange 3 35
+Black 32 5
+Green 35 26
+Maroon 35 29
+Black 11 27
+Green 27 31
+Black 35 7
+Black 23 16
+Lime 29 33
+Lime 35 13
+Black 7 27
+Green 34 25
+Maroon 10 9
+Black 30 17
+Lime 9 31
+Purple 21 4
+Black 20 12
+Black 28 26
+Lime 1 15
+Cyan 1 10
+Purple 6 8
+Purple 17 5
+Black 30 35
+Orange 12 7
+Maroon 24 14
+Cyan 12 21
+Black 1 17
+Black 1 6
+Orange 2 4
+Green 34 21
+Black 32 17
+Maroon 31 32
+Maroon 12 21
+Lime 26 4
+Green 32 7
+Black 22 35
+Green 14 32
+Green 6 0
+Cyan 20 22
+Maroon 1 34
+Purple 19 24
+Lime 9 25
+Black 0 17
+Green 7 9
+Orange 9 4
+Purple 9 21
+Black 4 12
+Lime 7 15
+Lime 35 1
+Orange 19 1
