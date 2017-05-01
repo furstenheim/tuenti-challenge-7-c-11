@@ -130,9 +130,9 @@ func planNewVisits (universe universe, visit visit) []visit {
 func getCharges (galaxy galaxy, originalVisit visit) []visit {
 	originalColor := originalVisit.color
 	stays := []visit{}
-	/*if (!originalVisit.justArrived) {
+	if (!originalVisit.justArrived) {
 		return stays
-	}*/
+	}
 	for color, distance := range(galaxy.charges) {
 		if (!contained(color, originalColor)) {
 			newVisit := visit{color: color | originalColor, distance: originalVisit.distance + distance, justArrived: false, galaxy: galaxy.id}
