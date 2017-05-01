@@ -19,8 +19,9 @@ func main() {
 		printedIndex := strconv.Itoa(universeIndex)
 		os.Stderr.WriteString("--------" + printedIndex + "\n")
 
-		mUniverse := universe{galaxies: []galaxy{}, visits: pq.New(), color2id: make(map[string]uint), primary2shift: make(map[string]uint), numPrimCol: 0}
+		mUniverse := universe{galaxies: []galaxy{}, visits: pq.New(), allColors: make(map[uint]bool), color2id: make(map[string]uint), primary2shift: make(map[string]uint), numPrimCol: 0}
 		mUniverse.color2id["Void"] = 0
+		mUniverse.allColors[0] = true
 		colorsLine, _ := reader.ReadString('\n')
 		os.Stderr.WriteString(colorsLine)
 		numberOfColours, _ := strconv.Atoi(strings.Trim(colorsLine, "\n"))
@@ -88,7 +89,6 @@ func travelUniverse (universe universe) universe {
 	v1, areThereVisits := universe.visits.Pop()
 	for areThereVisits == nil {
 		newVisit, _ := v1.(visit)
-		// fmt.Println(newVisit)
 		wasUseful := visitTheGalaxy(&universe, newVisit)
 		if (wasUseful) {
 			nextVisits := planNewVisits(universe, newVisit)
@@ -105,9 +105,9 @@ func travelUniverse (universe universe) universe {
 func visitTheGalaxy (universe *universe, visit visit) bool {
 	galaxy := universe.galaxies[visit.galaxy]
 	distance, isVisited := galaxy.distances[visit.color]
-	if (!isVisited || (distance > visit.distance) || visit.justArrived) {
+	if (!isVisited || (distance > visit.distance)) {
 		// Initiate all subcolors
-		for _, color := range universe.color2id {
+		for color, _ := range universe.allColors {
 			if (contained(color, visit.color)) {
 				colorDistance, wasVisited := galaxy.distances[color]
 				if (!wasVisited || (colorDistance > visit.distance)) {
@@ -179,14 +179,15 @@ func addColorToUniverse (universe *universe, name string, number uint, primaries
 		}
 		universe.color2id[name] = newid
 	}
+	universe.allColors[newid] = true
+	for color, _ := range universe.allColors {
+		universe.allColors[color | newid] = true
+	}
 }
 
 func createGalaxy (universe *universe) {
 	id := uint16(len(universe.galaxies))
 	mGalaxy := galaxy{id: id, distances: make(map[uint]uint32), charges: make(map[uint]uint32), wormholes: make(map[uint16](map[uint]bool))}
-	if (id == 0) {
-		mGalaxy.distances[0] = 0
-	}
 	universe.galaxies = append(universe.galaxies, mGalaxy)
 }
 func addChargeToGalaxy (universe *universe, galaxyId uint, color string, time uint32) {

@@ -22,4 +22,5 @@ type universe struct {
 	color2id map[string]uint
 	primary2shift map[string]uint
 	numPrimCol uint
+	allColors map[uint]bool
 }
