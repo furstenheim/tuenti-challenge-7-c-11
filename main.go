@@ -1,48 +1,78 @@
 package main
 
 import "fmt"
-import "./priority-queue"
+import (
+	"./priority-queue"
+	"strings"
+	"strconv"
+	"bufio"
+	"os"
+)
 
 
 func main() {
-	mUniverse := universe{galaxies: []galaxy{}, visits: pq.New(), color2id: make(map[string]uint), primary2shift: make(map[string]uint), numPrimCol: 0}
-	mUniverse.color2id["Void"] = 0
-	addColorToUniverse(&mUniverse, "Red", 0, []string{} )
-	addColorToUniverse(&mUniverse, "Blue", 0, []string{} )
-	addColorToUniverse(&mUniverse, "Green", 0, []string{} )
-	addColorToUniverse(&mUniverse, "Yellow", 2, []string{"Red", "Green"} )
-	createGalaxy(&mUniverse)
-	addChargeToGalaxy(&mUniverse, 0, "Red", 10)
-	addChargeToGalaxy(&mUniverse, 0, "Green", 10)
-	createGalaxy(&mUniverse)
-	addChargeToGalaxy(&mUniverse, 1, "Red", 15)
-	addChargeToGalaxy(&mUniverse, 1, "Green", 15)
-	createGalaxy(&mUniverse)
-	addChargeToGalaxy(&mUniverse, 2, "Blue", 7)
-	addChargeToGalaxy(&mUniverse, 2, "Green", 5)
-	createGalaxy(&mUniverse)
-	addChargeToGalaxy(&mUniverse, 3, "Red", 11)
-	createGalaxy(&mUniverse)
-	addChargeToGalaxy(&mUniverse, 4, "Red", 10)
-	addChargeToGalaxy(&mUniverse, 4, "Green", 10)
-	addWormHole(&mUniverse, "Red", 0, 1)
-	addWormHole(&mUniverse, "Red", 3, 2)
-	addWormHole(&mUniverse, "Green", 1, 2)
-	addWormHole(&mUniverse, "Blue", 0, 3)
-	addWormHole(&mUniverse, "Blue", 3, 4)
-	addWormHole(&mUniverse, "Yellow", 2, 0)
-	wrapUpGalaxy(&mUniverse, 0)
-	wrapUpGalaxy(&mUniverse, 1)
-	wrapUpGalaxy(&mUniverse, 2)
-	wrapUpGalaxy(&mUniverse, 3)
-	wrapUpGalaxy(&mUniverse, 4)
+	reader := bufio.NewReader(os.Stdin)
+	universeLine, _ := reader.ReadString('\n')
+	numberOfUniverses, _ := strconv.Atoi(strings.Trim(universeLine, "\n"))
+	universeIndex := 1
+	for numberOfUniverses > 0 {
+		mUniverse := universe{galaxies: []galaxy{}, visits: pq.New(), color2id: make(map[string]uint), primary2shift: make(map[string]uint), numPrimCol: 0}
+		mUniverse.color2id["Void"] = 0
+		colorsLine, _ := reader.ReadString('\n')
+		numberOfColours, _ := strconv.Atoi(strings.Trim(colorsLine, "\n"))
+		for (numberOfColours > 0) {
+			colorLine, _ := reader.ReadString('\n')
+			aColorLine := strings.Split(strings.Trim(colorLine, "\n"), " ")
+			colorName := aColorLine[0]
+			composed, _ := strconv.Atoi(aColorLine[1])
+			colors := []string{}
+			if (composed != 0) {
+				colors = aColorLine[2: 2 + composed]
+			}
+			addColorToUniverse(&mUniverse, colorName, uint(composed), colors)
+			numberOfColours -= 1
+		}
+		galaxiesLine, _ := reader.ReadString('\n')
+		numberOfGalaxies, _ := strconv.Atoi(strings.Trim(galaxiesLine, "\n"))
+		galaxyId := 0
+		for (numberOfGalaxies > 0) {
+			createGalaxy(&mUniverse)
+			colorsLine, _ := reader.ReadString('\n')
+			numberOfColours, _ := strconv.Atoi(strings.Trim(colorsLine, "\n"))
+			for (numberOfColours > 0) {
+				colorLine, _ := reader.ReadString('\n')
+				aColorLine := strings.Split(strings.Trim(colorLine, "\n"), " ")
+				colorName := aColorLine[0]
+				time, _ := strconv.Atoi(aColorLine[1])
+				addChargeToGalaxy(&mUniverse, uint(galaxyId), colorName, uint32(time))
+				numberOfColours -=1
+			}
+			numberOfGalaxies -= 1
+			galaxyId += 1
+		}
+		wormHolesLine, _ := reader.ReadString('\n')
+		numberOfWormholes, _ := strconv.Atoi(strings.Trim(wormHolesLine, "\n"))
+		for (numberOfWormholes > 0) {
+			wormholeLine, _ := reader.ReadString('\n')
+			aWormholeLine := strings.Split(strings.Trim(wormholeLine, "\n"), " ")
+			color := aWormholeLine[0]
+			idInit, _ := strconv.Atoi(aWormholeLine[1])
+			idEnd, _ := strconv.Atoi(aWormholeLine[2])
+			addWormHole(&mUniverse, color, uint16(idInit), uint16(idEnd))
+			numberOfWormholes -= 1
+		}
+		for galaxyIndex, _ := range (mUniverse.galaxies) {
+			wrapUpGalaxy(&mUniverse, uint(galaxyIndex))
+		}
+		mUniverse = travelUniverse(mUniverse)
+		fmt.Println(formatUniverse(mUniverse, universeIndex))
 
-	mUniverse = travelUniverse(mUniverse)
-	fmt.Println(formatUniverse(mUniverse))
+		numberOfUniverses -= 1
+		universeIndex += 1
+	}
 }
 
 func travelUniverse (universe universe) universe {
-	fmt.Println(universe.color2id)
 	v0 := visit{color: 0, distance: 0, justArrived: true, galaxy: 0}
 	insertVisit(universe.visits, v0)
 	v1, areThereVisits := universe.visits.Pop()
@@ -203,14 +233,19 @@ func contained (smallColor uint, bigColor uint)bool {
 	return (smallColor & bigColor == smallColor)
 }
 
-func formatUniverse (universe universe) []int {
+func formatUniverse (universe universe, position int) string {
 	scores := []int{}
 	for _, galaxy := range universe.galaxies {
 		scores = append(scores, getGalaxyDistance(galaxy))
 	}
-	return scores
+	text := "Case #" + strconv.Itoa(position) + ": " + arrayToString(scores, " ")
+	return text
 }
-
+func arrayToString(a []int, delim string) string {
+    return strings.Trim(strings.Replace(fmt.Sprint(a), " ", delim, -1), "[]")
+    //return strings.Trim(strings.Join(strings.Split(fmt.Sprint(a), " "), delim), "[]")
+    //return strings.Trim(strings.Join(strings.Fields(fmt.Sprint(a)), delim), "[]")
+}
 func getGalaxyDistance (galaxy galaxy) int {
 	min := -1
 	for _, v := range galaxy.distances {
