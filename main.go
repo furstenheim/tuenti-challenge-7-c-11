@@ -42,6 +42,7 @@ func main() {
 }
 
 func travelUniverse (universe universe) universe {
+	fmt.Println(universe.color2id)
 	v0 := visit{color: 0, distance: 0, justArrived: true, galaxy: 0}
 	insertVisit(universe.visits, v0)
 	v1, areThereVisits := universe.visits.Pop()
@@ -171,10 +172,12 @@ func wrapUpGalaxy (universe *universe, galaxyId uint) {
 			}
 		}
 	}*/
-	for color, _ := range galaxy.wormholes {
-		for otherColor, _ := range galaxy.wormholes {
-			if ((otherColor != color) && ((otherColor & color) == otherColor)) {
-				delete(galaxy.wormholes, color)
+	for _, wormholes := range galaxy.wormholes {
+		for color, _:= range wormholes {
+			for otherColor, _ := range wormholes {
+				if ((otherColor != color) && contained(otherColor, color)) {
+					delete(wormholes, color)
+				}
 			}
 		}
 	}
