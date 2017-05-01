@@ -16,12 +16,17 @@ func main() {
 	numberOfUniverses, _ := strconv.Atoi(strings.Trim(universeLine, "\n"))
 	universeIndex := 1
 	for numberOfUniverses > 0 {
+		printedIndex := strconv.Itoa(universeIndex)
+		os.Stderr.WriteString("--------" + printedIndex + "\n")
+
 		mUniverse := universe{galaxies: []galaxy{}, visits: pq.New(), color2id: make(map[string]uint), primary2shift: make(map[string]uint), numPrimCol: 0}
 		mUniverse.color2id["Void"] = 0
 		colorsLine, _ := reader.ReadString('\n')
+		os.Stderr.WriteString(colorsLine)
 		numberOfColours, _ := strconv.Atoi(strings.Trim(colorsLine, "\n"))
 		for (numberOfColours > 0) {
 			colorLine, _ := reader.ReadString('\n')
+			os.Stderr.WriteString(colorLine)
 			aColorLine := strings.Split(strings.Trim(colorLine, "\n"), " ")
 			colorName := aColorLine[0]
 			composed, _ := strconv.Atoi(aColorLine[1])
@@ -33,14 +38,17 @@ func main() {
 			numberOfColours -= 1
 		}
 		galaxiesLine, _ := reader.ReadString('\n')
+		os.Stderr.WriteString(galaxiesLine)
 		numberOfGalaxies, _ := strconv.Atoi(strings.Trim(galaxiesLine, "\n"))
 		galaxyId := 0
 		for (numberOfGalaxies > 0) {
 			createGalaxy(&mUniverse)
 			colorsLine, _ := reader.ReadString('\n')
+			os.Stderr.WriteString(colorsLine)
 			numberOfColours, _ := strconv.Atoi(strings.Trim(colorsLine, "\n"))
 			for (numberOfColours > 0) {
 				colorLine, _ := reader.ReadString('\n')
+				os.Stderr.WriteString(colorLine)
 				aColorLine := strings.Split(strings.Trim(colorLine, "\n"), " ")
 				colorName := aColorLine[0]
 				time, _ := strconv.Atoi(aColorLine[1])
@@ -51,9 +59,11 @@ func main() {
 			galaxyId += 1
 		}
 		wormHolesLine, _ := reader.ReadString('\n')
+		os.Stderr.WriteString(wormHolesLine)
 		numberOfWormholes, _ := strconv.Atoi(strings.Trim(wormHolesLine, "\n"))
 		for (numberOfWormholes > 0) {
 			wormholeLine, _ := reader.ReadString('\n')
+			os.Stderr.WriteString(wormholeLine)
 			aWormholeLine := strings.Split(strings.Trim(wormholeLine, "\n"), " ")
 			color := aWormholeLine[0]
 			idInit, _ := strconv.Atoi(aWormholeLine[1])
@@ -95,7 +105,7 @@ func travelUniverse (universe universe) universe {
 func visitTheGalaxy (universe *universe, visit visit) bool {
 	galaxy := universe.galaxies[visit.galaxy]
 	distance, isVisited := galaxy.distances[visit.color]
-	if (!isVisited || (distance > visit.distance)) {
+	if (!isVisited || (distance > visit.distance) || visit.justArrived) {
 		// Initiate all subcolors
 		for _, color := range universe.color2id {
 			if (contained(color, visit.color)) {
@@ -107,7 +117,7 @@ func visitTheGalaxy (universe *universe, visit visit) bool {
 		}
 		return true
 	}
-	return true
+	return false
 }
 
 func planNewVisits (universe universe, visit visit) []visit {
@@ -182,15 +192,32 @@ func createGalaxy (universe *universe) {
 func addChargeToGalaxy (universe *universe, galaxyId uint, color string, time uint32) {
 	id := universe.color2id[color]
 	galaxy := universe.galaxies[galaxyId]
-	galaxy.charges[id] = time
-	/*
-	_, hasCharge := galaxy.charges[time]
-	if (hasCharge) {
-		galaxy.charges[time] = galaxy.charges[time] | id
-	} else {
-		galaxy.charges[time] = id
+	timeToCharge, ok := galaxy.charges[id]
+	if (!ok || (timeToCharge > time)) {
+		galaxy.charges[id] = time
+		// Clean duplicates
+		for color, distance := range(galaxy.charges) {
+			compounedColor := color | id
+			requiredTime := distance + time
+			if (contained(color, id)) {
+				if (color != id) {
+					// Case covered in color === id
+					continue
+				}
+				requiredTime = time
+			}
+			compounedColorTime, compounedExisted := galaxy.charges[compounedColor]
+			if (!compounedExisted || (compounedColorTime > requiredTime)) {
+				galaxy.charges[compounedColor] = requiredTime
+				for smallColor, smallerDistance :=range (galaxy.charges) {
+					if (contained(smallColor, compounedColor) && smallerDistance > requiredTime) {
+						delete(galaxy.charges, smallColor)
+					}
+				}
+			}
+		}
+
 	}
-	*/
 }
 
 func wrapUpGalaxy (universe *universe, galaxyId uint) {
