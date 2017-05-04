@@ -174,8 +174,8 @@ func addColorToUniverse (universe *universe, name string, number uint, primaries
 	} else {
 		newid = 0
 		for _,primary := range primaries {
-			shift := universe.primary2shift[primary]
-			newid += (1 << shift)
+			shift, _ := universe.color2id[primary]
+			newid = newid | shift
 		}
 		universe.color2id[name] = newid
 	}
